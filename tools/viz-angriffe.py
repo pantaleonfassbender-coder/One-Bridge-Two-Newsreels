@@ -13,19 +13,19 @@ W, H = 900, 440
 
 def build(en):
     title = "Aircraft and rockets against the bridge" if en else "Flugzeuge und Raketen gegen die Brücke"
-    sub = ("8–17 March 1945, after MacDonald. Aircraft: American antiaircraft estimates; rockets: schematic, not to scale."
-           if en else "8.–17. März 1945, nach MacDonald. Flugzeuge: Schätzung der amerikanischen Flak; Raketen: Schema, nicht maßstäblich.")
-    desc = ("Left: 367 German aircraft attacked from 8 to 16 March; American antiaircraft units estimated 109 destroyed and 36 probably destroyed, leaving 222. "
+    sub = ("8–17 March 1945, after MacDonald. Aircraft: count and claims of the American antiaircraft units; rockets: schematic, not to scale."
+           if en else "8.–17. März 1945, nach MacDonald. Flugzeuge: Zählung und Meldungen der amerikanischen Flak; Raketen: Schema, nicht maßstäblich.")
+    desc = ("Left: by the count of the American antiaircraft units 367 German aircraft attacked from 8 to 16 March; they claimed 109 destroyed and 36 probably destroyed, leaving 222. The claims were too high: on 8 March all eight Ju 87s were claimed, while German records show five lost and one emergency landing. "
             "Right: eleven V-2 rockets fired from 12 to 17 March: one hit a house 300 yards east of the bridge, killing three American soldiers and wounding fifteen; three fell in the river near the bridge; five west of the bridge; one near Cologne; one never located."
             if en else
-            "Links: 367 deutsche Flugzeuge griffen vom 8. bis 16. März an; die amerikanische Flak schätzte 109 zerstört und 36 wahrscheinlich zerstört, 222 übrige. "
+            "Links: Nach Zählung der amerikanischen Flak griffen vom 8. bis 16. März 367 deutsche Flugzeuge an; sie meldete 109 als zerstört und 36 als wahrscheinlich zerstört, 222 übrige. Die Meldungen lagen zu hoch: Am 8. März wurden alle acht Ju 87 gemeldet, nach deutschen Unterlagen gingen fünf verloren und eine musste notlanden. "
             "Rechts: elf V-2 vom 12. bis 17. März: eine traf ein Haus 300 Yards östlich der Brücke, drei amerikanische Soldaten tot, fünfzehn verwundet; drei fielen nahe der Brücke in den Fluss; fünf westlich der Brücke; eine bei Köln; eine wurde nie gefunden.")
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" role="img" aria-labelledby="an-t an-d" font-family="var(--serif)">',
          f'<title id="an-t">{escape(title)}</title><desc id="an-d">{escape(desc)}</desc>',
          f'<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">{escape(title)}</text>',
          f'<text x="16" y="48" font-size="13" fill="var(--ink2)">{escape(sub)}</text>']
     # links: Flugzeuge als Punktraster, 367 Punkte
-    o.append(f'<a href="{T}luftwaffe/3"><text x="30" y="84" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">{"367 attacking aircraft" if en else "367 angreifende Flugzeuge"}</text></a>')
+    o.append(f'<a href="{T}luftwaffe/3"><text x="30" y="84" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">{"367 attackers by the antiaircraft count" if en else "367 Angreifer nach Zählung der Flak"}</text></a>')
     cols, r, gap, x0, y0 = 23, 4.2, 11.5, 36, 104
     for i in range(367):
         cx, cy = x0 + (i % cols) * gap, y0 + (i // cols) * gap
@@ -36,8 +36,8 @@ def build(en):
         else:
             o.append(f'<circle cx="{cx:.1f}" cy="{cy:.1f}" r="{r - 1.6}" fill="var(--line)"/>')
     ly = y0 + 16 * gap + 18
-    for k, (lab, de, en_) in enumerate([("fill", "109 zerstört", "109 destroyed"), ("ring", "36 wahrscheinlich", "36 probably"), ("dot", "222 übrige", "222 others")]):
-        xx = 40 + k * 140
+    for k, (lab, de, en_) in enumerate([("fill", "109 als zerstört gemeldet", "109 claimed destroyed"), ("ring", "36 wahrscheinlich", "36 probably"), ("dot", "222 übrige", "222 others")]):
+        xx = 40 + k * (170 if k == 1 else 150)
         if lab == "fill":
             o.append(f'<circle cx="{xx}" cy="{ly}" r="5" fill="var(--deutsch)"/>')
         elif lab == "ring":
@@ -45,6 +45,9 @@ def build(en):
         else:
             o.append(f'<circle cx="{xx}" cy="{ly}" r="3" fill="var(--line)"/>')
         o.append(f'<text x="{xx + 9}" y="{ly + 4}" font-size="12" fill="var(--ink)">{escape(en_ if en else de)}</text>')
+    for k, line in enumerate(["Claims too high: on 8 March 8 Ju 87s claimed, 5 lost and", "1 emergency landing (German records, recent literature)."] if en else
+                             ["Meldungen zu hoch: am 8. März 8 Ju 87 gemeldet, 5 verloren", "und 1 Notlandung (deutsche Unterlagen, neuere Literatur)."]):
+        o.append(f'<a href="{T}luftwaffe/3"><text x="30" y="{ly + 30 + k * 16}" font-size="11.5" fill="var(--ink)" text-decoration="underline">{escape(line)}</text></a>')
     # rechts: Schema Rhein, Brücke, Einschläge
     rx = 470
     o.append(f'<a href="{T}fernwaffen/6"><text x="{rx}" y="84" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">{"Eleven V-2s, 12–17 March" if en else "Elf V-2, 12.–17. März"}</text></a>')

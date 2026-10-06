@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" role="img" aria-labelledby="an-t an-d" font-family="var(--serif)">
-<title id="an-t">Aircraft and rockets against the bridge</title><desc id="an-d">Left: 367 German aircraft attacked from 8 to 16 March; American antiaircraft units estimated 109 destroyed and 36 probably destroyed, leaving 222. Right: eleven V-2 rockets fired from 12 to 17 March: one hit a house 300 yards east of the bridge, killing three American soldiers and wounding fifteen; three fell in the river near the bridge; five west of the bridge; one near Cologne; one never located.</desc>
+<title id="an-t">Aircraft and rockets against the bridge</title><desc id="an-d">Left: by the count of the American antiaircraft units 367 German aircraft attacked from 8 to 16 March; they claimed 109 destroyed and 36 probably destroyed, leaving 222. The claims were too high: on 8 March all eight Ju 87s were claimed, while German records show five lost and one emergency landing. Right: eleven V-2 rockets fired from 12 to 17 March: one hit a house 300 yards east of the bridge, killing three American soldiers and wounding fifteen; three fell in the river near the bridge; five west of the bridge; one near Cologne; one never located.</desc>
 <text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Aircraft and rockets against the bridge</text>
-<text x="16" y="48" font-size="13" fill="var(--ink2)">8–17 March 1945, after MacDonald. Aircraft: American antiaircraft estimates; rockets: schematic, not to scale.</text>
-<a href="#/text/angriffe/luftwaffe/3"><text x="30" y="84" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">367 attacking aircraft</text></a>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">8–17 March 1945, after MacDonald. Aircraft: count and claims of the American antiaircraft units; rockets: schematic, not to scale.</text>
+<a href="#/text/angriffe/luftwaffe/3"><text x="30" y="84" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">367 attackers by the antiaircraft count</text></a>
 <circle cx="36.0" cy="104.0" r="4.2" fill="var(--deutsch)"/>
 <circle cx="47.5" cy="104.0" r="4.2" fill="var(--deutsch)"/>
 <circle cx="59.0" cy="104.0" r="4.2" fill="var(--deutsch)"/>
@@ -371,11 +371,13 @@
 <circle cx="266.0" cy="276.5" r="2.6" fill="var(--line)"/>
 <circle cx="277.5" cy="276.5" r="2.6" fill="var(--line)"/>
 <circle cx="40" cy="306.0" r="5" fill="var(--deutsch)"/>
-<text x="49" y="310.0" font-size="12" fill="var(--ink)">109 destroyed</text>
-<circle cx="180" cy="306.0" r="5" fill="var(--panel)" stroke="var(--deutsch)" stroke-width="1.5"/>
-<text x="189" y="310.0" font-size="12" fill="var(--ink)">36 probably</text>
-<circle cx="320" cy="306.0" r="3" fill="var(--line)"/>
-<text x="329" y="310.0" font-size="12" fill="var(--ink)">222 others</text>
+<text x="49" y="310.0" font-size="12" fill="var(--ink)">109 claimed destroyed</text>
+<circle cx="210" cy="306.0" r="5" fill="var(--panel)" stroke="var(--deutsch)" stroke-width="1.5"/>
+<text x="219" y="310.0" font-size="12" fill="var(--ink)">36 probably</text>
+<circle cx="340" cy="306.0" r="3" fill="var(--line)"/>
+<text x="349" y="310.0" font-size="12" fill="var(--ink)">222 others</text>
+<a href="#/text/angriffe/luftwaffe/3"><text x="30" y="336.0" font-size="11.5" fill="var(--ink)" text-decoration="underline">Claims too high: on 8 March 8 Ju 87s claimed, 5 lost and</text></a>
+<a href="#/text/angriffe/luftwaffe/3"><text x="30" y="352.0" font-size="11.5" fill="var(--ink)" text-decoration="underline">1 emergency landing (German records, recent literature).</text></a>
 <a href="#/text/angriffe/fernwaffen/6"><text x="470" y="84" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">Eleven V-2s, 12–17 March</text></a>
 <path d="M620,100 C640,200 610,300 640,400 L700,400 C670,300 700,200 680,100 Z" fill="var(--us)" opacity="0.18"/>
 <text x="645" y="150" text-anchor="middle" font-size="12" font-style="italic" fill="var(--ink2)">Rhine</text>

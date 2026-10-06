@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" role="img" aria-labelledby="an-t an-d" font-family="var(--serif)">
-<title id="an-t">Flugzeuge und Raketen gegen die Brücke</title><desc id="an-d">Links: 367 deutsche Flugzeuge griffen vom 8. bis 16. März an; die amerikanische Flak schätzte 109 zerstört und 36 wahrscheinlich zerstört, 222 übrige. Rechts: elf V-2 vom 12. bis 17. März: eine traf ein Haus 300 Yards östlich der Brücke, drei amerikanische Soldaten tot, fünfzehn verwundet; drei fielen nahe der Brücke in den Fluss; fünf westlich der Brücke; eine bei Köln; eine wurde nie gefunden.</desc>
+<title id="an-t">Flugzeuge und Raketen gegen die Brücke</title><desc id="an-d">Links: Nach Zählung der amerikanischen Flak griffen vom 8. bis 16. März 367 deutsche Flugzeuge an; sie meldete 109 als zerstört und 36 als wahrscheinlich zerstört, 222 übrige. Die Meldungen lagen zu hoch: Am 8. März wurden alle acht Ju 87 gemeldet, nach deutschen Unterlagen gingen fünf verloren und eine musste notlanden. Rechts: elf V-2 vom 12. bis 17. März: eine traf ein Haus 300 Yards östlich der Brücke, drei amerikanische Soldaten tot, fünfzehn verwundet; drei fielen nahe der Brücke in den Fluss; fünf westlich der Brücke; eine bei Köln; eine wurde nie gefunden.</desc>
 <text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Flugzeuge und Raketen gegen die Brücke</text>
-<text x="16" y="48" font-size="13" fill="var(--ink2)">8.–17. März 1945, nach MacDonald. Flugzeuge: Schätzung der amerikanischen Flak; Raketen: Schema, nicht maßstäblich.</text>
-<a href="#/text/angriffe/luftwaffe/3"><text x="30" y="84" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">367 angreifende Flugzeuge</text></a>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">8.–17. März 1945, nach MacDonald. Flugzeuge: Zählung und Meldungen der amerikanischen Flak; Raketen: Schema, nicht maßstäblich.</text>
+<a href="#/text/angriffe/luftwaffe/3"><text x="30" y="84" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">367 Angreifer nach Zählung der Flak</text></a>
 <circle cx="36.0" cy="104.0" r="4.2" fill="var(--deutsch)"/>
 <circle cx="47.5" cy="104.0" r="4.2" fill="var(--deutsch)"/>
 <circle cx="59.0" cy="104.0" r="4.2" fill="var(--deutsch)"/>
@@ -371,11 +371,13 @@
 <circle cx="266.0" cy="276.5" r="2.6" fill="var(--line)"/>
 <circle cx="277.5" cy="276.5" r="2.6" fill="var(--line)"/>
 <circle cx="40" cy="306.0" r="5" fill="var(--deutsch)"/>
-<text x="49" y="310.0" font-size="12" fill="var(--ink)">109 zerstört</text>
-<circle cx="180" cy="306.0" r="5" fill="var(--panel)" stroke="var(--deutsch)" stroke-width="1.5"/>
-<text x="189" y="310.0" font-size="12" fill="var(--ink)">36 wahrscheinlich</text>
-<circle cx="320" cy="306.0" r="3" fill="var(--line)"/>
-<text x="329" y="310.0" font-size="12" fill="var(--ink)">222 übrige</text>
+<text x="49" y="310.0" font-size="12" fill="var(--ink)">109 als zerstört gemeldet</text>
+<circle cx="210" cy="306.0" r="5" fill="var(--panel)" stroke="var(--deutsch)" stroke-width="1.5"/>
+<text x="219" y="310.0" font-size="12" fill="var(--ink)">36 wahrscheinlich</text>
+<circle cx="340" cy="306.0" r="3" fill="var(--line)"/>
+<text x="349" y="310.0" font-size="12" fill="var(--ink)">222 übrige</text>
+<a href="#/text/angriffe/luftwaffe/3"><text x="30" y="336.0" font-size="11.5" fill="var(--ink)" text-decoration="underline">Meldungen zu hoch: am 8. März 8 Ju 87 gemeldet, 5 verloren</text></a>
+<a href="#/text/angriffe/luftwaffe/3"><text x="30" y="352.0" font-size="11.5" fill="var(--ink)" text-decoration="underline">und 1 Notlandung (deutsche Unterlagen, neuere Literatur).</text></a>
 <a href="#/text/angriffe/fernwaffen/6"><text x="470" y="84" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">Elf V-2, 12.–17. März</text></a>
 <path d="M620,100 C640,200 610,300 640,400 L700,400 C670,300 700,200 680,100 Z" fill="var(--us)" opacity="0.18"/>
 <text x="645" y="150" text-anchor="middle" font-size="12" font-style="italic" fill="var(--ink2)">Rhein</text>
