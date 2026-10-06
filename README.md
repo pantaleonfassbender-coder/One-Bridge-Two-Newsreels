@@ -1,5 +1,7 @@
 # Eine Brücke, zwei Wochenschauen. Remagen 1945 – One Bridge, Two Newsreels
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23197320.svg)](https://doi.org/10.5281/zenodo.23197320)
+
 Ein zweisprachiger Quellenapparat zur Brücke von Remagen, 7. bis 17. März 1945: Texte und Filme ihrer Zeit, im Original neben einer Übersetzung, die Filme kommentiert an Zeitmarken. Die amerikanischen und britischen Wochenschauen brachten die Brücke ins Kino; die Deutsche Wochenschau schwieg. Der Apparat endet nicht mit dem Einsturz, sondern mit den Lagern am Rhein.
 
 *A bilingual documentary apparatus on the bridge at Remagen, 7–17 March 1945: texts and films of the time, the original beside a translation, the films with commentary at time marks. The American and British newsreels brought the bridge to the cinema; the German newsreel was silent. The apparatus does not end with the collapse but with the camps on the Rhine.*
@@ -35,3 +37,9 @@ Code MIT; redaktionelle Texte CC BY 4.0; Editionen und Übersetzungen CC0 1.0; F
 ## Impressum und Datenschutz
 
 Siehe `legal.html` auf der Site.
+
+## Zitieren
+
+Fassbender, Pantaleon. *Eine Brücke, zwei Wochenschauen. Remagen 1945 – One Bridge, Two Newsreels. Ein zweisprachiger Quellenapparat.* 2026. https://doi.org/10.5281/zenodo.23197320 (alle Versionen; Version 1.0.0: https://doi.org/10.5281/zenodo.23197321). Bitte zitieren Sie für jede wörtlich übernommene Stelle auch die gedruckte Quelle oder den Film. Metadaten: `CITATION.cff`, `.zenodo.json`.
+
+*Please cite the apparatus as above (concept DOI for all versions, or the version DOI), and the printed source or the film for any passage you quote.*

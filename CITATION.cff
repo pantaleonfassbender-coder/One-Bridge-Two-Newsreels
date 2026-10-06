@@ -32,5 +32,13 @@ keywords:
   - World War II
   - digital humanities
 license: MIT
+doi: 10.5281/zenodo.23197320
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23197320
+    description: "Concept-DOI (alle Versionen)"
+  - type: doi
+    value: 10.5281/zenodo.23197321
+    description: "Version 1.0.0"
 version: 1.0.0
 date-released: 2026-10-06
