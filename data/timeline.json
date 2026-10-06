@@ -47,6 +47,19 @@
    "text_en": "In the railway tunnel civilians with children, Volkssturm men, soldiers and some foreign workers crowd together; American phosphorus shells blanket the entrance in smoke, soldiers outside scream as it burns them (p. 216)."
   },
   {
+   "d": "11. März",
+   "d_en": "11 March",
+   "side": "us",
+   "titel": "Die erste Pontonbrücke",
+   "titel_en": "The first treadway bridge",
+   "text": "Um 7 Uhr wird die Pontonbrücke von Remagen nach Erpel für begrenzten Verkehr freigegeben, um Mitternacht eine zweite bei Linz. Am 13. März wird die Ludendorff-Brücke zur Ausbesserung gesperrt (MacDonald, S. 227).",
+   "text_en": "At 0700 the treadway bridge from Remagen to Erpel opens for limited traffic, at midnight a second at Linz. On 13 March the Ludendorff Bridge is closed for repairs (MacDonald, p. 227).",
+   "cite": "#/text/brueckenkopf/uebergaenge/12",
+   "citeLabel": "Der Brückenkopf [12]",
+   "citeLabel_en": "The bridgehead [12]",
+   "plate": "usace_ponton"
+  },
+  {
    "d": "12.–17. März",
    "d_en": "12–17 March",
    "side": "deutsch",
@@ -93,6 +106,18 @@
    "titel_en": "The German newsreel is silent",
    "text": "Die Ausgaben Nr. 754 und Nr. 755, die letzte, zeigen aus dem Westen nur die Abwehrkämpfe an der Rur bzw. gar nichts; Remagen kommt nicht vor (nach den Inhaltsangaben).",
    "text_en": "Issues no. 754 and no. 755, the last, show from the west only the defensive fighting on the Roer, or nothing at all; Remagen does not appear (according to their summaries)."
+  },
+  {
+   "d": "24.–25. März",
+   "d_en": "24–25 March",
+   "side": "us",
+   "titel": "Der Ausbruch",
+   "titel_en": "The breakout",
+   "text": "Ein letzter deutscher Gegenangriff scheitert am 24. März; am 25. bricht die First Army aus dem Brückenkopf aus. Bis zum 24. März kosteten die Kämpfe das III. Korps rund 5 500 Mann, darunter fast 700 Gefallene; die Deutschen verloren allein an Gefangenen mehr als 11 700 (MacDonald, S. 234–235).",
+   "text_en": "A last German counterattack fails on 24 March; on the 25th the First Army breaks out of the bridgehead. Up to 24 March the fighting cost the III Corps some 5,500 casualties, including almost 700 killed; the Germans lost more than 11,700 as prisoners alone (MacDonald, pp. 234–235).",
+   "cite": "#/text/brueckenkopf/ausweitung/19",
+   "citeLabel": "Der Brückenkopf [19]",
+   "citeLabel_en": "The bridgehead [19]"
   },
   {
    "d": "26. März",

@@ -29,12 +29,25 @@ PLATES = {
     # Modul 3
     "mac1973_bruecke": ("ia", MAC.format(224 + 20), (75, 105, 908, 605)),
     "adc3612c_ferne": ("film", "https://archive.org/download/ADC-3612c/ADC-3612c.mp4", 121.0),
+    # Modul 4 (Commons: USACE, NARA; gemeinfrei als Werke der US-Regierung)
+    "usace_ponton": ("commons", "File:212 Cameron bridgehead at Remagen - USACE-p15141coll5-15246.jpeg", None),
+    "united_panzer": ("film", "https://archive.org/download/gov.archives.arc.39162/gov.archives.arc.39162_512kb.mp4", 289.0),
+    "mac1973_luft1948": ("ia", MAC.format(231 + 20), (72, 108, 898, 555)),
+    # Modul 7
+    "nara195343": ("commons", "File:WWII, Europe, Germany, \"U.S. First Army at Remagen Bridge\" - NARA - 195343.jpg", None),
 }
 
 
 def fetch(url):
     with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=120) as r:
         return r.read()
+
+
+def commons(title):
+    import json, urllib.parse
+    u = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode({"action": "query", "titles": title, "prop": "imageinfo", "iiprop": "url", "iiurlwidth": 1400, "format": "json"})
+    ii = next(iter(json.loads(fetch(u))["query"]["pages"].values()))["imageinfo"][0]
+    return Image.open(io.BytesIO(fetch(ii.get("thumburl") or ii["url"])))
 
 
 def frame(url, t):
@@ -68,7 +81,7 @@ def main(ids):
         if kind == "film":
             save(pid, frame(src, arg))
             continue
-        im = Image.open(io.BytesIO(fetch(src)))
+        im = commons(src) if kind == "commons" else Image.open(io.BytesIO(fetch(src)))
         if arg:
             w, h = im.size
             x0, y0, x1, y1 = arg

@@ -211,6 +211,73 @@
      "wer_en": "MacDonald 1973: the news on 7 March"
     }
    ]
+  },
+  {
+   "id": "schmal",
+   "titel": "Ein schmaler Brückenkopf",
+   "titel_en": "A narrow bridgehead",
+   "frage": "Warum wuchs der Brückenkopf so langsam?",
+   "frage_en": "Why did the bridgehead grow so slowly?",
+   "note": "Der Wehrmachtbericht schreibt es dem deutschen Widerstand zu, MacDonald zuerst Eisenhowers Auflage, tausend Yards am Tag, und Hodges der Zaghaftigkeit der eigenen Angriffe. Drei Erklärungen für dieselben Tage.",
+   "note_en": "The Wehrmacht report credits German resistance, MacDonald first Eisenhower's limit of a thousand yards a day, and Hodges the timidity of his own attacks. Three explanations for the same days.",
+   "voices": [
+    {
+     "text": "brueckenkopf",
+     "sec": "bericht",
+     "n": [
+      14
+     ],
+     "wer": "Wehrmachtbericht, 12. März 1945",
+     "wer_en": "Wehrmacht report, 12 March 1945"
+    },
+    {
+     "text": "brueckenkopf",
+     "sec": "auflagen",
+     "n": [
+      4
+     ],
+     "wer": "MacDonald 1973: Eisenhowers Auflage",
+     "wer_en": "MacDonald 1973: Eisenhower's restriction"
+    },
+    {
+     "text": "brueckenkopf",
+     "sec": "ausweitung",
+     "n": [
+      17
+     ],
+     "wer": "MacDonald 1973: Hodges' Urteil",
+     "wer_en": "MacDonald 1973: Hodges' verdict"
+    }
+   ]
+  },
+  {
+   "id": "honnef",
+   "titel": "Honnef",
+   "titel_en": "Honnef",
+   "frage": "Wer hielt Honnef?",
+   "frage_en": "Who held Honnef?",
+   "note": "Nach MacDonald nahm das 311th Infantry Honnef am 10. März, und die 11. Panzerdivision gewann die Stadt am 11. vorübergehend zurück. Das DNB meldet am 11. März, deutsche Truppen hätten den Nordteil zurückgewonnen. Die beiden Stimmen widersprechen sich nicht; sie zählen nur verschieden.",
+   "note_en": "According to MacDonald the 311th Infantry took Honnef on 10 March and the 11th Panzer Division temporarily regained the town on the 11th. The DNB reports on 11 March that German troops regained the northern part. The two voices do not contradict each other; they only count differently.",
+   "voices": [
+    {
+     "text": "brueckenkopf",
+     "sec": "deutsche",
+     "n": [
+      9
+     ],
+     "wer": "MacDonald 1973",
+     "wer_en": "MacDonald 1973"
+    },
+    {
+     "text": "standgericht",
+     "sec": "bericht",
+     "n": [
+      3
+     ],
+     "wer": "DNB, 11. März 1945",
+     "wer_en": "DNB, 11 March 1945"
+    }
+   ]
   }
  ]
 }

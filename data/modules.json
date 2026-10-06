@@ -27,6 +27,19 @@
    "zk_en": "Commands · Scheller · Scheme · Bratge · Tunnel · Explanations"
   },
   {
+   "id": "brueckenkopf",
+   "side": "us",
+   "kurz": "4 · Der Brückenkopf",
+   "kurz_en": "4 · The bridgehead",
+   "warum": "Siebzehn Tage zwischen Übergang und Ausbruch: fast 8 000 Mann in den ersten 24 Stunden, Eisenhowers Auflage von tausend Yards am Tag, Fähren und Pontonbrücken, deutsche Gegenangriffe, die nie zusammenkamen, und eine Rechnung von Tausenden Toten, Verwundeten und Gefangenen.",
+   "warum_en": "Seventeen days between crossing and breakout: almost 8,000 men in the first 24 hours, Eisenhower's limit of a thousand yards a day, ferries and treadway bridges, German counterattacks that never came together, and a bill of thousands dead, wounded and captured.",
+   "quelle": "MacDonald, The Last Offensive (1973), S. 219–235; Wehrmachtberichte 12., 17. und 21. März 1945 (Deutsches Zeitungsportal).",
+   "quelle_en": "MacDonald, The Last Offensive (1973), pp. 219–235; Wehrmacht reports of 12, 17 and 21 March 1945 (Deutsches Zeitungsportal).",
+   "datei": "brueckenkopf",
+   "zk": "Nacht · Auflagen · Deutsche · Übergänge · Bericht · Ausweitung",
+   "zk_en": "Night · Wraps · Germans · Crossings · Report · Expansion"
+  },
+  {
    "id": "standgericht",
    "side": "deutsch",
    "kurz": "5 · Das fliegende Standgericht",
@@ -50,16 +63,6 @@
    "warum_en": "A railway bridge built for war, named after Ludendorff, with a tunnel through the Erpeler Ley and a demolition plan from 1938.",
    "quelle": "MacDonald, Kap. XI (Anlage, Tunnel, Ladungen); ein gemeinfreier Baubericht der Jahre 1916–1919 wird noch gesucht.",
    "quelle_en": "MacDonald, ch. XI (layout, tunnel, charges); a public-domain construction report of 1916–1919 is still being sought."
-  },
-  {
-   "id": "brueckenkopf",
-   "side": "us",
-   "kurz": "4 · Der Brückenkopf",
-   "kurz_en": "4 · The bridgehead",
-   "warum": "Ab dem 7. März: Truppen über die Brücke, Fähren und Pontonbrücken, Flak, der Kampf um den Raum östlich des Rheins.",
-   "warum_en": "From 7 March: troops across the bridge, ferries and treadway bridges, antiaircraft, the fight for the ground east of the Rhine.",
-   "quelle": "MacDonald, Kap. XI–XII; Berichte der First Army und des III Corps (zu prüfen).",
-   "quelle_en": "MacDonald, ch. XI–XII; First Army and III Corps reports (to be checked)."
   },
   {
    "id": "angriffe",

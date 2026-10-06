@@ -1,0 +1,286 @@
+{
+ "id": "brueckenkopf",
+ "titel": "Der Brückenkopf",
+ "titel_en": "The bridgehead",
+ "autor": "Charles B. MacDonald, The Last Offensive (1973); Wehrmachtberichte (März 1945)",
+ "autor_en": "Charles B. MacDonald, The Last Offensive (1973); Wehrmacht reports (March 1945)",
+ "jahr": "7.–24. März 1945",
+ "jahr_en": "7–24 March 1945",
+ "sprache": "de",
+ "orig_sprache": "en",
+ "pg_label": "",
+ "pg_label_en": "",
+ "quelle": "Charles B. MacDonald, The Last Offensive (1973), S. 219–235 in Auswahl, am Seitenbild des Internet Archive gelesen (CMHPub791TheLastOffensive), gemeinfrei als Werk der US-Regierung. Wehrmachtberichte vom 12., 17. und 21. März 1945 nach der Donau-Bodensee-Zeitung (13.3.), dem Zschopauer Tageblatt (19.3.) und dem Wurzener Tageblatt (22.3.), am Seitenbild im Deutschen Zeitungsportal gelesen; amtliche Bekanntmachungen (§ 5 UrhG), die Scans selbst verlinkt.",
+ "quelle_en": "Charles B. MacDonald, The Last Offensive (1973), pp. 219–235 in selection, read against the page images of the Internet Archive (CMHPub791TheLastOffensive), public domain as a work of the US government. Wehrmacht reports of 12, 17 and 21 March 1945 after the Donau-Bodensee-Zeitung (13 March), the Zschopauer Tageblatt (19 March) and the Wurzener Tageblatt (22 March), read against the page images in the Deutsches Zeitungsportal; official announcements, the scans themselves linked.",
+ "hinweis": "Siebzehn Tage zwischen Übergang und Ausbruch: wie aus einer Kompanie auf dem Ostufer ein Brückenkopf von neun Divisionen wurde, unter Auflagen von oben, mit Fähren, Booten und Pontonbrücken, gegen deutsche Gegenangriffe, die nie zusammenkamen. Daneben der Wehrmachtbericht, der vom Brückenkopf spricht und die Brücke verschweigt. Was die Kämpfe die Orte am Rhein kosteten, berichtet keine der beiden Quellen; das bleibt eine Lücke. Text nach dem Druck, Auslassungen […], Druckfehler so belassen und vermerkt; Übersetzungen eigene Arbeit (CC0).",
+ "hinweis_en": "Seventeen days between crossing and breakout: how a company on the east bank became a bridgehead of nine divisions, under restrictions from above, with ferries, boats and treadway bridges, against German counterattacks that never came together. Beside it the Wehrmacht report, which speaks of the bridgehead and is silent about the bridge. What the fighting cost the towns along the Rhine, neither source reports; that remains a gap. Text after the print, omissions […], misprints kept and noted; translations my own (CC0).",
+ "sections": [
+  {
+   "id": "nacht",
+   "titel": "Die erste Nacht",
+   "titel_en": "The first night",
+   "zk": "Brückenkopf · Nacht",
+   "zk_en": "Bridgehead · Night",
+   "blurb": "Artillerie bezieht Stellung, Pioniere flicken die Bohlen, neun Panzer kommen hinüber, ein Jagdpanzer bricht ein. Bis zum Abend des 8. März sind fast 8 000 Mann über den Rhein.",
+   "blurb_en": "Artillery moves into position, engineers patch the planking, nine tanks cross, a tank destroyer breaks through. By the evening of 8 March almost 8,000 men are across the Rhine.",
+   "plates": [
+    "united_panzer"
+   ],
+   "viz": "brueckenkopf",
+   "units": [
+    {
+     "n": 1,
+     "pg": "S. 219–220",
+     "lang": "en",
+     "titel": "Die Nacht zum 8. März",
+     "titel_en": "The night of 7 March",
+     "orig": "Engineers, artillery, antiaircraft—units of all types stirred in the early darkness and headed for Remagen. All roads leading toward the little Rhine town soon were thick with traffic. Before midnight three heavy caliber artillery battalions already were in position to fire in support of the little band of infantrymen east of the Rhine.\n\nAt the bridge, the handful of engineers from Task Force Engeman worked unceasingly to repair the damage the demolition had done to the flooring of the bridge. Although considerable work remained, the engineers shortly before midnight signaled that tanks might try to cross.",
+     "de": "Pioniere, Artillerie, Flak: Einheiten aller Art regten sich in der frühen Dunkelheit und machten sich auf den Weg nach Remagen. Bald waren alle Straßen zu dem kleinen Rheinstädtchen voller Verkehr. Vor Mitternacht standen schon drei Bataillone schwerer Artillerie bereit, um die kleine Schar Infanteristen östlich des Rheins mit Feuer zu unterstützen.\n\nAn der Brücke arbeitete die Handvoll Pioniere der Task Force Engeman unablässig daran, die Schäden auszubessern, die die Sprengung an der Fahrbahn angerichtet hatte. Obwohl noch viel zu tun blieb, gaben die Pioniere kurz vor Mitternacht das Zeichen, Panzer könnten den Übergang versuchen."
+    },
+    {
+     "n": 2,
+     "pg": "S. 220",
+     "lang": "en",
+     "titel": "Ein Jagdpanzer im Loch",
+     "titel_en": "A tank destroyer in the hole",
+     "orig": "Nine Sherman tanks of the 14th Tank Battalion crossed without incident, but the first tank destroyer to try it foundered in an unrepaired hole in the planking. The vehicle appeared to teeter precariously over the swirling waters far below, but for almost five hours every effort either to right the destroyer or to dump it into the river failed. At 0530 (8 March) the vehicle was at last removed.\n\nIn the 27th Armored Infantry Battalion's minuscule bridgehead, the infantrymen and their limited tank support spent a troubled night fighting off platoon-size counterattacks along their undermanned perimeter and expecting the Germans at any moment to strike in force. At dawn, when the disabled tank destroyer was removed from the bridge, the arrival of a battalion of the 78th Division's 310th Infantry relieved the pressure. As the first vestiges of daylight appeared, a battalion of the 9th Division's 47th Infantry also crossed into the bridgehead.",
+     "de": "Neun Sherman-Panzer des 14th Tank Battalion kamen ohne Zwischenfall hinüber, aber der erste Jagdpanzer, der es versuchte, brach in ein noch nicht ausgebessertes Loch in den Bohlen ein. Das Fahrzeug schien gefährlich über dem strudelnden Wasser tief unten zu schwanken, doch fast fünf Stunden lang scheiterte jeder Versuch, es aufzurichten oder in den Fluss zu stürzen. Um 5.30 Uhr (8. März) war es endlich weggeschafft.\n\nIm winzigen Brückenkopf des 27th Armored Infantry Battalion verbrachten die Infanteristen mit ihrer schwachen Panzerunterstützung eine unruhige Nacht; sie wehrten an ihrem zu dünn besetzten Rand Gegenangriffe in Zugstärke ab und erwarteten jeden Augenblick, dass die Deutschen mit starken Kräften zuschlügen. Als bei Tagesanbruch der liegengebliebene Jagdpanzer von der Brücke geschafft war, brachte die Ankunft eines Bataillons des 310th Infantry der 78th Division Entlastung. Mit dem ersten Tageslicht kam auch ein Bataillon des 47th Infantry der 9th Division in den Brückenkopf."
+    },
+    {
+     "n": 3,
+     "pg": "S. 220",
+     "lang": "en",
+     "titel": "8 000 Mann in 24 Stunden",
+     "titel_en": "8,000 men in 24 hours",
+     "orig": "In the twenty-four hours following seizure of the bridge, almost 8,000 men crossed the Rhine, including two armored infantry battalions, a tank battalion, a tank destroyer company, and a platoon of armored engineers of the 9th Armored Division; a regiment and two additional battalions of the 78th Division; a regiment and one additional battalion of the 9th Division; and one and a half batteries of antiaircraft artillery.",
+     "de": "In den vierundzwanzig Stunden nach der Einnahme der Brücke gingen fast 8 000 Mann über den Rhein, darunter zwei Panzergrenadierbataillone, ein Panzerbataillon, eine Jagdpanzerkompanie und ein Zug Panzerpioniere der 9th Armored Division; ein Regiment und zwei weitere Bataillone der 78th Division; ein Regiment und ein weiteres Bataillon der 9th Division; und anderthalb Batterien Flak."
+    }
+   ]
+  },
+  {
+   "id": "auflagen",
+   "titel": "Unter Auflagen",
+   "titel_en": "Under wraps",
+   "zk": "Brückenkopf · Auflagen",
+   "zk_en": "Bridgehead · Wraps",
+   "blurb": "Eisenhower will den Brückenkopf halten, aber nicht ausweiten: tausend Yards am Tag, nicht über die Autobahn. Millikin plant drei Phasenlinien, Hodges drängt, Montgomery bleibt der Hauptstoß.",
+   "blurb_en": "Eisenhower wants the bridgehead held but not enlarged: a thousand yards a day, not beyond the autobahn. Millikin plans three phase lines, Hodges presses, Montgomery remains the main effort.",
+   "units": [
+    {
+     "n": 4,
+     "pg": "S. 220",
+     "lang": "en",
+     "titel": "Tausend Yards am Tag",
+     "titel_en": "A thousand yards a day",
+     "orig": "During that twenty-four hours and into the next day, 9 March, General Eisenhower's initial jubilation over capture of the Ludendorff Bridge cooled under the impact of admonitions from his staff. Committed to a main effort north of the Ruhr with the 21 Army Group, he actually had few reserves to spare for Remagen. Late on 9 March his G–3, General Bull, informed General Bradley that while the Supreme Commander wanted the brideghead held firmly and developed for an early advance southeastward, he did not want it enlarged to a size greater than five divisions could defend. Bradley in turn told General Hodges to limit advances to a thousand yards a day, just enough to keep the enemy off balance and prevent him from mining extensively around the periphery. Once the troops reached the autobahn, seven miles beyond the Rhine, they were to hold in place until General Eisenhower ordered expansion. Thus, almost from the start, the forces in the Remagen bridgehead were to operate under wraps that would not be removed for more than a fortnight.",
+     "de": "In diesen vierundzwanzig Stunden und bis in den nächsten Tag, den 9. März, kühlte General Eisenhowers anfänglicher Jubel über die Einnahme der Ludendorff-Brücke unter den Mahnungen seines Stabes ab. Gebunden an einen Hauptstoß nördlich der Ruhr mit der 21 Army Group, hatte er in Wahrheit wenig Reserven für Remagen übrig. Spät am 9. März teilte sein G-3, General Bull, General Bradley mit, der Oberbefehlshaber wolle den Brückenkopf zwar fest gehalten und für einen baldigen Vorstoß nach Südosten ausgebaut sehen, aber nicht größer, als fünf Divisionen ihn verteidigen könnten. Bradley wies daraufhin General Hodges an, den Vormarsch auf tausend Yards am Tag zu beschränken, gerade genug, um den Feind aus dem Gleichgewicht zu bringen und ihn daran zu hindern, den Rand in großem Umfang zu verminen. Hätten die Truppen die Autobahn erreicht, sieben Meilen jenseits des Rheins, sollten sie dort halten, bis General Eisenhower die Ausweitung befahl. So operierten die Kräfte im Brückenkopf Remagen fast von Anfang an unter Auflagen, die mehr als zwei Wochen lang nicht aufgehoben wurden.",
+     "note": "„brideghead“ so im Druck. Tausend Yards sind rund 900 Meter. Die Ludendorff-Brücke war nicht der Hauptstoß, sondern eine Gelegenheit am Rand des Plans.",
+     "note_en": "‘brideghead’ thus in the print. The Ludendorff Bridge was not the main effort but an opportunity at the edge of the plan."
+    },
+    {
+     "n": 5,
+     "pg": "S. 223–225",
+     "lang": "en",
+     "titel": "Drei Phasenlinien",
+     "titel_en": "Three phase lines",
+     "orig": "Almost from the start, the First Army's General Hodges was dissatisfied with the way his corps commander, General Millikin, handled the problems both at the bridge and in the bridgehead. Hodges and some members of his staff complained long and vocally that control was poor on both sides of the river and that accurate information on troop dispositions beyond the Rhine was lacking. […]\n\nTo General Millikin, the way to overcome his problems was not to make bold thrusts here and there but to expand the entire periphery of the bridgehead systematically. On 8 March he ordered a controlled advance to three successive phase lines: the first—two and a half miles north and south of the Ludendorff Bridge and about two miles deep—designed to free the bridge site from small arms fire; the second designed to eliminate observed artillery fire; and the third—extending as far north as Bonn, as far south as Andernach, and east well beyond the autobahn—designed to free the bridge site of all shelling.",
+     "de": "Fast von Anfang an war General Hodges von der First Army unzufrieden damit, wie sein Korpskommandeur, General Millikin, die Schwierigkeiten an der Brücke und im Brückenkopf bewältigte. Hodges und einige seiner Stabsoffiziere klagten lange und laut, die Führung sei auf beiden Seiten des Flusses schlecht und es fehle an genauen Nachrichten über die Truppen jenseits des Rheins. […]\n\nFür General Millikin lag der Weg aus seinen Schwierigkeiten nicht in kühnen Vorstößen hier und da, sondern darin, den ganzen Rand des Brückenkopfes planmäßig auszuweiten. Am 8. März befahl er einen gesteuerten Vormarsch auf drei aufeinanderfolgende Phasenlinien: die erste, zweieinhalb Meilen nördlich und südlich der Ludendorff-Brücke und etwa zwei Meilen tief, sollte die Brückenstelle vom Gewehrfeuer befreien; die zweite das beobachtete Artilleriefeuer ausschalten; und die dritte, die nach Norden bis Bonn, nach Süden bis Andernach und nach Osten weit über die Autobahn reichte, die Brückenstelle von jedem Beschuss befreien."
+    },
+    {
+     "n": 6,
+     "pg": "S. 232",
+     "lang": "en",
+     "titel": "13. März: kein Ausbruch",
+     "titel_en": "13 March: no breakout",
+     "orig": "From this restriction, it was obvious that Eisenhower had no wish to see the bridgehead expanded appreciably. General Bradley in turn told the First Army to advance no farther than a line approximately twenty-five miles wide at the base along the Rhine and ten miles deep, in effect, a slight expansion of the third phase line that the III Corps commander, General Millikin, earlier had imposed.\n\nThe First Army's General Hodges disagreed, though to no avail. Like almost everybody at First Army headquarters, Hodges was piqued about the elaborate preparations Field Marshal Montgomery was making for his 21 Army Group's crossing of the Rhine and the emphasis General Eisenhower continued to place on that crossing when, in Hodges' view, a breakout from the Remagen bridgehead could have been staged at will.",
+     "de": "Aus dieser Einschränkung war klar, dass Eisenhower den Brückenkopf nicht nennenswert erweitert sehen wollte. General Bradley wies die First Army an, nicht über eine Linie hinauszugehen, die am Rhein etwa fünfundzwanzig Meilen breit und zehn Meilen tief war, im Grunde eine leichte Erweiterung der dritten Phasenlinie, die der Kommandeur des III. Korps, General Millikin, früher festgelegt hatte.\n\nGeneral Hodges von der First Army war anderer Meinung, doch vergebens. Wie fast alle im Hauptquartier der First Army ärgerte sich Hodges über die aufwendigen Vorbereitungen, die Feldmarschall Montgomery für den Rheinübergang seiner 21 Army Group traf, und über das Gewicht, das General Eisenhower weiter auf diesen Übergang legte, während man nach Hodges' Ansicht aus dem Brückenkopf Remagen jederzeit hätte ausbrechen können.",
+     "note": "Der Brückenkopf sollte nach Eisenhowers Weisung vom 13. März vor allem deutsche Kräfte von Montgomerys Abschnitt abziehen (S. 231–232).",
+     "note_en": "According to Eisenhower's directive of 13 March the bridgehead was above all to draw German forces away from Montgomery's sector (pp. 231–232)."
+    }
+   ]
+  },
+  {
+   "id": "deutsche",
+   "titel": "Die Deutschen ohne Plan",
+   "titel_en": "The Germans without a plan",
+   "zk": "Brückenkopf · Deutsche",
+   "zk_en": "Bridgehead · Germans",
+   "blurb": "Hundert Pioniere und Flaksoldaten in der ersten Nacht, eine Panzerdivision ohne Benzin, Bayerleins Angriffsplan, den Model verwirft, ein frisches Regiment, das in die Abwehr geht.",
+   "blurb_en": "A hundred engineers and antiaircraft troops on the first night, a panzer division without petrol, Bayerlein's attack plan vetoed by Model, a fresh regiment sent into the defence.",
+   "units": [
+    {
+     "n": 7,
+     "pg": "S. 220–221",
+     "lang": "en",
+     "titel": "Kein Plan, keine Reserven",
+     "titel_en": "No plan, no reserves",
+     "orig": "Like the Americans, the Germans had no plan ready to cope with the situation at Remagen. Indeed, the fact that the U.S. Ninth Army had made no immediate move to jump the Rhine had lulled many German commanders into the belief that the Allies would pause to mop up and regroup before trying to cross; and that had engendered a measure of apathy in regard to the possibility of losing a bridge.\n\nNor did the Germans have any reserves close at hand to throw quickly against the little Remagen bridgehead. Most combat units near Remagen were still on the west bank, struggling to escape American pincers and get back somehow across the Rhine. Most of the service troops in the Remagen area were busy ferrying the depleted combat forces.\n\nAs the news about the Ludendorff Bridge spread slowly through a disorganized German command, officers near Remagen assembled about a hundred engineers and antiaircraft troops and fought through the night of the 7th, but to little avail. One group of Germans did reach the bridge itself with explosives in hand, but men of the 78th Division captured them before they could do any damage.",
+     "de": "Wie die Amerikaner hatten auch die Deutschen keinen Plan für die Lage in Remagen. Dass die US Ninth Army nicht sofort über den Rhein gesprungen war, hatte viele deutsche Befehlshaber in dem Glauben gewiegt, die Alliierten würden vor einem Übergang erst säubern und sich neu gliedern; und das hatte eine gewisse Gleichgültigkeit gegenüber der Möglichkeit erzeugt, eine Brücke zu verlieren.\n\nAuch hatten die Deutschen keine Reserven in der Nähe, die sie rasch gegen den kleinen Brückenkopf Remagen hätten werfen können. Die meisten Kampfverbände bei Remagen standen noch auf dem Westufer und mühten sich, der amerikanischen Zange zu entkommen und irgendwie über den Rhein zurückzugelangen. Die meisten rückwärtigen Truppen im Raum Remagen waren damit beschäftigt, die geschwächten Kampfverbände überzusetzen.\n\nWährend sich die Nachricht von der Ludendorff-Brücke langsam durch eine zerrüttete deutsche Führung verbreitete, sammelten Offiziere bei Remagen etwa hundert Pioniere und Flaksoldaten und kämpften die Nacht zum 8. März hindurch, mit wenig Erfolg. Eine Gruppe Deutscher erreichte mit Sprengstoff in den Händen die Brücke selbst, wurde aber von Männern der 78th Division gefangen, bevor sie Schaden anrichten konnte."
+    },
+    {
+     "n": 8,
+     "pg": "S. 221–222",
+     "lang": "en",
+     "titel": "Die 11. Panzerdivision und Bayerlein",
+     "titel_en": "The 11th Panzer Division and Bayerlein",
+     "orig": "When Model returned during the morning of 8 March, he ordered the 11th Panzer Division, which by that time was preparing to recross the Rhine at Bonn to make the projected counterattack southwest toward Rheinbach, to sweep the Americans into the river and blow the Ludendorff Bridge.\n\nThe 11th Panzer Division had about 4,000 men, 25 tanks, and 18 artillery pieces, a force that well might have struck a telling blow had it been available soon after the first Americans crossed the Rhine. Yet the panzer division, assembled near Duesseldorf, had somehow to obtain gasoline for its vehicles and thread a way along roads already jammed with traffic and under attack from Allied planes. Not until two days later, 10 March, were even the first contingents of the division to get into action against the bridgehead. […]\n\nWhen Model visited Bayerlein's new headquarters on 9 March, Bayerlein outlined a plan to attack at dusk on 10 March against the center of the bridgehead, then roll up the flanks. The main component was to be the Kampfgruppe of the Panzer Lehr Division; but when the bulk of that force failed to arrive on time, Model vetoed the entire plan.",
+     "de": "Als Model am Vormittag des 8. März zurückkam, befahl er der 11. Panzerdivision, die sich gerade bei Bonn zum Wiederübergang über den Rhein für den geplanten Gegenangriff nach Südwesten auf Rheinbach bereitmachte, die Amerikaner in den Fluss zu werfen und die Ludendorff-Brücke zu sprengen.\n\nDie 11. Panzerdivision hatte etwa 4 000 Mann, 25 Panzer und 18 Geschütze, eine Kraft, die wohl einen empfindlichen Schlag hätte führen können, wäre sie bald nach dem Übergang der ersten Amerikaner zur Stelle gewesen. Doch die bei Düsseldorf versammelte Division musste sich erst irgendwie Benzin für ihre Fahrzeuge beschaffen und sich auf Straßen voranarbeiten, die schon verstopft waren und von alliierten Flugzeugen angegriffen wurden. Erst zwei Tage später, am 10. März, kamen auch nur ihre ersten Teile gegen den Brückenkopf zum Einsatz. […]\n\nAls Model am 9. März Bayerleins neuen Gefechtsstand besuchte, legte Bayerlein einen Plan vor, in der Abenddämmerung des 10. März die Mitte des Brückenkopfes anzugreifen und dann die Flanken aufzurollen. Hauptteil sollte die Kampfgruppe der Panzer-Lehr-Division sein; doch als deren Masse nicht rechtzeitig eintraf, verwarf Model den ganzen Plan.",
+     "note": "MacDonald stützt diese Seite auf Nachkriegsberichte deutscher Generale für die US Army, Bayerleins „Remagen Bridgehead – LIII Corps“ (MS # A-970) und Wietersheims Bericht über die 11. Panzerdivision (MS # B-590). Sie sind hier nicht abgedruckt.",
+     "note_en": "MacDonald bases this page on postwar reports by German generals for the US Army, Bayerlein's ‘Remagen Bridgehead – LIII Corps’ (MS # A-970) and Wietersheim's report on the 11th Panzer Division (MS # B-590). They are not printed here."
+    },
+    {
+     "n": 9,
+     "pg": "S. 225–226",
+     "lang": "en",
+     "titel": "Honnef",
+     "titel_en": "Honnef",
+     "orig": "As night fell on 10 March, the 78th Division's 311th Infantry had advanced beyond the first phase line and taken Honnef, almost five miles north of the bridge. […]\n\nIndications that the going might become more difficult developed as early as 11 March, when contingents of the 11th Panzer Division counterattacked at Honnef, temporarily regaining the town. On the same day a second volks artillery corps reached the front. On 13 March, as remnants of the 340th Volks Grenadier Division arrived, the German commander, General Bayerlein, put them into the line east of Honnef. Later in the day the 130th Infantry Regiment, a well-equipped and comparatively fresh separate unit of 2,000 men, arrived from the Netherlands. Although Bayerlein wanted to counterattack immediately with the 130th Infantry reinforced by tanks, Field Marshal Model ordered that the regiment be used to bring the 340th Volks Grenadier Division back to reasonable strength. Thus, the 130th too went into the defensive line.",
+     "de": "Als am 10. März die Nacht hereinbrach, war das 311th Infantry der 78th Division über die erste Phasenlinie hinaus vorgerückt und hatte Honnef genommen, fast fünf Meilen nördlich der Brücke. […]\n\nAnzeichen, dass es schwerer werden könnte, gab es schon am 11. März, als Teile der 11. Panzerdivision bei Honnef zum Gegenangriff antraten und die Stadt vorübergehend zurückgewannen. Am selben Tag erreichte ein zweites Volksartilleriekorps die Front. Am 13. März, als Reste der 340. Volksgrenadierdivision eintrafen, setzte der deutsche Befehlshaber, General Bayerlein, sie östlich Honnef in die Linie. Später am Tag traf das Infanterieregiment 130, eine gut ausgerüstete und verhältnismäßig frische selbständige Einheit von 2 000 Mann, aus den Niederlanden ein. Bayerlein wollte sofort mit dem Regiment 130 und Panzern angreifen, aber Generalfeldmarschall Model befahl, mit dem Regiment die 340. Volksgrenadierdivision wieder auf eine brauchbare Stärke zu bringen. So ging auch das Regiment 130 in die Abwehrlinie.",
+     "note": "Die Gegenstöße bei Honnef meldet auch das DNB am 11. März (Modul 5, Einheit 3).",
+     "note_en": "The counterthrusts at Honnef are also reported by the DNB on 11 March (module 5, unit 3)."
+    }
+   ]
+  },
+  {
+   "id": "uebergaenge",
+   "titel": "Fähren, Boote, Brücken",
+   "titel_en": "Ferries, boats, bridges",
+   "zk": "Brückenkopf · Übergänge",
+   "zk_en": "Bridgehead · Crossings",
+   "blurb": "Stau bis Euskirchen, Landungsboote der Navy, Fähren aus Pontons, eine Pontonbrücke unter Beschuss, ab dem 13. März die Ludendorff-Brücke gesperrt.",
+   "blurb_en": "Traffic jams back to Euskirchen, Navy landing craft, ferries made of pontons, a treadway bridge under fire, and from 13 March the Ludendorff Bridge closed.",
+   "plates": [
+    "usace_ponton",
+    "mac1973_luft1948"
+   ],
+   "units": [
+    {
+     "n": 10,
+     "pg": "S. 223",
+     "lang": "en",
+     "titel": "Der Stau",
+     "titel_en": "The jam",
+     "orig": "At Remagen and on the roads leading to the town, congestion was a serious problem. The ancient wall-encircled town of Zuelpich and bomb-devastated Euskirchen particularly were bottlenecks, but the worst difficulty was at the Ludendorff Bridge itself. Although moderately heavy German artillery fire fell almost constantly around the bridge, it failed to halt traffic for any period longer than a quarter-hour. The slow pace imposed on vehicles by the condition of the bridge and by congestion on the east bank still served to back up traffic for several miles outside Remagen.",
+     "de": "In Remagen und auf den Straßen zur Stadt waren die Staus ein ernstes Problem. Vor allem das alte, ummauerte Zülpich und das zerbombte Euskirchen waren Engpässe, aber die größte Schwierigkeit lag an der Ludendorff-Brücke selbst. Zwar fiel fast ununterbrochen mäßig schweres deutsches Artilleriefeuer um die Brücke, doch hielt es den Verkehr nie länger als eine Viertelstunde auf. Das langsame Tempo, das der Zustand der Brücke und das Gedränge am Ostufer den Fahrzeugen aufzwangen, staute den Verkehr dennoch mehrere Meilen vor Remagen."
+    },
+    {
+     "n": 11,
+     "pg": "S. 227",
+     "lang": "en",
+     "titel": "Boote und Fähren",
+     "titel_en": "Boats and ferries",
+     "orig": "At the bridge site, concentrated efforts were made from the start toward supplementing the Ludendorff railroad bridge. One of the first units to arrive for the purpose was Naval Unit No. 1, a U.S. Navy force with twenty-four LCVP's (landing craft, vehicle and personnel) that had been attached to the First Army for some months in anticipation of the Rhine crossings. Also quick to arrive was an engineer unit of the III Corps, the 86th Engineer Heavy Ponton Battalion, with orders to operate three ferries, one well north of the Ludendorff Bridge, one close to the bridge at Remagen, and the third well south of the bridge. As assembled by the engineers, the rafts were made of five pontons covered with wooden flooring. Used as free ferries propelled by 22-hp. outboard motors, the craft began to operate as early as the morning of 9 March. The ferries and LCVP's were augmented on 14 March by dukws (2½-ton amphibious trucks) of the 819th Amphibious Truck Company.",
+     "de": "An der Brückenstelle bemühte man sich von Anfang an mit aller Kraft, die Ludendorff-Eisenbahnbrücke zu ergänzen. Eine der ersten Einheiten dafür war die Naval Unit No. 1, ein Verband der US Navy mit vierundzwanzig LCVP (Landungsbooten für Fahrzeuge und Mannschaften), der der First Army schon seit Monaten für die Rheinübergänge zugeteilt war. Rasch kam auch eine Pioniereinheit des III. Korps, das 86th Engineer Heavy Ponton Battalion, mit dem Befehl, drei Fähren zu betreiben, eine weit nördlich der Ludendorff-Brücke, eine dicht bei der Brücke in Remagen und die dritte weit südlich davon. Die Pioniere bauten die Fähren aus fünf Pontons mit einem Holzbelag. Als freie Fähren mit 22-PS-Außenbordmotoren fuhren sie schon am Morgen des 9. März. Am 14. März kamen zu den Fähren und LCVP die DUKW (Schwimmlastwagen von 2½ Tonnen) der 819th Amphibious Truck Company hinzu."
+    },
+    {
+     "n": 12,
+     "pg": "S. 227",
+     "lang": "en",
+     "titel": "11. März: die erste Pontonbrücke",
+     "titel_en": "11 March: the first treadway bridge",
+     "orig": "Although jammed roads leading to Remagen continued to hamper bridge construction, the most serious delays derived from German artillery fire and air attacks. During 8 and 9 March, the Germans maintained an average rate of one shell every two minutes in the vicinity of the bridge sites, but by 10 March, their fire had fallen off to four or five rounds per hour. Artillery fire during the course of construction of the Remagen treadway bridge destroyed four cranes, two Brockway trucks, two air compressors, three dump trucks, and thirty-two floats. The treadway, nevertheless, was opened for limited traffic at 0700, 11 March, and for full use in late afternoon. A heavy ponton upstream at Linz was opened at midnight on the 11th. On the 13th engineers closed the Ludendorff Bridge in order to repair damage caused by Captain Friesenhahn's emergency demolition.",
+     "de": "Obwohl die verstopften Straßen nach Remagen den Brückenbau weiter behinderten, kamen die schwersten Verzögerungen von deutschem Artilleriefeuer und Luftangriffen. Am 8. und 9. März schossen die Deutschen in der Nähe der Brückenstellen im Durchschnitt eine Granate alle zwei Minuten, am 10. März aber nur noch vier oder fünf in der Stunde. Das Artilleriefeuer während des Baus der Remagener Pontonbrücke zerstörte vier Kräne, zwei Brockway-Lastwagen, zwei Luftkompressoren, drei Kipper und zweiunddreißig Schwimmkörper. Trotzdem wurde die Pontonbrücke am 11. März um 7 Uhr für begrenzten Verkehr und am späten Nachmittag ganz freigegeben. Eine schwere Pontonbrücke stromauf bei Linz wurde um Mitternacht am 11. eröffnet. Am 13. sperrten die Pioniere die Ludendorff-Brücke, um die Schäden von Hauptmann Friesenhahns Notsprengung auszubessern.",
+     "note": "„treadway“: eine Pontonbrücke mit Stahlfahrspuren. Die Brücke, um die es in diesem Apparat geht, war von hier an nicht mehr die einzige und vom 13. März an gesperrt. Sie stürzte am 17. März ein (Modul 7).",
+     "note_en": "From here on the bridge at the centre of this apparatus was no longer the only one, and from 13 March it was closed. It collapsed on 17 March (module 7)."
+    },
+    {
+     "n": 13,
+     "pg": "S. 230–231",
+     "lang": "en",
+     "titel": "Nach dem Einsturz",
+     "titel_en": "After the collapse",
+     "orig": "The loss of the Ludendorff Bridge had no effect on operations in the Remagen bridgehead. The bridge had been closed for repairs since 13 March, and the forces in the bridgehead already were accustomed to working without it. General Hodges nevertheless quickly authorized construction of a floating Bailey bridge about a mile downstream from Remagen. In a remarkable engineering feat, the Bailey bridge was completed in just under forty-eight hours and opened for traffic on 20 March.",
+     "de": "Der Verlust der Ludendorff-Brücke wirkte sich auf die Operationen im Brückenkopf Remagen nicht aus. Die Brücke war seit dem 13. März zur Ausbesserung gesperrt, und die Truppen im Brückenkopf waren es schon gewohnt, ohne sie auszukommen. General Hodges genehmigte dennoch rasch den Bau einer schwimmenden Bailey-Brücke etwa eine Meile stromab von Remagen. In einer bemerkenswerten Pionierleistung war die Bailey-Brücke in knapp achtundvierzig Stunden fertig und wurde am 20. März für den Verkehr freigegeben.",
+     "note": "„no effect“: militärisch. Achtundzwanzig Pioniere starben beim Einsturz (Modul 7).",
+     "note_en": "‘No effect’: militarily. Twenty-eight engineers died in the collapse (module 7)."
+    }
+   ]
+  },
+  {
+   "id": "bericht",
+   "titel": "Der Brückenkopf im Wehrmachtbericht",
+   "titel_en": "The bridgehead in the Wehrmacht report",
+   "zk": "Brückenkopf · Bericht",
+   "zk_en": "Bridgehead · Report",
+   "blurb": "„Schmal“, „wechselvoll“, „zum Stehen gebracht“: der Brückenkopf vom 12. bis zum 21. März in der deutschen Meldung, Königswinter am Tag des Einsturzes, die Brücke nicht.",
+   "blurb_en": "‘Narrow’, ‘changing fortune’, ‘brought to a halt’: the bridgehead from 12 to 21 March in the German report, Königswinter on the day of the collapse, the bridge not at all.",
+   "units": [
+    {
+     "n": 14,
+     "pg": "Donau-Bodensee-Zeitung, 13.3.1945, S. 2",
+     "lang": "de",
+     "titel": "12. März: „schmaler Brückenkopf“",
+     "titel_en": "12 March: ‘narrow bridgehead’",
+     "orig": "[Wehrmachtbericht, 12. März:] Am Rhein ist die Lage zwischen Emmerich und Bonn durch beiderseitige Umgruppierungen gekennzeichnet. Feindliche Bewegungen und Bereitstellungen wurden durch zusammengefaßtes Artilleriefeuer bekämpft. Oestlich Remagen halten wechselvolle Kämpfe an, ohne daß es dem Gegner trotz Zuführung neuer Kräfte gelang, seinen schmalen Brückenkopf wesentlich zu erweitern.",
+     "en": "[Wehrmacht report, 12 March:] On the Rhine the situation between Emmerich and Bonn is marked by regrouping on both sides. Enemy movements and assemblies were engaged by concentrated artillery fire. East of Remagen fighting of changing fortune continues, without the enemy succeeding, despite bringing up fresh forces, in enlarging his narrow bridgehead to any significant extent.",
+     "note": "Dass der Brückenkopf schmal blieb, lag auch an Eisenhowers Auflage, tausend Yards am Tag (Einheit 4); davon konnte der Wehrmachtbericht nichts wissen. Zeitungsseite: https://www.deutsche-digitale-bibliothek.de/newspaper/item/CGQ4DTUAKNTH47OL464RLKJD4TKCOWY2",
+     "note_en": "That the bridgehead stayed narrow was also due to Eisenhower's restriction, a thousand yards a day (unit 4); of that the Wehrmacht report could know nothing. Newspaper page: https://www.deutsche-digitale-bibliothek.de/newspaper/item/CGQ4DTUAKNTH47OL464RLKJD4TKCOWY2"
+    },
+    {
+     "n": 15,
+     "pg": "Zschopauer Tageblatt, 19.3.1945, S. 1",
+     "lang": "de",
+     "titel": "17. März: Königswinter",
+     "titel_en": "17 March: Königswinter",
+     "orig": "[Wehrmachtbericht, 17. März:] Aus dem Brückenkopf bei Remagen konnten die Amerikaner gestern unter Einsatz starker Panzerkräfte nach Norden vorstoßen und Königswinter nehmen. In hin- und herwogenden Ortskämpfen verhinderten unsere Verbände ein weiteres Vordringen des Feindes südöstlich Honnef, doch erzielte der Gegner im Kampfabschnitt von Linz am Rhein einige Einbrüche in unsere Front.",
+     "en": "[Wehrmacht report, 17 March:] From the bridgehead at Remagen the Americans were able yesterday, using strong armoured forces, to thrust northward and take Königswinter. In street fighting that surged back and forth our formations prevented any further advance by the enemy south-east of Honnef, but in the Linz am Rhein sector the enemy achieved some penetrations of our front.",
+     "note": "Am Tag, an dem die Brücke einstürzte, meldet der Wehrmachtbericht den Brückenkopf und Königswinter, nicht die Brücke. Fraktursatz. Zeitungsseite: https://www.deutsche-digitale-bibliothek.de/newspaper/item/ID5EFGV4OFPORJLMXODLPNDTQND7CSU6",
+     "note_en": "On the day the bridge collapsed the Wehrmacht report names the bridgehead and Königswinter, not the bridge. Set in Fraktur. Newspaper page: https://www.deutsche-digitale-bibliothek.de/newspaper/item/ID5EFGV4OFPORJLMXODLPNDTQND7CSU6"
+    },
+    {
+     "n": 16,
+     "pg": "Wurzener Tageblatt, 22.3.1945, S. 1",
+     "lang": "de",
+     "titel": "21. März: zur Sieg",
+     "titel_en": "21 March: to the Sieg",
+     "orig": "[Wehrmachtbericht, 21. März:] Im Westen verstärkte der Feind seine Angriffe im Abschnitt nordwestlich Königswinter, um zur Sieg durchzubrechen. Nach erbitterten Kämpfen konnte er bis östlich Bonn vordringen, wurde dann aber durch Gegenangriffe zum Stehen gebracht. An der Ostfront des Brückenkopfes Remagen erstickten die Kämpfe bereits in der Entwicklung in unserem zusammengefaßten Feuer. Die schwache Besatzung von Koblenz wurde auf das östliche Rheinufer zurückgenommen.",
+     "en": "[Wehrmacht report, 21 March:] In the west the enemy intensified his attacks in the sector north-west of Königswinter in order to break through to the Sieg. After bitter fighting he was able to advance as far as east of Bonn, but was then brought to a halt by counterattacks. On the eastern front of the Remagen bridgehead the fighting was stifled in its early stages by our concentrated fire. The weak garrison of Koblenz was withdrawn to the east bank of the Rhine.",
+     "note": "Am selben 21. März erreichte die 78th Division nach MacDonald die Sieg (Einheit 17). Das Wurzener Tageblatt druckt „Kämpfe“, andere Zeitungen „Angriffe“; Fraktursatz. Zeitungsseite: https://www.deutsche-digitale-bibliothek.de/newspaper/item/OWM547TV7EJZ57M4GVOQ4UKJ73K4HRGN",
+     "note_en": "On the same 21 March the 78th Division reached the Sieg according to MacDonald (unit 17). The Wurzener Tageblatt prints ‘Kämpfe’ (fighting), other papers ‘Angriffe’ (attacks); set in Fraktur. Newspaper page: https://www.deutsche-digitale-bibliothek.de/newspaper/item/OWM547TV7EJZ57M4GVOQ4UKJ73K4HRGN"
+    }
+   ]
+  },
+  {
+   "id": "ausweitung",
+   "titel": "Bis zur Sieg",
+   "titel_en": "To the Sieg",
+   "zk": "Brückenkopf · Ausweitung",
+   "zk_en": "Bridgehead · Expansion",
+   "blurb": "Divisionen, die keine mehr waren, die Sieg am 21. März, ein letzter deutscher Gegenangriff am 24., und MacDonalds Rechnung: wie viel der Theatercoup kostete und wie wenig er vielleicht entschied.",
+   "blurb_en": "Divisions that were no longer divisions, the Sieg on 21 March, a last German counterattack on the 24th, and MacDonald's reckoning: what the coup de théâtre cost and how little it may have decided.",
+   "units": [
+    {
+     "n": 17,
+     "pg": "S. 232–233",
+     "lang": "en",
+     "titel": "Bis zur Sieg",
+     "titel_en": "To the Sieg",
+     "orig": "While advances in the Remagen bridgehead continued to average only about a thousand yards a day, Hodges was convinced this was less a reflection of German strength than of timidity in American attacks. By 17 March the German order of battle opposite the bridgehead sounded impressive on paper—in addition to those units early committed, the Germans had brought in contingents of the 26th, 62d, 272d, 277th, and 326th Volks Grenadier Divisions; the 3d and 5th Parachute Divisions; and the 3d Panzer Grenadier Division—but in no case were these real divisions. All were battalion-size Kampfgruppen or else had been fleshed out to something more than regimental strength with inexperienced replacements culled from various Wehrkreise up and down the Rhine. […]\n\nOperating with only normal tank and tank destroyer attachments, the 78th Division on 21 March gained the Sieg River, the northern limit of the bridgehead as authorized by General Bradley. […] By 22 March the divisions of the VII Corps had reached the final bridgehead line, both at the Sieg River and along the west bank of the little Hanf Creek that empties into the Sieg just over nine miles east of the Rhine.",
+     "de": "Während der Vormarsch im Brückenkopf Remagen weiter im Durchschnitt nur etwa tausend Yards am Tag betrug, war Hodges überzeugt, das liege weniger an deutscher Stärke als an der Zaghaftigkeit der amerikanischen Angriffe. Bis zum 17. März klang die deutsche Gliederung gegenüber dem Brückenkopf auf dem Papier eindrucksvoll: Zu den früh eingesetzten Einheiten hatten die Deutschen Teile der 26., 62., 272., 277. und 326. Volksgrenadierdivision, der 3. und 5. Fallschirmjägerdivision und der 3. Panzergrenadierdivision herangeführt; aber in keinem Fall waren das wirkliche Divisionen. Alle waren Kampfgruppen in Bataillonsstärke oder mit unerfahrenem Ersatz aus verschiedenen Wehrkreisen am Rhein auf etwas mehr als Regimentsstärke aufgefüllt. […]\n\nNur mit den üblichen zugeteilten Panzern und Jagdpanzern erreichte die 78th Division am 21. März die Sieg, die Nordgrenze des Brückenkopfes, wie General Bradley sie genehmigt hatte. […] Bis zum 22. März hatten die Divisionen des VII. Korps die endgültige Brückenkopflinie erreicht, an der Sieg und am Westufer des kleinen Hanfbachs, der gut neun Meilen östlich des Rheins in die Sieg mündet."
+    },
+    {
+     "n": 18,
+     "pg": "S. 233–234",
+     "lang": "en",
+     "titel": "24. März: der letzte Gegenangriff",
+     "titel_en": "24 March: the last counterattack",
+     "orig": "On 19 March Model began to strip all armored units from the eastern and southern portions of the line to assemble them in the north for counterattack. […]\n\nIt remained for the Germans to write a final, futile postscript to the Remagen bridgehead fighting. On 24 March, still imbued with the idea that the Americans were aiming directly for the Ruhr, Field Marshal Model managed to assemble the bulk of the German armor for his long-delayed counterattack under the direction of General Bayerlein. Yet when the Germans struck the divisions of the VII Corps, their efforts were poorly co-ordinated and far too weak for the job. It was, in effect, not one counterattack but several small ones that brought intense fighting at various points but, in the end, gained nothing. The Germans merely frittered away irreplaceable troops that would be needed desperately the next day elsewhere along the periphery of the Remagen bridgehead and already were needed at other points on the elongated Rhine front, where on 23 March portentous events had begun to occur.",
+     "de": "Am 19. März begann Model, alle Panzerverbände aus den östlichen und südlichen Abschnitten der Linie abzuziehen, um sie im Norden zum Gegenangriff zu sammeln. […]\n\nDen Deutschen blieb es überlassen, den Kämpfen um den Brückenkopf Remagen ein letztes, vergebliches Nachspiel zu geben. Am 24. März, noch immer überzeugt, die Amerikaner zielten geradewegs auf die Ruhr, brachte Generalfeldmarschall Model die Masse der deutschen Panzer für seinen lange aufgeschobenen Gegenangriff unter General Bayerlein zusammen. Doch als die Deutschen die Divisionen des VII. Korps angriffen, waren ihre Anstrengungen schlecht abgestimmt und viel zu schwach für die Aufgabe. Es war im Grunde nicht ein Gegenangriff, sondern mehrere kleine, die an verschiedenen Stellen heftige Kämpfe brachten, am Ende aber nichts gewannen. Die Deutschen verschleuderten nur unersetzliche Truppen, die am nächsten Tag an anderen Stellen am Rand des Brückenkopfes Remagen dringend gebraucht werden sollten und schon an anderen Punkten der langen Rheinfront gebraucht wurden, wo am 23. März folgenschwere Ereignisse begonnen hatten.",
+     "note": "Am 23. März begann Montgomerys Rheinübergang am Niederrhein; am 25. März brach die First Army aus dem Brückenkopf aus (S. 234–235).",
+     "note_en": "On 23 March Montgomery's crossing of the lower Rhine began; on 25 March the First Army broke out of the bridgehead (pp. 234–235)."
+    },
+    {
+     "n": 19,
+     "pg": "S. 234–235",
+     "lang": "en",
+     "titel": "Die Rechnung",
+     "titel_en": "The reckoning",
+     "orig": "The capture of the Ludendorff railroad bridge and its subsequent exploitation was one of those coups de théâtre that sometimes happen in warfare and never fail to capture the imagination. Just how much it speeded the end of the war is another question. The bridgehead dealt a serious blow to German morale that may well have been partly responsible for lackluster resistance at other points, and it served as a magnet to draw a measure of fighting strength from other sites. On the other hand, the German Army clearly would have been beaten without it, perhaps just as quickly.\n\nFrom 7 through 24 March, the Remagen bridgehead fighting cost the III Corps approximately 5,500 casualties, including almost 700 killed and 600 missing. The VII Corps, from 16 through 24 March, incurred not quite 1,900 casualties, including 163 killed and 240 missing. In the same time span, the Germans lost more than 11,700 men as prisoners alone.",
+     "de": "Die Einnahme der Ludendorff-Eisenbahnbrücke und ihre Ausnutzung war einer jener Theatercoups, die im Krieg bisweilen geschehen und nie verfehlen, die Phantasie zu fesseln. Wie sehr sie das Kriegsende beschleunigte, ist eine andere Frage. Der Brückenkopf versetzte der deutschen Moral einen schweren Schlag, der zum Teil für den matten Widerstand an anderen Stellen verantwortlich gewesen sein mag, und er wirkte wie ein Magnet, der einen Teil der Kampfkraft von anderen Orten abzog. Andererseits wäre das deutsche Heer offenkundig auch ohne ihn geschlagen worden, vielleicht ebenso schnell.\n\nVom 7. bis zum 24. März kosteten die Kämpfe um den Brückenkopf Remagen das III. Korps etwa 5 500 Mann an Verlusten, darunter fast 700 Gefallene und 600 Vermisste. Das VII. Korps hatte vom 16. bis zum 24. März knapp 1 900 Verluste, darunter 163 Gefallene und 240 Vermisste. Im selben Zeitraum verloren die Deutschen allein an Gefangenen mehr als 11 700 Mann.",
+     "note": "Die deutschen Gefallenen nennt MacDonald nicht, nur die Gefangenen; die Toten unter den Zivilisten in Remagen, Erpel, Linz, Honnef und den anderen Orten des Brückenkopfes nennt er gar nicht. Was mit den Gefangenen geschah: Modul 9. Zahlen am Seitenbild gelesen.",
+     "note_en": "MacDonald does not give the German dead, only the prisoners; the civilian dead in Remagen, Erpel, Linz, Honnef and the other places of the bridgehead he does not mention at all. What became of the prisoners: module 9. Figures read against the page image."
+    }
+   ]
+  }
+ ]
+}

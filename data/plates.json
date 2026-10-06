@@ -66,6 +66,33 @@
    "caption": "Die Brücke von einem Uferweg aus, im März 1945; im Vordergrund Fahrzeuge. Standbild aus der stummen Signal-Corps-Rolle.",
    "caption_en": "The bridge from a riverside road, March 1945; vehicles in the foreground. Still from the silent Signal Corps reel.",
    "source": "U.S. Army, Antiaircraft & Troops Moving Up, Remagen, Germany (National Archives, NAID 17415), 2:01; Internet Archive ADC-3612c."
+  },
+  {
+   "id": "united_panzer",
+   "side": "film",
+   "titel": "Ein Panzer auf der Brücke",
+   "titel_en": "A tank on the bridge",
+   "caption": "Ein Panzer fährt über die mit Bohlen belegte Ludendorff-Brücke, daneben Soldaten zu Fuß. Standbild aus der Wochenschau United News, März 1945.",
+   "caption_en": "A tank crosses the planked Ludendorff Bridge, soldiers on foot beside it. Still from the United News newsreel, March 1945.",
+   "source": "United News, „Bridgehead Extended“ (National Archives, ARC 39162), 4:49; Internet Archive gov.archives.arc.39162 (CC0)."
+  },
+  {
+   "id": "usace_ponton",
+   "side": "us",
+   "titel": "Die Brückenstelle vom Westufer",
+   "titel_en": "The bridge site from the west bank",
+   "caption": "Farbdia eines Pioniers der US Army: gegenüber die Erpeler Ley, rechts die Reste der Brücke; nach dem Katalog liegt eine Schwimmbrücke des 291st Engineer Combat Battalion. Undatiert, 1945.",
+   "caption_en": "Colour slide by a US Army engineer: opposite, the Erpeler Ley, on the right the remains of the bridge; according to the catalogue a floating bridge of the 291st Engineer Combat Battalion is in place. Undated, 1945.",
+   "source": "Harry F. Cameron, Diasammlung des U.S. Army Corps of Engineers (usace.contentdm.oclc.org, p15141coll5/15246), über Wikimedia Commons; gemeinfrei."
+  },
+  {
+   "id": "mac1973_luft1948",
+   "side": "bruecke",
+   "titel": "Die Brückenstelle aus der Luft, 1948",
+   "titel_en": "The bridge site from the air, 1948",
+   "caption": "Der Rhein bei Remagen drei Jahre nach dem Krieg: vorn das Remagener Ufer mit den Brückentürmen, gegenüber Erpel und die Erpeler Ley mit dem Tunnelportal.",
+   "caption_en": "The Rhine at Remagen three years after the war: in front the Remagen bank with the bridge towers, opposite Erpel and the Erpeler Ley with the tunnel portal.",
+   "source": "„The Rhine at the Remagen Bridge Site. (Photograph taken in 1948.)“, MacDonald, The Last Offensive (1973), S. 231; Internet Archive CMHPub791TheLastOffensive."
   }
  ]
 }
