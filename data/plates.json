@@ -156,6 +156,33 @@
    "caption": "Ein Pionier schweißt an einem Träger der Ludendorff-Brücke. Standbild aus Combat Bulletin No. 48, März 1945.",
    "caption_en": "An engineer welding a girder of the Ludendorff Bridge. Still from Combat Bulletin No. 48, March 1945.",
    "source": "War Department, Combat Bulletin No. 48 (1945), 15:10; Internet Archive CB-48 (Public Domain Mark)."
+  },
+  {
+   "id": "nara195343",
+   "side": "bruecke",
+   "titel": "Die eingestürzte Brücke",
+   "titel_en": "The collapsed bridge",
+   "caption": "Soldaten am Remagener Ufer vor den Trümmern der Ludendorff-Brücke, um den 17. März 1945.",
+   "caption_en": "Soldiers on the Remagen bank in front of the wreckage of the Ludendorff Bridge, about 17 March 1945.",
+   "source": "U.S. Army, „U.S. First Army at Remagen Bridge“ (National Archives, NAID 195343), über Wikimedia Commons; gemeinfrei."
+  },
+  {
+   "id": "adc3597_truemmer",
+   "side": "film",
+   "titel": "Die Brücke im Rhein",
+   "titel_en": "The bridge in the Rhine",
+   "caption": "Die Trümmer im Strom, dahinter die Türme auf dem Remagener Ufer. Standbild aus den stummen Aufnahmen des Signal Corps vom 17. März 1945.",
+   "caption_en": "The wreckage in the river, behind it the towers on the Remagen bank. Still from the silent Signal Corps footage of 17 March 1945.",
+   "source": "Collapse of Remagen (Ludendorff) Bridge, Germany (National Archives, NAID 17400), 0:16; Internet Archive 111-adc-3597."
+  },
+  {
+   "id": "adc3597_rettung",
+   "side": "film",
+   "titel": "Rettung aus dem Rhein",
+   "titel_en": "Rescue from the Rhine",
+   "caption": "Soldaten ziehen einen Pionier aus dem Wasser. Standbild aus den stummen Aufnahmen des Signal Corps vom 17. März 1945.",
+   "caption_en": "Soldiers pull an engineer out of the water. Still from the silent Signal Corps footage of 17 March 1945.",
+   "source": "Collapse of Remagen (Ludendorff) Bridge, Germany (National Archives, NAID 17400), 2:13; Internet Archive 111-adc-3597."
   }
  ]
 }

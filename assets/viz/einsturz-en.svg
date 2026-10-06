@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="ei-t ei-d" font-family="var(--serif)">
+<title id="ei-t">The collapse in figures and causes</title><desc id="ei-d">Left: engineers on the bridge: about 200 (MacDonald), 290 (German press after Reuters, 20 March), about 300 (Combat Bulletin 48). Dead: 28 and 93 injured (MacDonald), 32 (Bundesarchiv), ‘the majority are missing’ (German press, 20 March). Right: the loads MacDonald lists, from air raids since 1940 to the engineers' equipment during the repair, all borne in the end by the downstream truss alone.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">The collapse in figures and causes</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Figures differ by source and moment; the causes after MacDonald, p. 230.</text>
+<text x="20" y="86" font-size="14" font-weight="bold" fill="var(--ink)">Engineers on the bridge</text>
+<rect x="20" y="100" width="210" height="22" rx="3" fill="var(--us)"/>
+<text x="26" y="116" font-size="12.5" font-weight="bold" fill="#fff">≈ 200</text>
+<a href="#/text/einsturz/nachmittag/2"><text x="234" y="116" font-size="12" fill="var(--ink)" text-decoration="underline"> MacDonald 1973</text></a>
+<rect x="20" y="134" width="304" height="22" rx="3" fill="var(--us)"/>
+<text x="26" y="150" font-size="12.5" font-weight="bold" fill="#fff">290</text>
+<a href="#/text/einsturz/presse/4"><text x="328" y="150" font-size="12" fill="var(--ink)" text-decoration="underline"> press after Reuters, 20 Mar</text></a>
+<rect x="20" y="168" width="315" height="22" rx="3" fill="var(--us)"/>
+<text x="26" y="184" font-size="12.5" font-weight="bold" fill="#fff">≈ 300</text>
+<a href="#/text/einsturz/film/6"><text x="339" y="184" font-size="12" fill="var(--ink)" text-decoration="underline"> Combat Bulletin 48</text></a>
+<text x="20" y="246" font-size="14" font-weight="bold" fill="var(--ink)">Killed</text>
+<rect x="20" y="260" width="88" height="22" rx="3" fill="var(--film)"/>
+<text x="26" y="276" font-size="12.5" font-weight="bold" fill="#fff">28</text>
+<a href="#/text/einsturz/nachmittag/2"><text x="112" y="276" font-size="12" fill="var(--ink)" text-decoration="underline"> MacDonald 1973 (and 93 injured)</text></a>
+<rect x="20" y="294" width="101" height="22" rx="3" fill="var(--film)"/>
+<text x="26" y="310" font-size="12.5" font-weight="bold" fill="#fff">32</text>
+<a href="#/text/standgericht/hitler/6"><text x="125" y="310" font-size="12" fill="var(--ink)" text-decoration="underline"> Bundesarchiv (recent account)</text></a>
+<rect x="20" y="328" width="60" height="22" rx="3" fill="none" stroke="var(--film)" stroke-dasharray="4 3"/>
+<text x="50" y="344" text-anchor="middle" font-size="12.5" fill="var(--film)">?</text>
+<a href="#/text/einsturz/presse/4"><text x="84" y="344" font-size="12" fill="var(--ink)" text-decoration="underline"> press 20 Mar: ‘the majority are missing’</text></a>
+<text x="20" y="384" font-size="11" fill="var(--ink2)">Bars for the dead drawn at three times the scale.</text>
+<a href="#/text/einsturz/ursachen/3"><text x="560" y="86" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">Loads on the bridge</text></a>
+<rect x="560" y="98" width="320" height="25" rx="3" fill="var(--bruecke)" opacity="0.25"/>
+<text x="568" y="115" font-size="12" fill="var(--ink)">1940–1944: air raids, 15 days closed</text>
+<rect x="560" y="128" width="320" height="25" rx="3" fill="var(--bruecke)" opacity="0.31"/>
+<text x="568" y="145" font-size="12" fill="var(--ink)">planking for vehicles</text>
+<rect x="560" y="158" width="320" height="25" rx="3" fill="var(--bruecke)" opacity="0.37"/>
+<text x="568" y="175" font-size="12" fill="var(--ink)">7 March: assault, Pershing fire</text>
+<rect x="560" y="188" width="320" height="25" rx="3" fill="var(--bruecke)" opacity="0.43"/>
+<text x="568" y="205" font-size="12" fill="var(--ink)">Friesenhahn's emergency demolition</text>
+<rect x="560" y="218" width="320" height="25" rx="3" fill="var(--bruecke)" opacity="0.49"/>
+<text x="568" y="235" font-size="12" fill="var(--ink)">hundreds of infantrymen</text>
+<rect x="560" y="248" width="320" height="25" rx="3" fill="var(--bruecke)" opacity="0.55"/>
+<text x="568" y="265" font-size="12" fill="var(--ink)">tanks and vehicles</text>
+<rect x="560" y="278" width="320" height="25" rx="3" fill="var(--bruecke)" opacity="0.61"/>
+<text x="568" y="295" font-size="12" fill="var(--ink)">German artillery</text>
+<rect x="560" y="308" width="320" height="25" rx="3" fill="var(--bruecke)" opacity="0.67"/>
+<text x="568" y="325" font-size="12" fill="var(--ink)">bombs, antiaircraft, 8-inch howitzers</text>
+<rect x="560" y="338" width="320" height="25" rx="3" fill="var(--bruecke)" opacity="0.73"/>
+<text x="568" y="355" font-size="12" fill="var(--ink)">near misses of V-2s</text>
+<rect x="560" y="368" width="320" height="25" rx="3" fill="var(--bruecke)" opacity="0.79"/>
+<text x="568" y="385" font-size="12" fill="var(--ink)">engineers' equipment during the repair</text>
+<path d="M560,404 l320,0 l-20,26 l-280,0 z" fill="var(--ink2)"/>
+<text x="720" y="422" text-anchor="middle" font-size="12" fill="#fff">one weakened truss</text>
+</svg>

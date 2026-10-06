@@ -307,6 +307,73 @@
      "wer_en": "MacDonald 1973"
     }
    ]
+  },
+  {
+   "id": "zahlen",
+   "titel": "Wie viele?",
+   "titel_en": "How many?",
+   "frage": "Wie viele Pioniere waren auf der Brücke, und wie viele starben?",
+   "frage_en": "How many engineers were on the bridge, and how many died?",
+   "note": "Auf der Brücke: etwa 200 (MacDonald), 290 (Reuter in der deutschen Presse), etwa 300 (Combat Bulletin 48). Tote: 28 und 93 Verletzte (MacDonald), 32 (Bundesarchiv, nach neuerer Darstellung), „die Mehrzahl wird vermißt“ (deutsche Presse am 20. März, drei Tage danach). Die Zahlen stammen aus verschiedenen Zeitpunkten; die frühe Meldung kannte das Ergebnis der Bergung noch nicht.",
+   "note_en": "On the bridge: about 200 (MacDonald), 290 (Reuters in the German press), about 300 (Combat Bulletin 48). Dead: 28 and 93 injured (MacDonald), 32 (Bundesarchiv, after a recent account), ‘the majority are missing’ (German press on 20 March, three days later). The figures come from different moments; the early report did not yet know the outcome of the rescue.",
+   "voices": [
+    {
+     "text": "einsturz",
+     "sec": "nachmittag",
+     "n": [
+      2
+     ],
+     "wer": "MacDonald 1973",
+     "wer_en": "MacDonald 1973"
+    },
+    {
+     "text": "einsturz",
+     "sec": "presse",
+     "n": [
+      4
+     ],
+     "wer": "Deutsche Presse nach Reuter, 20. März 1945",
+     "wer_en": "German press after Reuters, 20 March 1945"
+    },
+    {
+     "text": "einsturz",
+     "sec": "film",
+     "n": [
+      6
+     ],
+     "wer": "Combat Bulletin 48, 1945",
+     "wer_en": "Combat Bulletin 48, 1945"
+    }
+   ]
+  },
+  {
+   "id": "ursache",
+   "titel": "Wer brachte sie zum Einsturz?",
+   "titel_en": "Who brought it down?",
+   "frage": "Bomben, Granaten oder das eigene Gewicht?",
+   "frage_en": "Bombs, shells or its own weight?",
+   "note": "Die deutsche Presse: „durch deutsche Bomben und Granaten“. MacDonald: das Zusammenwirken vieler Lasten auf einem einzigen geschwächten Träger, zuletzt das Gerät der amerikanischen Pioniere, „in einer Zeit verhältnismäßiger Ruhe“. Die Wochenschau Universal sprach von „heavy traffic and bomb hits“ (Seite „Filme“).",
+   "note_en": "The German press: ‘German bombs and shells’. MacDonald: the combined loads on a single weakened truss, last of all the American engineers' equipment, ‘during a period of relative quiet’. The Universal newsreel spoke of ‘heavy traffic and bomb hits’ (Films page).",
+   "voices": [
+    {
+     "text": "einsturz",
+     "sec": "presse",
+     "n": [
+      5
+     ],
+     "wer": "Müglitztal-Bote, 20. März 1945",
+     "wer_en": "Müglitztal-Bote, 20 March 1945"
+    },
+    {
+     "text": "einsturz",
+     "sec": "ursachen",
+     "n": [
+      3
+     ],
+     "wer": "MacDonald 1973",
+     "wer_en": "MacDonald 1973"
+    }
+   ]
   }
  ]
 }

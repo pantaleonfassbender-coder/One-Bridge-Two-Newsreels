@@ -77,19 +77,22 @@
    "datei": "angriffe",
    "zk": "Luftwaffe · Meldung · Fernwaffen · Schwimmer · Film",
    "zk_en": "Luftwaffe · Report · Long-range weapons · Swimmers · Film"
-  }
- ],
- "planned": [
+  },
   {
    "id": "einsturz",
    "side": "bruecke",
    "kurz": "7 · Der Einsturz",
    "kurz_en": "7 · The collapse",
-   "warum": "Am Nachmittag des 17. März stürzte die Brücke in den Rhein, während rund 200 amerikanische Pioniere auf ihr arbeiteten. Nach MacDonald starben 28 von ihnen, 93 wurden verletzt.",
-   "warum_en": "On the afternoon of 17 March the bridge fell into the Rhine while some 200 American engineers were working on it. According to MacDonald 28 of them were killed and 93 injured.",
-   "quelle": "MacDonald, Kap. XI; Bericht des Army Service Forces (Report No. 126, zu prüfen); Signal-Corps-Film vom 17. März.",
-   "quelle_en": "MacDonald, ch. XI; Army Service Forces report (Report No. 126, to be checked); Signal Corps film of 17 March."
-  },
+   "warum": "In einer ruhigen Stunde am 17. März stürzte die Brücke mit den Pionieren, die sie instand setzten, in den Rhein: nach MacDonald 28 Tote und 93 Verletzte. Die deutsche Presse meldete: „durch deutschen Beschuß vernichtet“.",
+   "warum_en": "In a quiet hour on 17 March the bridge fell into the Rhine with the engineers repairing it: according to MacDonald 28 killed and 93 injured. The German press reported: ‘destroyed by German fire’.",
+   "quelle": "MacDonald (1973), S. 229–230; deutsche Presse vom 20. März 1945; Combat Bulletin No. 48; Signal Corps, 17. März 1945.",
+   "quelle_en": "MacDonald (1973), pp. 229–230; German press of 20 March 1945; Combat Bulletin No. 48; Signal Corps, 17 March 1945.",
+   "datei": "einsturz",
+   "zk": "Nachmittag · Ursachen · Presse · Film",
+   "zk_en": "Afternoon · Causes · Press · Film"
+  }
+ ],
+ "planned": [
   {
    "id": "wochenschauen",
    "side": "film",

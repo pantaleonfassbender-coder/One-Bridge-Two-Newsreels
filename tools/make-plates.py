@@ -43,6 +43,8 @@ PLATES = {
     "adc3612c_flak": ("film", "https://archive.org/download/ADC-3612c/ADC-3612c.mp4", 90.0),
     "cb48_schweisser": ("film", "https://archive.org/download/CB-48/CB-48%20Combat%20Bulletin%2048%20Air%20Support%20On%20Western%20Front%20Etc%201945.mp4", 910.0),
     # Modul 7
+    "adc3597_truemmer": ("film", "https://archive.org/download/111-adc-3597/111-adc-3597.mp4", 16.0),
+    "adc3597_rettung": ("film", "https://archive.org/download/111-adc-3597/111-adc-3597.mp4", 133.0),
     "nara195343": ("commons", "File:WWII, Europe, Germany, \"U.S. First Army at Remagen Bridge\" - NARA - 195343.jpg", None),
 }
 
