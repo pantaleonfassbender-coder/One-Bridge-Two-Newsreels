@@ -1,8 +1,8 @@
 {
  "lede": "Photographien, Karten, Luftbilder, Filmstandbilder und ein Zeitungsausschnitt. Jede Tafel nennt ihre Vorlage und ihre Rechte.",
  "lede_en": "Photographs, maps, aerial photographs, film stills and a newspaper clipping. Each plate names its original and its rights.",
- "credit": "Photographien und Karten aus MacDonald, The Last Offensive (1973), nach den Seitenbildern des Internet Archive; Standbilder aus Rollen des Signal Corps und der Wochenschau United News (National Archives) im Internet Archive; Luftbilder der US-Regierung und ein Farbdia des Corps of Engineers über Wikimedia Commons: Werke der US-Regierung, gemeinfrei (17 U.S.C. § 105). Ein Zeitungsausschnitt von 1918 nach der Staatsbibliothek zu Berlin (Public Domain Mark); das Messtischblatt um 1938 nach dem Landesarchiv NRW (CC BY-SA 4.0).",
- "credit_en": "Photographs and maps from MacDonald, The Last Offensive (1973), after the page images of the Internet Archive; stills from Signal Corps reels and the United News newsreel (National Archives) in the Internet Archive; US government aerial photographs and a Corps of Engineers colour slide via Wikimedia Commons: works of the US government, in the public domain (17 U.S.C. § 105). A newspaper clipping of 1918 after the Staatsbibliothek zu Berlin (Public Domain Mark); the ordnance map of c. 1938 after the Landesarchiv NRW (CC BY-SA 4.0).",
+ "credit": "Photographien und Karten aus MacDonald, The Last Offensive (1973), nach den Seitenbildern des Internet Archive; Standbilder aus Rollen des Signal Corps und der Wochenschau United News (National Archives) im Internet Archive; Luftbilder der US-Regierung und ein Farbdia des Corps of Engineers über Wikimedia Commons: Werke der US-Regierung, gemeinfrei (17 U.S.C. § 105). Zwei Photographien und eine Tabelle aus dem Sanitätsbericht Preventive Medicine in World War II, Bd. 9 (1969), ebenfalls gemeinfrei. Ein Zeitungsausschnitt von 1918 nach der Staatsbibliothek zu Berlin (Public Domain Mark); das Messtischblatt um 1938 nach dem Landesarchiv NRW (CC BY-SA 4.0).",
+ "credit_en": "Photographs and maps from MacDonald, The Last Offensive (1973), after the page images of the Internet Archive; stills from Signal Corps reels and the United News newsreel (National Archives) in the Internet Archive; US government aerial photographs and a Corps of Engineers colour slide via Wikimedia Commons: works of the US government, in the public domain (17 U.S.C. § 105). Two photographs and a table from the medical report Preventive Medicine in World War II, vol. 9 (1969), likewise in the public domain. A newspaper clipping of 1918 after the Staatsbibliothek zu Berlin (Public Domain Mark); the ordnance map of c. 1938 after the Landesarchiv NRW (CC BY-SA 4.0).",
  "plates": [
   {
    "id": "mac1973_map3",
@@ -201,6 +201,33 @@
    "caption": "Ein Pfeiler und der Bogen der Ludendorff-Brücke, vom Ufer aus. Standbild aus der Wochenschau United News, März 1945.",
    "caption_en": "A pier and the arch of the Ludendorff Bridge, from the bank. Still from the United News newsreel, March 1945.",
    "source": "United News, „Bridgehead Extended“ (National Archives, ARC 39162), 4:40; Internet Archive gov.archives.arc.39162 (CC0)."
+  },
+  {
+   "id": "pm1969_remagen",
+   "side": "menschen",
+   "titel": "Das Lager bei Remagen",
+   "titel_en": "The enclosure near Remagen",
+   "caption": "Ein amerikanischer Soldat bewacht Tausende im Ruhrgebiet gefangener deutscher Soldaten, Lager bei Remagen, 25. April 1945 (Abb. 38).",
+   "caption_en": "An American soldier guards thousands of German soldiers captured in the Ruhr area, enclosure near Remagen, 25 April 1945 (fig. 38).",
+   "source": "Medical Department, United States Army, Preventive Medicine in World War II, Bd. 9 (1969), S. 381, Abb. 38 (Foto der U.S. Army), nach der Fassung auf Wikimedia Commons („Remagen enclosure.jpg“); gemeinfrei."
+  },
+  {
+   "id": "pm1969_sinzig",
+   "side": "menschen",
+   "titel": "Das Lager bei Sinzig",
+   "titel_en": "The enclosure at Sinzig",
+   "caption": "Gefangene auf dem offenen Feld hinter Stacheldraht, mit wenig oder gar keinem Obdach; 116 000 bei einer Sollbelegung von 100 000. Sinzig, 12. Mai 1945 (Abb. 39).",
+   "caption_en": "Prisoners in the open field behind barbed wire, with little or no shelter; 116,000 against a rated capacity of 100,000. Sinzig, 12 May 1945 (fig. 39).",
+   "source": "Medical Department, United States Army, Preventive Medicine in World War II, Bd. 9 (1969), S. 382, Abb. 39 (Foto der U.S. Army), nach der Fassung auf Wikimedia Commons („Sinzig enclosure.jpg“); gemeinfrei."
+  },
+  {
+   "id": "pm1969_tabelle21",
+   "side": "menschen",
+   "titel": "Siebzehn Lager am Rhein",
+   "titel_en": "Seventeen enclosures on the Rhine",
+   "caption": "Tabelle 21: Nummer, Ort und Sollbelegung der 17 Durchgangslager auf dem Westufer des Rheins, Mai 1945; zusammen 1 095 000.",
+   "caption_en": "Table 21: number, location and authorized capacity of the 17 transient enclosures on the west bank of the Rhine, May 1945; 1,095,000 in all.",
+   "source": "Medical Department, United States Army, Preventive Medicine in World War II, Bd. 9 (1969), S. 383, Seitenbild des Internet Archive (DTIC_ADA286761); gemeinfrei."
   }
  ]
 }

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-labelledby="la-t la-d" font-family="var(--serif)">
+<title id="la-t">Too many, too little water, too many dead</title><desc id="la-d">Left: the enclosures at Remagen and Sinzig were each built for 100,000 prisoners. Remagen held 184,000 according to the 1969 report (undated) and 170,000 on 2 May 1945 according to the state agency; Sinzig held 116,000 on 12 May 1945 according to the report and at most 118,000 according to the state agency. Right: in the six weeks to 15 June 1945, 2,754 prisoners died of disease in all ADSEC enclosures, 833 of them of diarrhea and dysentery; the annual death rate from disease was 34.2 per 1,000 prisoners against 0.6 for US troops. According to research some 1,200 people died at Remagen and Sinzig over the whole period.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Too many, too little water, too many dead</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Dashed: recent literature, only summarized. The death figures on the right cover different areas and periods.</text>
+<a href="#/text/lager/rhein/1"><text x="20" y="86" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">Prisoners held</text></a>
+<line x1="210" y1="104" x2="210" y2="304" stroke="var(--ink2)" stroke-dasharray="3 3"/>
+<text x="216" y="100" font-size="11.5" fill="var(--ink2)">rated capacity 100,000</text>
+<text x="20" y="114" font-size="13" font-weight="bold" fill="var(--menschen)">Remagen (A2)</text>
+<rect x="20" y="122" width="350" height="24" rx="3" fill="var(--menschen)"/>
+<text x="26" y="139" font-size="12.5" font-weight="bold" fill="#fff">184,000</text>
+<a href="#/text/lager/rhein/4"><text x="92" y="139" font-size="11.5" fill="#fff" text-decoration="underline">1969 report, undated</text></a>
+<rect x="20" y="154" width="323" height="24" rx="3" fill="var(--panel)" stroke="var(--menschen)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="26" y="171" font-size="12.5" font-weight="bold" fill="var(--menschen)">170,000</text>
+<a href="#/text/lager/graeber/13"><text x="92" y="171" font-size="11.5" fill="var(--ink)" text-decoration="underline">2 May, after state agency</text></a>
+<text x="20" y="214" font-size="13" font-weight="bold" fill="var(--menschen)">Sinzig (A5)</text>
+<rect x="20" y="222" width="220" height="24" rx="3" fill="var(--menschen)"/>
+<text x="26" y="239" font-size="12.5" font-weight="bold" fill="#fff">116,000</text>
+<a href="#/text/lager/rhein/3"><text x="92" y="239" font-size="11.5" fill="#fff" text-decoration="underline">12 May, 1969 report</text></a>
+<rect x="20" y="254" width="224" height="24" rx="3" fill="var(--panel)" stroke="var(--menschen)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="26" y="271" font-size="12.5" font-weight="bold" fill="var(--menschen)">118,000</text>
+<a href="#/text/lager/graeber/13"><text x="92" y="271" font-size="11.5" fill="var(--ink)" text-decoration="underline">at most, after state agency</text></a>
+<a href="#/text/lager/rhein/1"><text x="20" y="316" font-size="11.5" fill="var(--ink)" text-decoration="underline">17 enclosures on the Rhine: 1,095,000 places for some 1.5 million expected</text></a>
+<a href="#/text/lager/krankheit/10"><text x="480" y="86" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">Deaths from disease</text></a>
+<text x="480" y="104" font-size="11.5" fill="var(--ink2)">all ADSEC enclosures, six weeks to 15 June 1945</text>
+<rect x="480" y="114" width="360" height="26" rx="3" fill="var(--film)"/>
+<rect x="480" y="114" width="109" height="26" rx="3" fill="var(--bruecke)"/>
+<a href="#/text/lager/krankheit/11"><text x="486" y="132" font-size="12" fill="#fff" text-decoration="underline">833 dysentery</text></a>
+<a href="#/text/lager/krankheit/10"><text x="597" y="132" font-size="12.5" font-weight="bold" fill="#fff" text-decoration="underline">2,754 in all</text></a>
+<a href="#/text/lager/graeber/13"><text x="480" y="170" font-size="11.5" fill="var(--ink2)" text-decoration="underline">Remagen and Sinzig, whole period, after research</text></a>
+<rect x="480" y="180" width="157" height="26" rx="3" fill="none" stroke="var(--film)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="486" y="198" font-size="12.5" font-weight="bold" fill="var(--film)">≈ 1,200</text>
+<a href="#/text/lager/krankheit/10"><text x="480" y="250" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">Death rate from disease</text></a>
+<text x="480" y="268" font-size="11.5" fill="var(--ink2)">per 1,000 per year, same six weeks</text>
+<rect x="480" y="280" width="360" height="26" rx="3" fill="var(--menschen)"/>
+<text x="486" y="298" font-size="12.5" font-weight="bold" fill="#fff">34.2  German prisoners</text>
+<rect x="480" y="316" width="6" height="26" rx="3" fill="var(--us)"/>
+<text x="492" y="334" font-size="12.5" font-weight="bold" fill="var(--ink)">0.6  US troops</text>
+<a href="#/text/lager/krankheit/9"><text x="480" y="360" font-size="11.5" fill="var(--ink)" text-decoration="underline">The report: its figures count hospital admissions</text></a>
+<a href="#/text/lager/krankheit/9"><text x="480" y="376" font-size="11.5" fill="var(--ink)" text-decoration="underline">and understate the sickness in the enclosures.</text></a>
+<a href="#/text/lager/krankheit/12"><text x="480" y="404" font-size="11.5" fill="var(--ink)" text-decoration="underline">First typhus among German prisoners: March 1945, at Remagen.</text></a>
+</svg>

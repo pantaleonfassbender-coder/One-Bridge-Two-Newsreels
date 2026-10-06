@@ -195,7 +195,7 @@ async function reader([id, secId, unitN]) {
     <h1>${esc(L(t, "titel"))}</h1>
     <p class="fine">${esc(L(t, "autor"))}</p>
     <nav class="toc">${t.sections.map(s => `<a href="#/text/${id}/${s.id}" class="${s.id === sec.id ? "on" : ""}">${esc(L(s, "titel"))}</a>`).join("")}</nav>
-    <div class="panel readable"><h3>${esc(L(sec, "titel"))}</h3><p>${esc(L(sec, "blurb"))}</p></div>
+    <div class="panel readable"><h3>${esc(L(sec, "titel"))}</h3><p>${esc(L(sec, "blurb"))}</p>${L(sec, "note") ? `<p class="fine">${esc(L(sec, "note"))}</p>` : ""}</div>
     ${(sec.plates || []).length ? `<div class="grid g4 secplates">${sec.plates.map(plateOf).filter(Boolean).map(plateFig).join("")}</div>` : ""}
     ${sec.viz ? `<div class="viz" id="viz"><p class="fine">${esc(S("loading"))}</p></div>` : ""}
     ${(sec.films || []).map(filmBlock).join("")}

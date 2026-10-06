@@ -172,8 +172,12 @@
    "side": "menschen",
    "titel": "Die Lager bei Remagen und Sinzig",
    "titel_en": "The camps near Remagen and Sinzig",
-   "text": "Die US Army hält Hunderttausende deutsche Gefangene in Lagern unter freiem Himmel am Rhein. Nach der Forschung starben in den beiden Lagern rund 1 200 Menschen (neuere Literatur; Modul 9 in Vorbereitung).",
-   "text_en": "The US Army holds hundreds of thousands of German prisoners in open-air camps on the Rhine. According to research, some 1,200 people died in the two camps (recent literature; module 9 in preparation)."
+   "text": "Auf Weiden bei Remagen und Sinzig, gebaut für je 100 000, liegen bis zu 184 000 und 116 000 deutsche Gefangene unter freiem Himmel; das Trinkwasser kommt in Remagen aus Benzintankwagen voll Rheinwasser. Nach der Forschung sterben in beiden Lagern etwa 1 200 Menschen (neuere Literatur).",
+   "text_en": "On meadows near Remagen and Sinzig, built for 100,000 each, up to 184,000 and 116,000 German prisoners lie in the open; at Remagen the drinking water comes from gasoline tank trucks full of Rhine water. According to research some 1,200 people die in the two camps (recent literature).",
+   "cite": "#/text/lager/rhein/4",
+   "citeLabel": "Die Lager am Rhein [4]",
+   "citeLabel_en": "The camps on the Rhine [4]",
+   "plate": "pm1969_sinzig"
   }
  ]
 }

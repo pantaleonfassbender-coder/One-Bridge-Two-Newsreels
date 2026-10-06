@@ -432,6 +432,64 @@
      "wer_en": "MacDonald 1973"
     }
    ]
+  },
+  {
+   "id": "belegung",
+   "titel": "Wie viele lagen dort?",
+   "titel_en": "How many lay there?",
+   "frage": "Wie viele Gefangene lagen in den Lagern, die für je 100 000 gebaut waren?",
+   "frage_en": "How many prisoners lay in the enclosures built for 100,000 each?",
+   "note": "Remagen: 184 000 nach dem Bericht von 1969, ohne Datum; 170 000 am 2. Mai 1945 nach der Landeszentrale für politische Bildung Rheinland-Pfalz. Sinzig: 116 000 am 12. Mai 1945 nach der Bildunterschrift des Berichts; bis zu 118 000 nach der Landeszentrale. Die Zahlen widersprechen sich nicht unbedingt; sie meinen verschiedene Tage.",
+   "note_en": "Remagen: 184,000 according to the 1969 report, undated; 170,000 on 2 May 1945 according to the Rhineland-Palatinate state agency for civic education. Sinzig: 116,000 on 12 May 1945 according to the report's caption; up to 118,000 according to the state agency. The figures do not necessarily contradict each other; they refer to different days.",
+   "voices": [
+    {
+     "text": "lager",
+     "sec": "rhein",
+     "n": [
+      4
+     ],
+     "wer": "Bericht 1969, Remagen",
+     "wer_en": "1969 report, Remagen"
+    },
+    {
+     "text": "lager",
+     "sec": "rhein",
+     "n": [
+      3
+     ],
+     "wer": "Bericht 1969, Sinzig",
+     "wer_en": "1969 report, Sinzig"
+    }
+   ]
+  },
+  {
+   "id": "wasser",
+   "titel": "Wasser",
+   "titel_en": "Water",
+   "frage": "Reichte das Wasser?",
+   "frage_en": "Was there enough water?",
+   "note": "Gordon 1945: Die Wasserversorgung sei „in Ordnung, soweit sie reichte“, nur die Menge je Mann hoffnungslos klein. Der Bericht von 1969 schildert für Remagen Rheinwasser aus ausgespülten Benzintankwagen, aus dem getrunken, gespült und gewaschen wurde, und urteilt: die Darminfektion sei „von der militärisch geschaffenen Lage begünstigt“ worden.",
+   "note_en": "Gordon in 1945: water supplies were ‘alright as far as they went’, only the amount per man hopelessly small. The 1969 report describes, for Remagen, Rhine water from washed-out gasoline tank trucks used for drinking, rinsing and washing, and concludes that enteric infection was ‘promoted by the militarily created situation’.",
+   "voices": [
+    {
+     "text": "lager",
+     "sec": "zustaende",
+     "n": [
+      6
+     ],
+     "wer": "John E. Gordon, 1945",
+     "wer_en": "John E. Gordon, 1945"
+    },
+    {
+     "text": "lager",
+     "sec": "zustaende",
+     "n": [
+      7
+     ],
+     "wer": "Bericht 1969",
+     "wer_en": "1969 report"
+    }
+   ]
   }
  ]
 }

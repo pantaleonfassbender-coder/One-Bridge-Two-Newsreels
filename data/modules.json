@@ -103,20 +103,22 @@
    "datei": "wochenschauen",
    "zk": "Universal · United · Britisch · Deutsch",
    "zk_en": "Universal · United · British · German"
-  }
- ],
- "planned": [
+  },
   {
    "id": "lager",
    "side": "menschen",
    "kurz": "9 · Die Lager am Rhein",
    "kurz_en": "9 · The camps on the Rhine",
-   "warum": "Im Frühjahr 1945 lagen bei Remagen und Sinzig Hunderttausende deutsche Gefangene unter freiem Himmel. Nur belegte Zahlen; widerlegte werden als widerlegt benannt.",
-   "warum_en": "In the spring of 1945 hundreds of thousands of German prisoners lay in the open near Remagen and Sinzig. Only documented figures; disproved ones are named as disproved.",
-   "quelle": "Amerikanische Berichte (zu suchen); Zahlen nach der Forschung, wie sie die Landeszentrale für politische Bildung Rheinland-Pfalz zusammenfasst (neuere Literatur, nur referiert).",
-   "quelle_en": "American reports (to be found); figures after the research summarized by the Rhineland-Palatinate state agency for civic education (recent literature, only summarized)."
+   "warum": "Im Frühjahr 1945 lagen bei Remagen und Sinzig Hunderttausende deutsche Gefangene unter freiem Himmel: „Käfige und kaum mehr“, schrieb der Sanitätsdienst der US Army. Nach der Forschung starben in beiden Lagern etwa 1 200 Menschen; die Millionenzahl Bacques ist widerlegt.",
+   "warum_en": "In the spring of 1945 hundreds of thousands of German prisoners lay in the open near Remagen and Sinzig: ‘cages and little more’, wrote the US Army Medical Department. According to research some 1,200 people died in the two camps; Bacque's figure of a million has been refuted.",
+   "quelle": "Preventive Medicine in World War II, Bd. 9 (1969), S. 375–398; Honnefer Volkszeitung 22.2.1951; Zahlen nach der Landeszentrale für politische Bildung Rheinland-Pfalz (nur referiert).",
+   "quelle_en": "Preventive Medicine in World War II, vol. 9 (1969), pp. 375–398; Honnefer Volkszeitung 22 Feb 1951; figures after the Rhineland-Palatinate state agency for civic education (only summarized).",
+   "datei": "lager",
+   "zk": "Rhein · Zustände · Krankheit · Gräber",
+   "zk_en": "Rhine · Conditions · Disease · Graves"
   }
  ],
+ "planned": [],
  "missing": [
   {
    "id": "hechler",

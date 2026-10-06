@@ -49,6 +49,10 @@ PLATES = {
     "adc3597_truemmer": ("film", "https://archive.org/download/111-adc-3597/111-adc-3597.mp4", 16.0),
     "adc3597_rettung": ("film", "https://archive.org/download/111-adc-3597/111-adc-3597.mp4", 133.0),
     "nara195343": ("commons", "File:WWII, Europe, Germany, \"U.S. First Army at Remagen Bridge\" - NARA - 195343.jpg", None),
+    # Modul 9 (Preventive Medicine in World War II, Bd. 9, 1969; Abb. 38/39 nach der Halbtonfassung auf Commons)
+    "pm1969_remagen": ("commons", "File:Remagen enclosure.jpg", None),
+    "pm1969_sinzig": ("commons", "File:Sinzig enclosure.jpg", None),
+    "pm1969_tabelle21": ("ia", "https://archive.org/download/DTIC_ADA286761/page/n401.jpg", (120, 405, 822, 790)),
 }
 
 
