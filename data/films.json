@@ -6,11 +6,72 @@
    "titel_en": "Collapse of Remagen (Ludendorff) Bridge, Germany",
    "datum": "17. März 1945",
    "datum_en": "17 March 1945",
-   "beschreibung": "Stumme Aufnahmen des Signal Corps vom Tag des Einsturzes (National Archives, NAID 17400). Kommentar an Zeitmarken folgt, sobald der Film gesichtet ist.",
-   "beschreibung_en": "Silent Signal Corps footage from the day of the collapse (National Archives, NAID 17400). Commentary at time marks will follow once the film has been viewed.",
+   "beschreibung": "Stumme Aufnahmen des Signal Corps vom Tag des Einsturzes (National Archives, NAID 17400), ohne Zwischentitel; Ort und Datum nach dem Katalog. Sie zeigen die Trümmer und die Bergung: Männer werden aus dem Fluss gezogen, Verletzte und Tote aus den Trägern geholt. Hinweis: Der Film zeigt Verletzte und Tote. Gesichtet am 6. Oktober 2026, Bild für Bild.",
+   "beschreibung_en": "Silent Signal Corps footage from the day of the collapse (National Archives, NAID 17400), without intertitles; place and date according to the catalogue. It shows the wreckage and the rescue: men are pulled from the river, the injured and the dead brought out of the girders. Note: the film shows injured and dead men. Viewed on 6 October 2026, frame by frame.",
    "rechte": "Werk der US-Regierung, gemeinfrei; eingebettet aus dem Internet Archive",
    "rechte_en": "Work of the US government, public domain; embedded from the Internet Archive",
-   "marks": [],
+   "marks": [
+    {
+     "t": "0:15",
+     "text": "Die eingestürzte Brücke aus der Ferne: Die Türme stehen, die Bögen liegen im Rhein.",
+     "text_en": "The collapsed bridge from a distance: the towers stand, the arches lie in the Rhine."
+    },
+    {
+     "t": "0:25",
+     "text": "Am Pfeiler: Trümmer im Strom, Soldaten am Ufer, Männer klettern in die Träger.",
+     "text_en": "At the pier: wreckage in the current, soldiers on the bank, men climbing into the girders."
+    },
+    {
+     "t": "1:36",
+     "text": "Ein Soldat zieht sich aus; andere schwimmen und waten mit einem Seil zu einem Mann, der im Strom treibt.",
+     "text_en": "A soldier strips; others swim and wade out with a rope to a man drifting in the current."
+    },
+    {
+     "t": "2:12",
+     "text": "Sie ziehen ihn ans Ufer; Sanitäter mit dem Roten Kreuz am Helm nehmen ihn auf. Bei 2:20 ein Sanitätsjeep.",
+     "text_en": "They pull him ashore; medics with the red cross on their helmets take him over. At 2:20 an ambulance jeep."
+    },
+    {
+     "t": "2:25",
+     "text": "Die Trümmer aus mehreren Blickwinkeln; bei 3:15 ein Jeep mit einer Trage.",
+     "text_en": "The wreckage from several angles; at 3:15 a jeep carrying a stretcher."
+    },
+    {
+     "t": "4:22",
+     "text": "Suche in den Trümmern: Zwischen den Trägern liegt ein Mann reglos; bei 4:38 ist ein Eingeklemmter zu sehen. Diese Bilder fehlen in der Wochenschau United News, die sonst aus dieser Rolle schöpft.",
+     "text_en": "Searching the wreckage: a man lies motionless between the girders; at 4:38 a trapped man is visible. These images are missing from the United News newsreel, which otherwise draws on this reel."
+    },
+    {
+     "t": "4:55",
+     "text": "Lange Einstellungen der Trümmer vom Ufer aus.",
+     "text_en": "Long shots of the wreckage from the bank."
+    },
+    {
+     "t": "5:50",
+     "text": "Männer arbeiten auf den Trägern über dem Wasser; ab 6:30 im Wasser am Pfeiler, ein Boot.",
+     "text_en": "Men work on the girders above the water; from 6:30 in the water at the pier, a boat."
+    },
+    {
+     "t": "7:10",
+     "text": "Ein Hebegerät am Pfeiler; bei 7:25 Boote auf dem Fluss.",
+     "text_en": "A hoist at the pier; at 7:25 boats on the river."
+    },
+    {
+     "t": "8:28",
+     "text": "Sanitätswagen; bei 8:34 die Türme hinter den Trümmern.",
+     "text_en": "Ambulances; at 8:34 the towers behind the wreckage."
+    },
+    {
+     "t": "8:40",
+     "text": "Eine Trage mit einem Zugedeckten wird fortgetragen.",
+     "text_en": "A stretcher with a covered man is carried away."
+    },
+    {
+     "t": "8:58",
+     "text": "Tragen werden an Seilen aus den Trägern herabgelassen und weitergereicht.",
+     "text_en": "Stretchers are lowered on ropes from the girders and passed on."
+    }
+   ],
    "dauer": "9:33",
    "link": "https://archive.org/details/111-adc-3597",
    "ia": "111-adc-3597"
@@ -21,11 +82,47 @@
    "titel_en": "Antiaircraft & Troops Moving Up, Remagen, Germany",
    "datum": "März 1945",
    "datum_en": "March 1945",
-   "beschreibung": "Ausschnitt aus einer stummen Rolle der US Army mit Flak und nachrückenden Truppen bei Remagen (National Archives, NAID 17415). Noch nicht gesichtet.",
-   "beschreibung_en": "Excerpt from a silent US Army reel with antiaircraft guns and troops moving up at Remagen (National Archives, NAID 17415). Not yet viewed.",
+   "beschreibung": "Ausschnitt aus einer stummen Rolle der US Army (National Archives, NAID 17415), ohne Zwischentitel: Kolonnen in den Straßen, Fahrzeuge mit Geschützen am Rheinufer, Infanterie auf dem Weg zur Brücke und das Schild am Brückenturm. Gesichtet am 6. Oktober 2026, Bild für Bild.",
+   "beschreibung_en": "Excerpt from a silent US Army reel (National Archives, NAID 17415), without intertitles: columns in the streets, vehicles with guns on the Rhine bank, infantry on the way to the bridge, and the sign on the bridge tower. Viewed on 6 October 2026, frame by frame.",
    "rechte": "Werk der US-Regierung, gemeinfrei; eingebettet aus dem Internet Archive (Public Domain Mark)",
    "rechte_en": "Work of the US government, public domain; embedded from the Internet Archive (Public Domain Mark)",
-   "marks": [],
+   "marks": [
+    {
+     "t": "0:06",
+     "text": "Fahrzeugkolonnen in den Straßen eines Ortes, nach dem Katalog Remagen.",
+     "text_en": "Vehicle columns in the streets of a town, according to the catalogue Remagen."
+    },
+    {
+     "t": "1:24",
+     "text": "Fahrzeuge mit Geschützen am Rheinufer; nach dem Katalog Flak.",
+     "text_en": "Vehicles with guns on the Rhine bank; according to the catalogue antiaircraft."
+    },
+    {
+     "t": "2:00",
+     "text": "Die Brücke von fern, über den Fluss gesehen.",
+     "text_en": "The bridge from afar, seen across the river."
+    },
+    {
+     "t": "2:12",
+     "text": "Infanterie zieht durch die Straßen.",
+     "text_en": "Infantry moves through the streets."
+    },
+    {
+     "t": "3:26",
+     "text": "Soldaten gehen zwischen den Türmen auf die Brücke.",
+     "text_en": "Soldiers walk onto the bridge between the towers."
+    },
+    {
+     "t": "3:38",
+     "text": "Am Turm das Schild: „Cross the Rhine with dry feet – Courtesy of 9th Armd Div“.",
+     "text_en": "On the tower the sign: ‘Cross the Rhine with dry feet – Courtesy of 9th Armd Div’."
+    },
+    {
+     "t": "4:06",
+     "text": "Fahrzeuge im Fachwerk der Brücke.",
+     "text_en": "Vehicles inside the truss of the bridge."
+    }
+   ],
    "dauer": "4:23",
    "link": "https://archive.org/details/ADC-3612c",
    "ia": "ADC-3612c"
@@ -36,14 +133,41 @@
    "titel_en": "General Eisenhower on East Bank of Rhine, Linz",
    "datum": "26. März 1945",
    "datum_en": "26 March 1945",
-   "beschreibung": "Rohaufnahmen des Signal Corps: Eisenhower und Bradley im Brückenkopf bei Linz und auf dem Petersberg (National Archives, NAID 17555). Noch nicht gesichtet.",
-   "beschreibung_en": "Signal Corps raw footage: Eisenhower and Bradley in the bridgehead at Linz and on the Petersberg (National Archives, NAID 17555). Not yet viewed.",
+   "beschreibung": "Stumme Rohaufnahmen des Signal Corps (National Archives, NAID 17555). Nach dem Katalog Eisenhower und Bradley im Brückenkopf bei Linz und auf dem Petersberg; zu sehen sind Generale bei Besprechung und Essen, eine Pontonbrücke und ein Flugfeld. Die Ludendorff-Brücke selbst kommt nicht vor. Die ersten 64 Sekunden sind Testbild. Gesichtet am 6. Oktober 2026, Bild für Bild.",
+   "beschreibung_en": "Silent Signal Corps raw footage (National Archives, NAID 17555). According to the catalogue Eisenhower and Bradley in the bridgehead at Linz and on the Petersberg; generals are seen in conference and at a meal, a treadway bridge and an airfield. The Ludendorff Bridge itself does not appear. The first 64 seconds are a test pattern. Viewed on 6 October 2026, frame by frame.",
    "rechte": "Werk der US-Regierung, gemeinfrei; eingebettet aus dem Internet Archive",
    "rechte_en": "Work of the US government, public domain; embedded from the Internet Archive",
-   "marks": [],
+   "marks": [
+    {
+     "t": "1:20",
+     "text": "Offiziere an den Fenstern eines Gebäudes; bei 1:44 der Blick ins Rheintal.",
+     "text_en": "Officers at the windows of a building; at 1:44 the view into the Rhine valley."
+    },
+    {
+     "t": "1:52",
+     "text": "Generale beim Essen.",
+     "text_en": "Generals at a meal."
+    },
+    {
+     "t": "2:16",
+     "text": "Eine Pontonbrücke über den Rhein, Fahrzeuge fahren hinüber.",
+     "text_en": "A treadway bridge across the Rhine, vehicles crossing."
+    },
+    {
+     "t": "2:48",
+     "text": "Ein Flugfeld mit Transportflugzeugen.",
+     "text_en": "An airfield with transport planes."
+    },
+    {
+     "t": "4:08",
+     "text": "Generale im Gespräch; danach Besprechungen im Freien.",
+     "text_en": "Generals in conversation; then conferences in the open."
+    }
+   ],
    "dauer": "8:57",
    "link": "https://archive.org/details/111-adc-3752",
-   "ia": "111-adc-3752"
+   "ia": "111-adc-3752",
+   "start": "1:04"
   },
   {
    "id": "universal",
@@ -51,14 +175,52 @@
    "titel_en": "Universal Newsreel: Allies Drive Across Rhine to Victory",
    "datum": "26. März 1945",
    "datum_en": "26 March 1945",
-   "beschreibung": "Amerikanische Kinowochenschau; laut Katalog zuerst die Einnahme Kölns, dann die Brücke von Remagen, danach Meldungen aus den USA. Noch nicht gesichtet.",
-   "beschreibung_en": "American cinema newsreel; according to the catalogue first the capture of Cologne, then the bridge at Remagen, then news from the United States. Not yet viewed.",
+   "beschreibung": "Amerikanische Kinowochenschau mit Ton. Erst Köln (bis etwa 2:40, darin bei 1:28 ein am Boden liegender Mann in Großaufnahme und das Schild „Welcome to Köln – Courtesy of Spearhead Division“), dann Remagen (2:40–3:56), dann die Delegation zur Konferenz von San Francisco. Der Remagen-Teil übernimmt Einstellungen der Signal-Corps-Rolle ADC-3612c. Der Ton ist noch nicht abgeschrieben. Gesichtet am 6. Oktober 2026, Bild für Bild.",
+   "beschreibung_en": "American cinema newsreel with sound. First Cologne (until about 2:40, including a man lying on the ground in close-up at 1:28 and the sign ‘Welcome to Köln – Courtesy of Spearhead Division’), then Remagen (2:40–3:56), then the delegation to the San Francisco conference. The Remagen part reuses shots from Signal Corps reel ADC-3612c. The soundtrack has not yet been transcribed. Viewed on 6 October 2026, frame by frame.",
    "rechte": "Im Internet Archive als gemeinfrei gekennzeichnet; eingebettet",
    "rechte_en": "Marked as public domain in the Internet Archive; embedded",
-   "marks": [],
+   "marks": [
+    {
+     "t": "0:00",
+     "text": "Titel: „Allies Drive Across Rhine to Victory“.",
+     "text_en": "Title: ‘Allies Drive Across Rhine to Victory’."
+    },
+    {
+     "t": "2:42",
+     "text": "Die Brücke über dem Fluss; ein Soldat auf dem Fußweg.",
+     "text_en": "The bridge above the river; a soldier on the footpath."
+    },
+    {
+     "t": "2:54",
+     "text": "Fahrzeuge vor dem Brückenbogen; Geschütze am Ufer.",
+     "text_en": "Vehicles in front of the bridge arch; guns on the bank."
+    },
+    {
+     "t": "3:13",
+     "text": "Fahrzeuge im Fachwerk, dieselbe Einstellung wie in der Rolle ADC-3612c (4:06).",
+     "text_en": "Vehicles inside the truss, the same shot as in reel ADC-3612c (4:06)."
+    },
+    {
+     "t": "3:19",
+     "text": "Der Turm mit dem Schild, nur einen Augenblick lang; in dieser Kopie unleserlich.",
+     "text_en": "The tower with the sign, only for a moment; illegible in this copy."
+    },
+    {
+     "t": "3:22",
+     "text": "Infanterie zwischen den Türmen; bei 3:29 Jeeps.",
+     "text_en": "Infantry between the towers; at 3:29 jeeps."
+    },
+    {
+     "t": "3:34",
+     "text": "Lange Kolonnen von Gefangenen, nach dem Katalog deutsche.",
+     "text_en": "Long columns of prisoners, according to the catalogue German."
+    }
+   ],
    "dauer": "7:23",
    "link": "https://archive.org/details/1945-03-26_Allies_Drive_Across_Rhine_To_Victory",
-   "ia": "1945-03-26_Allies_Drive_Across_Rhine_To_Victory"
+   "ia": "1945-03-26_Allies_Drive_Across_Rhine_To_Victory",
+   "start": "2:40",
+   "end": "3:56"
   },
   {
    "id": "united",
@@ -66,14 +228,52 @@
    "titel_en": "United News: Bastogne Defenders Honored [etc.]",
    "datum": "1945",
    "datum_en": "1945",
-   "beschreibung": "Wochenschau der US-Regierung (National Archives, ARC 39162); laut Katalog zeigt Teil 4 die Brücke von Remagen im Gebrauch, ihre Instandsetzung und die Trümmer nach dem Einsturz. Noch nicht gesichtet.",
-   "beschreibung_en": "US government newsreel (National Archives, ARC 39162); according to the catalogue part 4 shows the bridge at Remagen in use, its repair and the ruins after the collapse. Not yet viewed.",
+   "beschreibung": "Wochenschau der US-Regierung (National Archives, ARC 39162) mit Ton, vier Teile. Teil 4 trägt den Titel „Bridgehead Extended – Allies Drive On Despite Remagen Span Collapse“ (4:38): erst die Brücke im Gebrauch und bei der Instandsetzung, dann der Einsturz mit Bildern aus der Signal-Corps-Rolle 111-ADC-3597, eine Karte des Brückenkopfs, danach Kämpfe bei Koblenz. Der Ton ist noch nicht abgeschrieben. Gesichtet am 6. Oktober 2026, Bild für Bild.",
+   "beschreibung_en": "US government newsreel (National Archives, ARC 39162) with sound, four parts. Part 4 is titled ‘Bridgehead Extended – Allies Drive On Despite Remagen Span Collapse’ (4:38): first the bridge in use and under repair, then the collapse with images from Signal Corps reel 111-ADC-3597, a map of the bridgehead, then fighting at Koblenz. The soundtrack has not yet been transcribed. Viewed on 6 October 2026, frame by frame.",
    "rechte": "Werk der US-Regierung, gemeinfrei; eingebettet aus dem Internet Archive (CC0)",
    "rechte_en": "Work of the US government, public domain; embedded from the Internet Archive (CC0)",
-   "marks": [],
+   "marks": [
+    {
+     "t": "4:38",
+     "text": "Zwischentitel: „Bridgehead Extended – Allies Drive On Despite Remagen Span Collapse“.",
+     "text_en": "Title card: ‘Bridgehead Extended – Allies Drive On Despite Remagen Span Collapse’."
+    },
+    {
+     "t": "4:43",
+     "text": "Die Brücke im Gebrauch; ein Panzer fährt hinüber.",
+     "text_en": "The bridge in use; a tank crosses."
+    },
+    {
+     "t": "5:03",
+     "text": "Instandsetzung: Pioniere schweißen und arbeiten an den Trägern.",
+     "text_en": "Repair: engineers welding and working on the girders."
+    },
+    {
+     "t": "5:43",
+     "text": "Nach dem Einsturz: die Rettung aus dem Fluss, dieselben Bilder wie in der Rolle 111-ADC-3597 (1:36).",
+     "text_en": "After the collapse: the rescue from the river, the same images as in reel 111-ADC-3597 (1:36)."
+    },
+    {
+     "t": "6:13",
+     "text": "Trümmer und Bergung in den Trägern; bei 7:03 eine Trage am Seil.",
+     "text_en": "Wreckage and rescue in the girders; at 7:03 a stretcher on a rope."
+    },
+    {
+     "t": "7:34",
+     "text": "Eine Trage wird fortgetragen; Sanitätswagen.",
+     "text_en": "A stretcher is carried away; ambulances."
+    },
+    {
+     "t": "7:48",
+     "text": "Eine Karte des Brückenkopfs Remagen.",
+     "text_en": "A map of the Remagen bridgehead."
+    }
+   ],
    "dauer": "10:40",
    "link": "https://archive.org/details/gov.archives.arc.39162",
-   "ia": "gov.archives.arc.39162"
+   "ia": "gov.archives.arc.39162",
+   "start": "4:38",
+   "end": "7:58"
   },
   {
    "id": "bulletin51",
@@ -81,14 +281,41 @@
    "titel_en": "Combat Bulletin No. 51",
    "datum": "1945",
    "datum_en": "1945",
-   "beschreibung": "Filmbericht der US Army; laut Katalog zuerst die Einnahme der Brücke von Remagen, dann Berichte aus dem Pazifik und aus Burma und über NS-Verbrechen. Noch nicht gesichtet.",
-   "beschreibung_en": "US Army film report; according to the catalogue first the capture of the bridge at Remagen, then reports from the Pacific and Burma and on Nazi atrocities. Not yet viewed.",
+   "beschreibung": "Filmbericht des Army Pictorial Service (Signal Corps) mit Ton. Der erste Teil (bis 4:48) gilt Remagen: nach einer Karte sprechen Soldaten vor der Brücke in die Kamera, einzeln und in Gruppen; Namen werden nicht eingeblendet. Danach Berichte über die Marine, den Pazifik, Burma und NS-Verbrechen. Wer spricht und was gesagt wird, wird nach Abhören des Tons ergänzt. Gesichtet am 6. Oktober 2026, Bild für Bild.",
+   "beschreibung_en": "Film report of the Army Pictorial Service (Signal Corps) with sound. The first part (until 4:48) is about Remagen: after a map, soldiers speak to the camera in front of the bridge, singly and in groups; no names are shown on screen. Then reports on the navy, the Pacific, Burma and Nazi crimes. Who speaks and what is said will be added once the soundtrack has been heard. Viewed on 6 October 2026, frame by frame.",
    "rechte": "Werk der US-Regierung, gemeinfrei; eingebettet aus dem Internet Archive (CC0)",
    "rechte_en": "Work of the US government, public domain; embedded from the Internet Archive (CC0)",
-   "marks": [],
+   "marks": [
+    {
+     "t": "0:10",
+     "text": "Titel: „Combat Bulletin No. 51“, War Department; Army Pictorial Service, Signal Corps.",
+     "text_en": "Title: ‘Combat Bulletin No. 51’, War Department; Army Pictorial Service, Signal Corps."
+    },
+    {
+     "t": "0:30",
+     "text": "Karte mit Remagen.",
+     "text_en": "Map showing Remagen."
+    },
+    {
+     "t": "0:36",
+     "text": "Zwei Soldaten vor der Brücke; danach Einzelne in Nahaufnahme, die in die Kamera sprechen.",
+     "text_en": "Two soldiers in front of the bridge; then individuals in close-up speaking to the camera."
+    },
+    {
+     "t": "2:30",
+     "text": "Soldaten am Felshang; bei 2:36 eine Gruppe, die zuhört.",
+     "text_en": "Soldiers on the rocky slope; at 2:36 a group listening."
+    },
+    {
+     "t": "4:50",
+     "text": "Ende des Remagen-Teils: „Navy Moves Inland“.",
+     "text_en": "End of the Remagen part: ‘Navy Moves Inland’."
+    }
+   ],
    "dauer": "26:48",
    "link": "https://archive.org/details/gov.dod.dimoc.20315",
-   "ia": "gov.dod.dimoc.20315"
+   "ia": "gov.dod.dimoc.20315",
+   "end": "4:48"
   },
   {
    "id": "pathe",
@@ -96,13 +323,25 @@
    "titel_en": "British Pathé: Across the Rhine (1945)",
    "datum": "1945",
    "datum_en": "1945",
-   "beschreibung": "Britische Wochenschau, eingebettet über den offiziellen YouTube-Kanal von British Pathé. Noch nicht gesichtet.",
-   "beschreibung_en": "British newsreel, embedded through British Pathé's official YouTube channel. Not yet viewed.",
+   "beschreibung": "Britische Wochenschau mit Ton, eingebettet über den offiziellen YouTube-Kanal von British Pathé. Nach Stichproben: Kriegsgerät am Rhein, dann die Ludendorff-Brücke mit Infanterie und das Schild am Turm in Großaufnahme. Noch nicht vollständig gesichtet; der Ton ist noch nicht abgeschrieben.",
+   "beschreibung_en": "British newsreel with sound, embedded through British Pathé's official YouTube channel. From spot checks: war material on the Rhine, then the Ludendorff Bridge with infantry and the sign on the tower in close-up. Not yet fully viewed; the soundtrack has not yet been transcribed.",
    "rechte": "© British Pathé; nur eingebettet, nicht gespeichert",
    "rechte_en": "© British Pathé; embedded only, not stored",
-   "marks": [],
+   "marks": [
+    {
+     "t": "1:30",
+     "text": "Infanterie zwischen den Brückentürmen.",
+     "text_en": "Infantry between the bridge towers."
+    },
+    {
+     "t": "2:22",
+     "text": "Das Schild in Großaufnahme: „Cross the Rhine with dry feet – Courtesy of 9th Armd. Div.“",
+     "text_en": "The sign in close-up: ‘Cross the Rhine with dry feet – Courtesy of 9th Armd. Div.’"
+    }
+   ],
    "link": "https://www.youtube.com/watch?v=ZF9vbwSoGOI",
-   "yt": "ZF9vbwSoGOI"
+   "yt": "ZF9vbwSoGOI",
+   "dauer": "2:41"
   },
   {
    "id": "movietone",
