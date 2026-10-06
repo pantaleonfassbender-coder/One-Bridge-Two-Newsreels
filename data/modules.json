@@ -12,6 +12,19 @@
    "datei": "siebter",
    "zk": "Befehl · Vormarsch · Höhe · Übergang · Meldung · Film",
    "zk_en": "Order · Advance · Heights · Crossing · News · Film"
+  },
+  {
+   "id": "warum",
+   "side": "deutsch",
+   "kurz": "3 · Warum sie stand",
+   "kurz_en": "3 · Why it stood",
+   "warum": "Vier Männer mit vier Befehlswegen, ein Major ohne Funkgerät, ein Befehl, der schriftlich sein musste, Menschen im Tunnel, dreimal ein Schlüssel ohne Wirkung, eine Notladung, die die Brücke nur hob. Warum der Zündkreis versagte, bleibt offen.",
+   "warum_en": "Four men with four chains of command, a major without a radio, an order that had to be in writing, people in the tunnel, three turns of a key to no effect, an emergency charge that only lifted the bridge. Why the firing circuit failed remains open.",
+   "quelle": "MacDonald, The Last Offensive (1973), S. 209–216 und 230 (nach Hechlers Studie zur deutschen Seite).",
+   "quelle_en": "MacDonald, The Last Offensive (1973), pp. 209–216 and 230 (after Hechler's study of the German side).",
+   "datei": "warum",
+   "zk": "Befehle · Scheller · Sprengplan · Bratge · Tunnel · Erklärungen",
+   "zk_en": "Commands · Scheller · Scheme · Bratge · Tunnel · Explanations"
   }
  ],
  "planned": [
@@ -24,16 +37,6 @@
    "warum_en": "A railway bridge built for war, named after Ludendorff, with a tunnel through the Erpeler Ley and a demolition plan from 1938.",
    "quelle": "MacDonald, Kap. XI (Anlage, Tunnel, Ladungen); ein gemeinfreier Baubericht der Jahre 1916–1919 wird noch gesucht.",
    "quelle_en": "MacDonald, ch. XI (layout, tunnel, charges); a public-domain construction report of 1916–1919 is still being sought."
-  },
-  {
-   "id": "warum",
-   "side": "deutsch",
-   "kurz": "3 · Warum sie stand",
-   "kurz_en": "3 · Why it stood",
-   "warum": "Bratge, Scheller und Friesenhahn auf der Ostseite: ein Befehl, der schriftlich vorliegen musste, ein Zündkreis, der versagte, Zivilisten im Tunnel.",
-   "warum_en": "Bratge, Scheller and Friesenhahn on the east bank: an order that had to be in writing, a firing circuit that failed, civilians in the tunnel.",
-   "quelle": "MacDonald, Kap. XI; Bericht der First Army (zu prüfen); deutsche Aussagen nur, soweit gemeinfrei.",
-   "quelle_en": "MacDonald, ch. XI; First Army report (to be checked); German statements only where in the public domain."
   },
   {
    "id": "brueckenkopf",
@@ -70,8 +73,8 @@
    "side": "bruecke",
    "kurz": "7 · Der Einsturz",
    "kurz_en": "7 · The collapse",
-   "warum": "Am Nachmittag des 17. März stürzte die Brücke in den Rhein, während rund 200 amerikanische Pioniere auf ihr arbeiteten. Die Zahl der Toten ist umstritten.",
-   "warum_en": "On the afternoon of 17 March the bridge fell into the Rhine while some 200 American engineers were working on it. The number of dead is disputed.",
+   "warum": "Am Nachmittag des 17. März stürzte die Brücke in den Rhein, während rund 200 amerikanische Pioniere auf ihr arbeiteten. Nach MacDonald starben 28 von ihnen, 93 wurden verletzt.",
+   "warum_en": "On the afternoon of 17 March the bridge fell into the Rhine while some 200 American engineers were working on it. According to MacDonald 28 of them were killed and 93 injured.",
    "quelle": "MacDonald, Kap. XI; Bericht des Army Service Forces (Report No. 126, zu prüfen); Signal-Corps-Film vom 17. März.",
    "quelle_en": "MacDonald, ch. XI; Army Service Forces report (Report No. 126, to be checked); Signal Corps film of 17 March."
   },

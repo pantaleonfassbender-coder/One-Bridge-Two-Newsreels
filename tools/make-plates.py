@@ -26,6 +26,9 @@ PLATES = {
     "mac1973_map3": ("ia", MAC.format(218 + 20), (85, 95, 925, 870)),
     "adc3612c_schild": ("film", "https://archive.org/download/ADC-3612c/ADC-3612c.mp4", 222.0),
     "adc3612c_tuerme": ("film", "https://archive.org/download/ADC-3612c/ADC-3612c.mp4", 209.0),
+    # Modul 3
+    "mac1973_bruecke": ("ia", MAC.format(224 + 20), (75, 105, 908, 605)),
+    "adc3612c_ferne": ("film", "https://archive.org/download/ADC-3612c/ADC-3612c.mp4", 121.0),
 }
 
 

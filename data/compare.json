@@ -1,5 +1,149 @@
 {
- "lede": "Hier stehen später Stimmen nebeneinander: der amerikanische Bericht und die deutsche Meldung, die Wochenschau und die Rohaufnahme.",
- "lede_en": "Voices will later stand side by side here: the American report and the German announcement, the newsreel and the raw footage.",
- "pairs": []
+ "lede": "Stimmen nebeneinander: der Bericht der Army, die Erinnerung vor der Kamera, die deutsche Seite aus zweiter Hand. Jede Stimme verweist auf ihre Stelle im Modul.",
+ "lede_en": "Voices side by side: the Army's history, memory before the camera, the German side at second hand. Each voice points to its place in the module.",
+ "pairs": [
+  {
+   "id": "kabel",
+   "titel": "Das Kabel",
+   "titel_en": "The cable",
+   "frage": "Wer durchtrennte das Kabel, und wann?",
+   "frage_en": "Who cut the cable, and when?",
+   "note": "Drei Stimmen sprechen von Kabeln, aber nicht vom selben Augenblick. Nach MacDonald versagte der deutsche Zündkreis, bevor Friesenhahn den Schlüssel drehte, also bevor Amerikaner auf der Brücke waren; die Deutschen vermuteten einen Panzertreffer. Die amerikanischen Pioniere kamen erst nach der Notsprengung und schossen Kabel durch, damit nichts mehr zündete. Dorlands Schuss erklärt das Ausbleiben weiterer Sprengungen, nicht das Versagen des Schlüssels.",
+   "note_en": "Three voices speak of cables, but not of the same moment. According to MacDonald the German firing circuit failed before Friesenhahn turned the key, that is, before any American was on the bridge; the Germans suspected a hit from a tank. The American engineers came only after the emergency demolition and shot through cables so that nothing more would fire. Dorland's shot explains why no further charges went off, not why the key failed.",
+   "voices": [
+    {
+     "text": "warum",
+     "sec": "erklaerungen",
+     "n": [
+      22
+     ],
+     "wer": "MacDonald 1973: die deutsche Sicht",
+     "wer_en": "MacDonald 1973: the German view"
+    },
+    {
+     "text": "siebter",
+     "sec": "uebergang",
+     "n": [
+      16
+     ],
+     "wer": "MacDonald 1973: die Pioniere",
+     "wer_en": "MacDonald 1973: the engineers"
+    },
+    {
+     "text": "siebter",
+     "sec": "film",
+     "n": [
+      27
+     ],
+     "wer": "Sergeant Dorland im Film, 1945",
+     "wer_en": "Sergeant Dorland on film, 1945"
+    }
+   ]
+  },
+  {
+   "id": "vierUhr",
+   "titel": "Um vier Uhr",
+   "titel_en": "At four o'clock",
+   "frage": "Wann sollte die Brücke gesprengt werden?",
+   "frage_en": "When was the bridge to be blown?",
+   "note": "Ein Zivilist in Sinzig nannte 16 Uhr, Engeman erinnerte sich an dieselbe Meldung. MacDonald stellt fest, die Deutschen hätten keinen festen Zeitplan gehabt: Ihr Sprengbefehl hing an einem schriftlichen Befehl und an Geschützen, die noch über den Fluss sollten.",
+   "note_en": "A civilian at Sinzig named 1600, and Engeman remembered the same message. MacDonald states that the Germans had no fixed schedule: their demolition depended on a written order and on guns still meant to cross the river.",
+   "voices": [
+    {
+     "text": "siebter",
+     "sec": "hoehe",
+     "n": [
+      12
+     ],
+     "wer": "MacDonald 1973: die Meldung aus Sinzig",
+     "wer_en": "MacDonald 1973: the message from Sinzig"
+    },
+    {
+     "text": "siebter",
+     "sec": "film",
+     "n": [
+      23
+     ],
+     "wer": "Oberstleutnant Engeman im Film, 1945",
+     "wer_en": "Lieutenant Colonel Engeman on film, 1945"
+    },
+    {
+     "text": "warum",
+     "sec": "bratge",
+     "n": [
+      15
+     ],
+     "wer": "MacDonald 1973: Scheller zögert",
+     "wer_en": "MacDonald 1973: Scheller hesitates"
+    }
+   ]
+  },
+  {
+   "id": "schriftlich",
+   "titel": "Der Befehl, schriftlich",
+   "titel_en": "The order, in writing",
+   "frage": "Warum dauerte der Sprengbefehl?",
+   "frage_en": "Why did the order to blow take so long?",
+   "note": "Der Befehl des OKW verlangte Schriftform; Bratge ließ den Befehl niederschreiben, Friesenhahn wollte ihn erst schriftlich und gab dann nach. Die Vorschrift sollte vorzeitige Sprengungen verhindern; am 7. März kostete sie Minuten.",
+   "note_en": "The OKW order required the written form; Bratge had the order written down, Friesenhahn wanted it in writing at first and then gave way. The rule was meant to prevent premature demolitions; on 7 March it cost minutes.",
+   "voices": [
+    {
+     "text": "warum",
+     "sec": "sprengplan",
+     "n": [
+      10
+     ],
+     "wer": "MacDonald 1973: der Befehl des OKW",
+     "wer_en": "MacDonald 1973: the OKW order"
+    },
+    {
+     "text": "warum",
+     "sec": "tunnel",
+     "n": [
+      18
+     ],
+     "wer": "MacDonald 1973: im Tunnel",
+     "wer_en": "MacDonald 1973: in the tunnel"
+    }
+   ]
+  },
+  {
+   "id": "blick",
+   "titel": "Die Brücke steht noch",
+   "titel_en": "The bridge still stands",
+   "frage": "Wer sah die Brücke stehen?",
+   "frage_en": "Who saw the bridge standing?",
+   "note": "Dreimal derselbe Satz an diesem Tag: Burrows auf der Höhe, Friesenhahn nach der Sprengung am Ostufer, Timmermans Männer am Westufer. MacDonald erzählt beide Ufer mit demselben Bild.",
+   "note_en": "Three times the same sentence on that day: Burrows on the heights, Friesenhahn on the east bank after the demolition, Timmerman's men on the west bank. MacDonald tells both banks with the same image.",
+   "voices": [
+    {
+     "text": "siebter",
+     "sec": "vormarsch",
+     "n": [
+      8
+     ],
+     "wer": "MacDonald 1973: Burrows auf der Höhe",
+     "wer_en": "MacDonald 1973: Burrows on the heights"
+    },
+    {
+     "text": "warum",
+     "sec": "tunnel",
+     "n": [
+      21
+     ],
+     "wer": "MacDonald 1973: Friesenhahn am Ostufer",
+     "wer_en": "MacDonald 1973: Friesenhahn on the east bank"
+    },
+    {
+     "text": "siebter",
+     "sec": "uebergang",
+     "n": [
+      14
+     ],
+     "wer": "MacDonald 1973: Timmermans Männer",
+     "wer_en": "MacDonald 1973: Timmerman's men"
+    }
+   ]
+  }
+ ]
 }

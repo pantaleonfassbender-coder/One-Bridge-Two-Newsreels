@@ -7,8 +7,9 @@ Ein zweisprachiger Quellenapparat zur Brücke von Remagen, 7. bis 17. März 1945
 **Stand:** im Aufbau. Abgedruckt:
 
 - **Der 7. März** — Charles B. MacDonald, *The Last Offensive* (1973), S. 211–219, am Seitenbild gelesen, mit deutscher Übersetzung; dazu die Stimmen von Engeman, Drabik und den Pionieren aus *Combat Bulletin No. 51* (1945) nach der Tonspur. Sechs Abschnitte, 28 Einheiten, fünf Tafeln (zwei Photographien und eine Karte aus MacDonald, zwei Standbilder des Signal Corps) und eine Zeitachse der Stunden des 7. März.
+- **Warum sie stand** — MacDonald, S. 209–216 und 230, die deutsche Seite nach Hechlers Studie: Befehlswege, Schellers Fahrt, der Sprengplan und der Befehl des OKW, Bratge am Vormittag, der Tunnel, die Erklärungen. Sechs Abschnitte, 22 Einheiten, zwei Tafeln und ein Schema der Befehlswege.
 
-Acht weitere Module sind geplant (die Brücke, warum sie stand, der Brückenkopf, das fliegende Standgericht, die Angriffe, der Einsturz, zwei Wochenschauen, die Lager am Rhein). Die Seite „Filme“ zeigt elf Filme mit Zeitmarken und, wo es Ton gibt, einer Abschrift mit Übersetzung.
+Sieben weitere Module sind geplant (die Brücke, der Brückenkopf, das fliegende Standgericht, die Angriffe, der Einsturz, zwei Wochenschauen, die Lager am Rhein). Die Seite „Filme“ zeigt elf Filme mit Zeitmarken und, wo es Ton gibt, einer Abschrift mit Übersetzung; die Seite „Vergleich“ stellt Stimmen beider Module nebeneinander.
 
 **Nur Gemeinfreies, und was eingebettet werden darf.** Hauptquelle ist Charles B. MacDonald, *The Last Offensive* (Center of Military History 1973), als Werk der US-Regierung gemeinfrei. Die Filme sind nicht im Repository: Aufnahmen der US-Regierung werden aus dem Internet Archive eingebettet, britische Wochenschauen nur über den offiziellen YouTube-Kanal ihrer Rechteinhaber, beide erst auf Klick. Die Deutsche Wochenschau wird weder gezeigt noch eingebettet. Geschützte Darstellungen (Hechler 1957, der Spielfilm von 1969, die neuere Forschung) werden nur referiert.
 

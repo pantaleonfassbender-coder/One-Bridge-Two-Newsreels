@@ -303,7 +303,7 @@ async function compare([pid]) {
     const sec = t.sections.find(s => s.id === v.sec);
     const units = v.n.map(n => sec.units.find(u => u.n === n)).filter(Boolean);
     return `<div class="voice">
-      <div class="vhead">${side(m.side)} <b>${esc(L(t, "autor"))}</b><br><span class="fine">${esc(L(t, "jahr"))} · ${esc(L(sec, "titel"))}</span></div>
+      <div class="vhead">${side(m.side)} <b>${esc(L(v, "wer") || L(t, "autor"))}</b><br><span class="fine">${esc(L(t, "jahr"))} · ${esc(L(sec, "titel"))}</span></div>
       ${units.map(u => `<div class="vunit">
         <div class="fine"><a href="#/text/${m.id}/${sec.id}/${u.n}">${esc(L(sec, "zk"))} [${u.n}]</a>${u.titel ? ` · ${esc(L(u, "titel"))}` : ""}</div>
         <div class="text">${esc(trOf(u, u.lang || t.orig_sprache) || u.orig)}</div></div>`).join("")}
@@ -368,7 +368,7 @@ const METHOD = {
       ["Die Quelle ist maßgeblich.", "Texte werden am Seitenbild gelesen, Filme an der Aufnahme selbst; die Zeitmarken beziehen sich auf die eingebettete Fassung. Was nur die neuere Literatur weiß, ist als solches gekennzeichnet; geschützte Darstellungen werden nur referiert."],
       ["Zwei Sprachen.", "Jede Quelle steht im Original. Englische Quellen haben eine deutsche, deutsche eine englische Übersetzung; die Übersetzungen sind eigene Arbeit, nah am Original und gemeinfrei (CC0). Die Oberfläche lässt sich umschalten."],
       ["NS-Material.", "Wo Dokumente des NS-Staates zitiert werden (Wehrmachtbericht, Urteile des Standgerichts), geschieht es zur Aufklärung über die Geschichte und mit Einordnung. Kennzeichen verfassungswidriger Organisationen werden, wo es sich vermeiden lässt, nicht gezeigt."],
-      ["Zahlen.", "Wo die Quellen sich widersprechen, etwa bei den Toten des Einsturzes oder in den Lagern, stehen die Angaben mit ihrer Herkunft nebeneinander. Widerlegte Zahlen werden genannt und als widerlegt bezeichnet."]
+      ["Zahlen.", "Wo die Quellen sich widersprechen, etwa bei den Toten in den Lagern, stehen die Angaben mit ihrer Herkunft nebeneinander. Widerlegte Zahlen werden genannt und als widerlegt bezeichnet."]
     ],
     printed: "Abgedruckte Quellen", plates: "Tafeln"
   },
@@ -379,7 +379,7 @@ const METHOD = {
       ["The source decides.", "Texts are read against the page images, films against the footage itself; time marks refer to the embedded version. What only recent literature knows is marked as such; protected accounts are only summarized."],
       ["Two languages.", "Every source stands in the original. English sources have a German translation, German sources an English one; the translations are my own, close to the original and in the public domain (CC0). The interface can be switched."],
       ["Nazi material.", "Where documents of the Nazi state are quoted (the Wehrmacht report, the sentences of the court-martial), this serves historical education and comes with context. Symbols of unconstitutional organizations are not shown where this can be avoided."],
-      ["Numbers.", "Where the sources disagree, as on the dead of the collapse or in the camps, the figures stand side by side with their origin. Disproved figures are named and called disproved."]
+      ["Numbers.", "Where the sources disagree, as on the dead in the camps, the figures stand side by side with their origin. Disproved figures are named and called disproved."]
     ],
     printed: "Sources printed here", plates: "Plates"
   }

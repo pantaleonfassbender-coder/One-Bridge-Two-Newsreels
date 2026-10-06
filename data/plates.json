@@ -18,8 +18,8 @@
    "side": "us",
    "titel": "Leutnant Karl H. Timmerman",
    "titel_en": "Lieutenant Karl H. Timmerman",
-   "caption": "Chef der Kompanie A, 27th Armored Infantry Battalion; nach MacDonald der erste Offizier über die Brücke.",
-   "caption_en": "Commander of Company A, 27th Armored Infantry Battalion; according to MacDonald the first officer across the bridge.",
+   "caption": "Chef der Kompanie A, 27th Armored Infantry Battalion; nach MacDonald der erste Offizier über die Brücke. Im Text heißt er „1st Lt.“, im Abbildungsverzeichnis „2d Lt.“.",
+   "caption_en": "Commander of Company A, 27th Armored Infantry Battalion; according to MacDonald the first officer across the bridge. The text calls him ‘1st Lt.’, the list of illustrations ‘2d Lt.’.",
    "source": "Photographie der US Army in MacDonald, The Last Offensive (1973), S. 215; Internet Archive CMHPub791TheLastOffensive."
   },
   {
@@ -48,6 +48,24 @@
    "caption": "Das Schild über dem Tordurchgang des Brückenturms: „Cross the Rhine with dry feet – Courtesy of 9th Armd Div“. Standbild aus der stummen Signal-Corps-Rolle, März 1945.",
    "caption_en": "The sign above the gateway of the bridge tower: ‘Cross the Rhine with dry feet – Courtesy of 9th Armd Div’. Still from the silent Signal Corps reel, March 1945.",
    "source": "U.S. Army, Antiaircraft & Troops Moving Up, Remagen, Germany (National Archives, NAID 17415), 3:42; Internet Archive ADC-3612c."
+  },
+  {
+   "id": "mac1973_bruecke",
+   "side": "bruecke",
+   "titel": "Die Ludendorff-Brücke bei Remagen",
+   "titel_en": "The Ludendorff Bridge at Remagen",
+   "caption": "Vom Remagener Ufer aus, nach der Einnahme: die beiden Türme, zwischen ihnen die mit Bohlen belegte Fahrbahn, links Panzerfahrzeuge, rechts Trümmer. Am anderen Ende das Erpeler Ufer.",
+   "caption_en": "From the Remagen bank, after the capture: the two towers, between them the planked roadway, vehicles on the left, debris on the right. At the far end the Erpel bank.",
+   "source": "Photographie der US Army in MacDonald, The Last Offensive (1973), S. 224; Internet Archive CMHPub791TheLastOffensive."
+  },
+  {
+   "id": "adc3612c_ferne",
+   "side": "film",
+   "titel": "Die Brücke im Dunst",
+   "titel_en": "The bridge in the haze",
+   "caption": "Die Brücke von einem Uferweg aus, im März 1945; im Vordergrund Fahrzeuge. Standbild aus der stummen Signal-Corps-Rolle.",
+   "caption_en": "The bridge from a riverside road, March 1945; vehicles in the foreground. Still from the silent Signal Corps reel.",
+   "source": "U.S. Army, Antiaircraft & Troops Moving Up, Remagen, Germany (National Archives, NAID 17415), 2:01; Internet Archive ADC-3612c."
   }
  ]
 }
