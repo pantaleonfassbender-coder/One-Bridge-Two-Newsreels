@@ -354,6 +354,93 @@
    "tonhinweis_en": "Soundtrack transcribed by machine (Whisper medium.en, 6 October 2026) and reviewed; uncertain passages are in square brackets. Names confirmed by MacDonald (Engeman, Drabik) are spelled after him, the others by ear. German translation: my own, CC0."
   },
   {
+   "id": "cb48",
+   "ia": "CB-48",
+   "titel": "Combat Bulletin No. 48",
+   "titel_en": "Combat Bulletin No. 48",
+   "datum": "März 1945",
+   "datum_en": "March 1945",
+   "dauer": "31:45",
+   "start": "12:20",
+   "end": "16:45",
+   "beschreibung": "Filmbericht des Army Pictorial Service (Signal Corps) mit Ton. Der Teil zum Rhein beginnt bei 12:20 mit Booten der Navy und Schwimmlastwagen; ab 13:13 die Ludendorff-Brücke unter Feuer, Pontonbrücken, Instandsetzung, ab 15:08 der Einsturz am 17. März und die Bergung, bei 16:29 die Aufgabe der Brücke am 20. März. Hinweis: Der Film zeigt Verletzte und die Bergung von Toten. Gesichtet am 6. Oktober 2026.",
+   "beschreibung_en": "Film report of the Army Pictorial Service (Signal Corps) with sound. The Rhine part begins at 12:20 with Navy craft and amphibious trucks; from 13:13 the Ludendorff Bridge under fire, treadway bridges, repair, from 15:08 the collapse on 17 March and the rescue, at 16:29 the abandonment of the bridge on 20 March. Note: the film shows injured men and the recovery of the dead. Viewed on 6 October 2026.",
+   "rechte": "Werk der US-Regierung, gemeinfrei; eingebettet aus dem Internet Archive (Public Domain Mark)",
+   "rechte_en": "Work of the US government, public domain; embedded from the Internet Archive (Public Domain Mark)",
+   "link": "https://archive.org/details/CB-48",
+   "marks": [
+    {
+     "t": "13:13",
+     "text": "Die Brücke von weitem; Fahrzeuge in Abständen.",
+     "text_en": "The bridge from afar; vehicles at intervals."
+    },
+    {
+     "t": "13:50",
+     "text": "Pontongerät am Ufer; Pioniere beginnen den Bau.",
+     "text_en": "Ponton equipment on the bank; engineers begin building."
+    },
+    {
+     "t": "14:05",
+     "text": "Einschläge und Rauch am Fluss.",
+     "text_en": "Shell bursts and smoke at the river."
+    },
+    {
+     "t": "14:55",
+     "text": "Die Ludendorff-Brücke von unten; ab 15:05 Schweißer an den Trägern.",
+     "text_en": "The Ludendorff Bridge from below; from 15:05 welders on the girders."
+    },
+    {
+     "t": "15:15",
+     "text": "Die eingestürzte Brücke; ab 15:45 Rettung aus dem Fluss, Bilder wie in der Rolle 111-ADC-3597.",
+     "text_en": "The collapsed bridge; from 15:45 rescue from the river, pictures as in reel 111-ADC-3597."
+    },
+    {
+     "t": "16:20",
+     "text": "Bergung zwischen den Trägern.",
+     "text_en": "Recovery between the girders."
+    }
+   ],
+   "tonhinweis": "Ton maschinell abgeschrieben (Whisper medium.en, 6. Oktober 2026) und durchgesehen; Unsicheres steht in eckigen Klammern. Übersetzung: eigene Arbeit, CC0.",
+   "tonhinweis_en": "Soundtrack transcribed by machine (Whisper medium.en, 6 October 2026) and reviewed; uncertain passages are in square brackets. German translation: my own, CC0.",
+   "ton": [
+    {
+     "t": "12:20",
+     "en": "[…] troops consolidating positions across the Rhine. General Hodges' army, driving for the central German plain, also employs Navy craft to move up reinforcements. LCVPs transport men of the 1st Infantry Division to Scheuren [Schreibung nach Gehör], Germany, northeast of Remagen. Sailors of Navy units attached to the 1st Army operate the craft. The Navy began operations in this area 48 hours after the Army seizure of the Ludendorff Bridge. In addition, supplies are ferried across the Rhine in dukws. Two amphibious truck companies, one a Negro outfit, man the amphibious vehicles on the runs to and from Unkel, Germany. Prisoners of war and empty gasoline containers are carted by the dukws on their return trips.",
+     "de": "[…] Truppen festigen ihre Stellungen jenseits des Rheins. General Hodges' Armee, auf dem Weg in die mitteldeutsche Ebene, setzt auch Boote der Navy ein, um Verstärkungen heranzubringen. Landungsboote bringen Männer der 1st Infantry Division nach Scheuren [Schreibung nach Gehör], nordöstlich von Remagen. Matrosen der Navy-Einheiten, die der First Army zugeteilt sind, fahren die Boote. Die Navy nahm hier 48 Stunden nach der Einnahme der Ludendorff-Brücke durch die Army den Betrieb auf. Außerdem wird Nachschub in Schwimmlastwagen über den Rhein gebracht. Zwei Amphibienlastwagen-Kompanien, eine davon eine „Negro outfit“, fahren die Schwimmwagen auf den Strecken nach und von Unkel. Auf der Rückfahrt bringen die Schwimmwagen Kriegsgefangene und leere Benzinkanister mit."
+    },
+    {
+     "t": "13:13",
+     "en": "The Ludendorff Bridge across the Rhine at Remagen: for ten days it withstands aerial attacks and constant artillery fire while First Army troops exploit the initial breaching of the Rhine River Line. Traffic in the face of the attacks must be kept to proper intervals between vehicles. The convoy of ponton [im Ton wie „Patton“] equipment is ready to be unloaded for engineer battalions who begin construction despite the enemy raids. Normally a thirty-four hour job, bridging operations are hours behind as Nazi fire flares up repeatedly. Under heavy enemy fire, combat engineers out on the uncompleted span dash back to shore.",
+     "de": "Die Ludendorff-Brücke über den Rhein bei Remagen: Zehn Tage lang hält sie Luftangriffen und ständigem Artilleriefeuer stand, während Truppen der First Army den ersten Durchbruch durch die Rheinlinie ausnutzen. Der Verkehr muss unter den Angriffen auf gehörigen Abstand zwischen den Fahrzeugen gehalten werden. Die Kolonne mit Pontongerät steht zum Abladen bereit für die Pionierbataillone, die trotz der feindlichen Angriffe mit dem Bau beginnen. Normalerweise eine Arbeit von vierunddreißig Stunden, liegt der Brückenbau Stunden zurück, weil das Feuer der Nazis immer wieder aufflammt. Unter schwerem feindlichem Feuer rennen Pioniere, die draußen auf dem unfertigen Brückenstück arbeiten, ans Ufer zurück."
+    },
+    {
+     "t": "14:28",
+     "en": "Despite these attacks, the first ponton bridge is completed and handling heavy traffic on 14th March. Armor is raced across the new link as the Remagen bridgehead begins expanding into a wide front. Both the ponton span and the adjacent Ludendorff bridge are still under enemy fire. The engineer battalion working on the Ludendorff strengthens the roadbed which was improvised to allow vehicles to travel over the railway ties. Damaged structural members of the bridge are removed by engineers.",
+     "de": "Trotz dieser Angriffe ist die erste Pontonbrücke fertig und trägt am 14. März schweren Verkehr. Panzer werden über die neue Verbindung gejagt, während sich der Brückenkopf Remagen zu einer breiten Front zu weiten beginnt. Die Pontonbrücke und die benachbarte Ludendorff-Brücke liegen weiter unter feindlichem Feuer. Das Pionierbataillon an der Ludendorff-Brücke verstärkt die Fahrbahn, die improvisiert worden war, damit Fahrzeuge über die Schwellen fahren konnten. Beschädigte Bauteile der Brücke werden von Pionieren entfernt."
+    },
+    {
+     "t": "15:08",
+     "en": "But weakened by the cumulative damage, the Ludendorff collapses on 17th March while about 300 engineer troops are working on it. Many of them are hurled into the swift icy water or crushed by the falling structure. Rescue crews save those who manage to cling to sections of the span as it gave way.",
+     "de": "Doch geschwächt von den angehäuften Schäden stürzt die Ludendorff-Brücke am 17. März ein, während etwa 300 Pioniere auf ihr arbeiten. Viele von ihnen werden in das reißende, eiskalte Wasser geschleudert oder von der stürzenden Konstruktion zerquetscht. Rettungsmannschaften bergen die, die sich an Teilen der Brücke festhalten konnten, als sie nachgab."
+    },
+    {
+     "t": "15:31",
+     "en": "Rescuers swim out into the Rhine to reach injured men kept afloat by driftwood, bringing out a line to pull in the surviving engineers. Quick action of this type saves many lives.",
+     "de": "Retter schwimmen in den Rhein hinaus zu Verletzten, die sich an Treibholz über Wasser halten, und bringen eine Leine, um die überlebenden Pioniere hereinzuziehen. Schnelles Handeln dieser Art rettet viele Leben."
+    },
+    {
+     "t": "16:14",
+     "en": "When the 512-foot center span of the Ludendorff gave way, there was no vehicular traffic crossing the bridge. Crews extricate bodies pinned beneath the heavy beams.",
+     "de": "Als das 512 Fuß lange Mittelstück der Ludendorff-Brücke nachgab, fuhren keine Fahrzeuge über die Brücke. Mannschaften bergen Leichen, die unter den schweren Trägern eingeklemmt sind."
+    },
+    {
+     "t": "16:29",
+     "en": "Three days later on 20th March, Supreme Headquarters announces that the collapsed Ludendorff bridge has been abandoned. The dispatch says that the span is no longer necessary because of the existence of other facilities across the Rhine into the Remagen bridgehead.",
+     "de": "Drei Tage später, am 20. März, gibt das Oberste Hauptquartier bekannt, die eingestürzte Ludendorff-Brücke werde aufgegeben. Die Meldung sagt, die Brücke sei nicht mehr nötig, weil es andere Übergänge über den Rhein in den Brückenkopf Remagen gebe."
+    }
+   ]
+  },
+  {
    "id": "bulletin51",
    "titel": "Combat Bulletin No. 51",
    "titel_en": "Combat Bulletin No. 51",

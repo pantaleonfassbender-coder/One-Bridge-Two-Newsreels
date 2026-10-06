@@ -38,6 +38,10 @@ PLATES = {
     "nara1944_erpel": ("commons", "File:Erpel Germany 50.5824603486033, 7.2413274834195 1944-10-28 NARA ID531347349 deatil.webp", None),
     "nara1945_erpel": ("commons", "File:Erpel Germany 50.58099226, 7.24065513 1945-02-15 NARA ID291982353 detail.webp", None),
     "mtb1938_linz": ("commons", "File:Remagener Brücke R RW Karten-08601 gesamt 1938.jpg", None),
+    # Modul 6
+    "sc1945_ley": ("commons", "File:Ludendorff Bridge from Erpeler Ley.jpg", None),
+    "adc3612c_flak": ("film", "https://archive.org/download/ADC-3612c/ADC-3612c.mp4", 90.0),
+    "cb48_schweisser": ("film", "https://archive.org/download/CB-48/CB-48%20Combat%20Bulletin%2048%20Air%20Support%20On%20Western%20Front%20Etc%201945.mp4", 910.0),
     # Modul 7
     "nara195343": ("commons", "File:WWII, Europe, Germany, \"U.S. First Army at Remagen Bridge\" - NARA - 195343.jpg", None),
 }

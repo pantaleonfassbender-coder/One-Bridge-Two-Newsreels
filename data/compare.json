@@ -278,6 +278,35 @@
      "wer_en": "DNB, 11 March 1945"
     }
    ]
+  },
+  {
+   "id": "treffer",
+   "titel": "Treffer?",
+   "titel_en": "Hits?",
+   "frage": "Trafen die deutschen Flieger die Brücken?",
+   "frage_en": "Did the German airmen hit the bridges?",
+   "note": "Die deutsche Lagedarstellung meldet „einige Treffer auf den Brücken und Zufahrtsrampen“, MacDonald nach den amerikanischen Berichten „with no success“. Beides kann stimmen: Ein Treffer auf eine Rampe ist noch keine zerstörte Brücke. Die Flugzeugzahlen sind Schätzungen der Flak.",
+   "note_en": "The German situation report claims ‘several hits on the bridges and approach ramps’, MacDonald after the American reports ‘with no success’. Both may be true: a hit on a ramp is not yet a destroyed bridge. The aircraft figures are the antiaircraft units' estimates.",
+   "voices": [
+    {
+     "text": "angriffe",
+     "sec": "meldung",
+     "n": [
+      4
+     ],
+     "wer": "Lagebericht zum OKW-Bericht, 17. März 1945",
+     "wer_en": "Supplement to the OKW report, 17 March 1945"
+    },
+    {
+     "text": "angriffe",
+     "sec": "luftwaffe",
+     "n": [
+      3
+     ],
+     "wer": "MacDonald 1973",
+     "wer_en": "MacDonald 1973"
+    }
+   ]
   }
  ]
 }

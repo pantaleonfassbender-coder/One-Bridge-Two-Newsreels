@@ -64,19 +64,22 @@
    "datei": "standgericht",
    "zk": "Bericht · Hitler · OKW · Erlass",
    "zk_en": "Report · Hitler · OKW · Decree"
-  }
- ],
- "planned": [
+  },
   {
    "id": "angriffe",
    "side": "deutsch",
    "kurz": "6 · Die Angriffe auf die Brücke",
    "kurz_en": "6 · The attacks on the bridge",
-   "warum": "Flugzeuge, das Karl-Gerät, elf V-2-Raketen vom 12. bis 17. März und in der Nacht des 16. März sieben Kampfschwimmer.",
-   "warum_en": "Aircraft, the Karl howitzer, eleven V-2 rockets from 12 to 17 March, and on the night of 16 March seven frogmen.",
-   "quelle": "MacDonald, Kap. XI; Bericht der US Navy über die Boote am Rhein (zu prüfen).",
-   "quelle_en": "MacDonald, ch. XI; US Navy report on the boats on the Rhine (to be checked)."
-  },
+   "warum": "Zehn Tage lang versuchten die Deutschen, die Brücke doch noch zu zerstören: 367 Flugzeuge nach amerikanischer Schätzung, das Geschütz „Karl“, elf V-2, sieben Kampfschwimmer. Keiner der Angriffe brachte sie zum Einsturz.",
+   "warum_en": "For ten days the Germans tried to destroy the bridge after all: 367 aircraft by American estimate, the ‘Karl’ gun, eleven V-2s, seven frogmen. None of the attacks brought it down.",
+   "quelle": "MacDonald (1973), S. 227–229; Lagebericht zum OKW-Bericht, 17. März 1945; Combat Bulletin No. 48 (1945).",
+   "quelle_en": "MacDonald (1973), pp. 227–229; supplement to the OKW report, 17 March 1945; Combat Bulletin No. 48 (1945).",
+   "datei": "angriffe",
+   "zk": "Luftwaffe · Meldung · Fernwaffen · Schwimmer · Film",
+   "zk_en": "Luftwaffe · Report · Long-range weapons · Swimmers · Film"
+  }
+ ],
+ "planned": [
   {
    "id": "einsturz",
    "side": "bruecke",

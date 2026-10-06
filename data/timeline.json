@@ -93,17 +93,23 @@
    "side": "deutsch",
    "titel": "Elf V-2",
    "titel_en": "Eleven V-2s",
-   "text": "Von den Niederlanden aus werden elf V-2-Raketen auf die Brücke abgefeuert, der einzige taktische Einsatz der V-Waffen im Krieg. Eine trifft ein Haus 300 Yards östlich der Brücke: drei amerikanische Soldaten tot, fünfzehn verwundet (S. 228).",
-   "text_en": "Eleven V-2 rockets are fired at the bridge from the Netherlands, the only tactical use of the V-weapons in the war. One hits a house 300 yards east of the bridge: three American soldiers killed, fifteen wounded (p. 228)."
+   "text": "Von den Niederlanden aus werden elf V-2-Raketen auf die Brücke abgefeuert, der einzige taktische Einsatz der V-Waffen im Krieg. Eine trifft ein Haus 300 Yards östlich der Brücke, also in Erpel: drei amerikanische Soldaten tot, fünfzehn verwundet (MacDonald, S. 228).",
+   "text_en": "Eleven V-2 rockets are fired at the bridge from the Netherlands, the only tactical use of the V-weapons in the war. One hits a house 300 yards east of the bridge, that is in Erpel: three American soldiers killed, fifteen wounded (MacDonald, p. 228).",
+   "cite": "#/text/angriffe/fernwaffen/6",
+   "citeLabel": "Die Angriffe [6]",
+   "citeLabel_en": "The attacks [6]"
   },
   {
-   "d": "Nacht des 16. März",
-   "d_en": "Night of 16 March",
+   "d": "16.–18. März",
+   "d_en": "16–18 March",
    "side": "deutsch",
    "titel": "Kampfschwimmer",
    "titel_en": "Frogmen",
-   "text": "Sieben Schwimmer in Gummianzügen mit Sprengstoff sollen die Brücke erreichen; die Amerikaner haben damit gerechnet (S. 228).",
-   "text_en": "Seven swimmers in rubber suits carrying explosives are meant to reach the bridge; the Americans had anticipated it (p. 228)."
+   "text": "Sieben Schwimmer in Gummianzügen mit Sprengstoff sollen die Brücke erreichen. Artilleriefeuer hält sie in der ersten Nacht ab; in der zweiten schwimmen sie gegen die Pontonbrücken, werden von Scheinwerfern geblendet und ergeben sich (MacDonald, S. 228–229).",
+   "text_en": "Seven swimmers in rubber suits carrying explosives are to reach the bridge. Artillery fire keeps them back on the first night; on the second they swim against the treadway bridges, are blinded by searchlights and surrender (MacDonald, pp. 228–229).",
+   "cite": "#/text/angriffe/schwimmer/7",
+   "citeLabel": "Die Angriffe [7]",
+   "citeLabel_en": "The attacks [7]"
   },
   {
    "d": "13.–18. März",

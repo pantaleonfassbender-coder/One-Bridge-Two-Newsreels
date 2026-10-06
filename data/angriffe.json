@@ -1,0 +1,202 @@
+{
+ "id": "angriffe",
+ "titel": "Die Angriffe auf die Brücke",
+ "titel_en": "The attacks on the bridge",
+ "autor": "Charles B. MacDonald, The Last Offensive (1973); Lagebericht zum OKW-Bericht (März 1945); Combat Bulletin No. 48 (1945)",
+ "autor_en": "Charles B. MacDonald, The Last Offensive (1973); supplement to the OKW report (March 1945); Combat Bulletin No. 48 (1945)",
+ "jahr": "8.–17. März 1945",
+ "jahr_en": "8–17 March 1945",
+ "sprache": "de",
+ "orig_sprache": "en",
+ "pg_label": "",
+ "pg_label_en": "",
+ "quelle": "Charles B. MacDonald, The Last Offensive (1973), S. 227–229, am Seitenbild des Internet Archive gelesen, gemeinfrei. Lagebericht „ergänzend zum OKW.-Bericht“ im Erzgebirgischen Volksfreund vom 17. März 1945, am Seitenbild im Deutschen Zeitungsportal gelesen (amtliche Meldung; der Scan ist verlinkt). Combat Bulletin No. 48 (War Department, Army Pictorial Service, 1945), Internet Archive CB-48 (Public Domain Mark), Ton maschinell abgeschrieben und durchgesehen.",
+ "quelle_en": "Charles B. MacDonald, The Last Offensive (1973), pp. 227–229, read against the page images of the Internet Archive, public domain. Situation report ‘supplementary to the OKW report’ in the Erzgebirgischer Volksfreund of 17 March 1945, read against the page image in the Deutsches Zeitungsportal (official report; the scan is linked). Combat Bulletin No. 48 (War Department, Army Pictorial Service, 1945), Internet Archive CB-48 (Public Domain Mark), soundtrack transcribed by machine and reviewed.",
+ "hinweis": "Zehn Tage lang versuchten die Deutschen, die Brücke zu zerstören, die sie am 7. März nicht hatten sprengen können: aus der Luft, mit dem schwersten Geschütz, mit Raketen, mit Schwimmern. Keiner der Angriffe brachte sie zum Einsturz. Die Zahlen sind Schätzungen der Verteidiger; Opfer unter den Bewohnern von Remagen und Erpel nennt keine der Quellen, und deutsche Verluste nur in Flugzeugen. Texte nach dem Druck, Auslassungen […]; Übersetzungen eigene Arbeit (CC0).",
+ "hinweis_en": "For ten days the Germans tried to destroy the bridge they had failed to blow on 7 March: from the air, with the heaviest gun, with rockets, with swimmers. None of the attacks brought it down. The figures are the defenders' estimates; casualties among the inhabitants of Remagen and Erpel are not given by any of the sources, and German losses only in aircraft. Texts after the print, omissions […]; translations my own (CC0).",
+ "sections": [
+  {
+   "id": "luftwaffe",
+   "titel": "Die Luftwaffe gegen die Brücke",
+   "titel_en": "The Luftwaffe against the bridge",
+   "zk": "Angriffe · Luftwaffe",
+   "zk_en": "Attacks · Luftwaffe",
+   "blurb": "Sturzkampfbomber am Morgen des 8. März, Kesselrings Drängen ab dem 10., Düsenflugzeuge hinter langsamen Bombern, und um die Brücke die dichteste Flak des Krieges in Europa: 367 Angreifer in neun Tagen, nach amerikanischer Schätzung.",
+   "blurb_en": "Dive bombers on the morning of 8 March, Kesselring's urging from the 10th, jets behind slow bombers, and around the bridge the densest antiaircraft defence of the war in Europe: 367 attackers in nine days, by American estimate.",
+   "plates": [
+    "adc3612c_flak"
+   ],
+   "viz": "angriffe",
+   "units": [
+    {
+     "n": 1,
+     "pg": "S. 227–228",
+     "lang": "en",
+     "titel": "Der Flakring",
+     "titel_en": "The antiaircraft ring",
+     "orig": "Unlike the artillery fire, German air attacks were more annoying than destructive. A strong cordon of defenses around the bridge manned by the 16th Antiaircraft Artillery Group, antiaircraft battalions borrowed from the divisions of the III Corps, and additional units transferred from the V Corps sharply interfered with German accuracy. On 12 March, at the height of air attacks against the bridge, sixteen 90-mm. gun batteries were emplaced on the west bank of the Rhine and twenty-five batteries of automatic antiaircraft weapons were almost equally divided between the two banks, probably the most intensive tactical grouping of antiaircraft weapons in the European theater during the course of the war.",
+     "de": "Anders als das Artilleriefeuer waren die deutschen Luftangriffe eher lästig als zerstörerisch. Ein starker Abwehrring um die Brücke, besetzt von der 16th Antiaircraft Artillery Group, von Flakbataillonen, die man sich von den Divisionen des III. Korps geliehen hatte, und von weiteren Einheiten aus dem V. Korps, störte die deutsche Treffsicherheit empfindlich. Am 12. März, auf dem Höhepunkt der Luftangriffe auf die Brücke, standen sechzehn Batterien 9-cm-Geschütze auf dem Westufer des Rheins und fünfundzwanzig Batterien automatischer Flakwaffen, fast gleich auf beide Ufer verteilt, wohl die dichteste taktische Ansammlung von Flakwaffen auf dem europäischen Kriegsschauplatz während des ganzen Krieges.",
+     "note": "„Unlike the artillery fire“: Die gefährlichste Waffe gegen die Brücke war die deutsche Artillerie, am 8. und 9. März eine Granate alle zwei Minuten (Modul 4, Einheit 12).",
+     "note_en": "‘Unlike the artillery fire’: the most dangerous weapon against the bridge was German artillery, on 8 and 9 March one shell every two minutes (module 4, unit 12)."
+    },
+    {
+     "n": 2,
+     "pg": "S. 228",
+     "lang": "en",
+     "titel": "8. und 10. März",
+     "titel_en": "8 and 10 March",
+     "orig": "The Luftwaffe first struck at the railroad bridge on the morning after Lieutenant Timmerman and his intrepid little band had crossed. Although low overcast interfered with flight, the Germans made ten sweeps with a total of ten planes, most of them Stuka dive bombers. None inflicted any damage on the bridge, and antiaircraft units claimed eight destroyed.\n\nExhortation to the Luftwaffe to strike and strike again was one of the few immediate steps Field Marshal Kesselring could take toward eliminating the Ludendorff Bridge after he assumed command in the west on 10 March. He conferred that day with senior Luftwaffe commanders, urging them to knock out the bridge and any auxiliary bridges the Americans might construct.",
+     "de": "Die Luftwaffe griff die Eisenbahnbrücke zum ersten Mal am Morgen nach dem Übergang von Leutnant Timmerman und seiner kühnen kleinen Schar an. Obwohl tiefe Wolken den Flug behinderten, flogen die Deutschen zehn Angriffe mit insgesamt zehn Flugzeugen, meist Sturzkampfbombern. Keiner beschädigte die Brücke, und die Flak meldete acht Abschüsse.\n\nDie Luftwaffe zu Angriff auf Angriff anzutreiben, war einer der wenigen Schritte, die Generalfeldmarschall Kesselring sofort unternehmen konnte, um die Ludendorff-Brücke zu beseitigen, nachdem er am 10. März den Befehl im Westen übernommen hatte. Er beriet sich an diesem Tag mit hohen Befehlshabern der Luftwaffe und drängte sie, die Brücke und alle Hilfsbrücken zu zerstören, die die Amerikaner bauen würden."
+    },
+    {
+     "n": 3,
+     "pg": "S. 228",
+     "lang": "en",
+     "titel": "367 Flugzeuge",
+     "titel_en": "367 aircraft",
+     "orig": "From 8 through 16 March, the Luftwaffe tried. The German planes struck at the railroad bridge, at the ferries, and at the tactical bridges, but with no success. Whenever the weather allowed, American planes flying cover over the bridgehead interfered; even when the German pilots got through the fighter screen, they ran into a dense curtain of antiaircraft fire. When they tried a stratagem of sending slow bombers in the lead to draw the antiaircraft fire, then following with speedy jet fighters, the Americans countered by withholding part of their fire until the jets appeared. American antiaircraft units estimated that during the nine days they destroyed 109 planes and probably eliminated 36 others out of a total of 367 that attacked.",
+     "de": "Vom 8. bis zum 16. März versuchte es die Luftwaffe. Die deutschen Flugzeuge griffen die Eisenbahnbrücke an, die Fähren und die Pontonbrücken, aber ohne Erfolg. Wann immer das Wetter es erlaubte, griffen amerikanische Jäger über dem Brückenkopf ein; und auch wenn die deutschen Piloten durch den Jagdschutz kamen, gerieten sie in einen dichten Vorhang aus Flakfeuer. Als sie es mit der List versuchten, langsame Bomber vorauszuschicken, die das Flakfeuer auf sich ziehen sollten, und dann schnelle Düsenjäger folgen zu lassen, hielten die Amerikaner einen Teil ihres Feuers zurück, bis die Düsenflugzeuge kamen. Die amerikanische Flak schätzte, dass sie in den neun Tagen 109 Flugzeuge zerstört und 36 weitere wahrscheinlich ausgeschaltet hatte, von insgesamt 367 Angreifern.",
+     "note": "Schätzungen der Flak selbst, nach MacDonalds Anm. 32 aus dem Bericht der 16th AAA Group vom 17. März 1945. Abschussmeldungen lagen im Krieg auf allen Seiten oft zu hoch. Wie viele deutsche Flieger starben, sagt die Quelle nicht.",
+     "note_en": "Estimates by the antiaircraft units themselves, according to MacDonald's n. 32 from the 16th AAA Group report of 17 March 1945. Claims of aircraft destroyed were often too high on all sides in the war. How many German airmen died, the source does not say."
+    }
+   ]
+  },
+  {
+   "id": "meldung",
+   "titel": "„Einige Treffer“",
+   "titel_en": "‘Several hits’",
+   "zk": "Angriffe · Meldung",
+   "zk_en": "Attacks · Report",
+   "blurb": "Wie die deutsche Presse die Luftschlacht über dem Brückenkopf darstellte: erbitterte Kämpfe, Schlachtflieger, Treffer auf Brücken und Rampen.",
+   "blurb_en": "How the German press presented the air battle over the bridgehead: bitter fighting, ground-attack aircraft, hits on bridges and ramps.",
+   "units": [
+    {
+     "n": 4,
+     "pg": "Erzgebirgischer Volksfreund, 17.3.1945, S. 2",
+     "lang": "de",
+     "titel": "„einige Treffer“",
+     "titel_en": "‘several hits’",
+     "orig": "Bei aufhellendem Frühlingswetter standen unsere Truppen, wie ergänzend zum OKW.-Bericht gemeldet wird, am Donnerstag an der West- und Ostfront in neuen schweren Abwehrkämpfen. […]\n\nIm Westen verstärkte sich der Ansturm der Nordamerikaner aus ihrem Brückenkopf Remagen und an unserem Frontbogen zwischen Koblenz und Hagenau. Am Mittelrhein brachten unsere Truppen den zwischen Remagen und der Autobahn Köln—Frankfurt örtlich eingebrochenen Gegner zum Stehen […]. Der sonnenklare Himmel erlaubte den Angloamerikanern in den letzten 48 Stunden, ihre Luftstreitkräfte über den Kampfgebieten am Rhein und in Westdeutschland zum vollen Einsatz zu bringen. Auch unsere Luftwaffe war mit starken Kräften eingesetzt, um den Aufmarsch des Gegners zu stören. Bei Tag und Nacht entwickelten sich über dem Brückenkopf ostwärts Remagen erbitterte Luftkämpfe. Obwohl feindliche Jäger und Flak alles daran setzten, die Brückenstege zu schützen, gelang es unseren Schlachtfliegern, einige Treffer auf den Brücken und Zufahrtsrampen anzubringen. Fortgesetzt griffen auch von beiden Seiten Tiefflieger in die vor allem nordöstlich Honnef tobenden Kämpfe ein.",
+     "en": "With the spring weather brightening, our troops, as is reported in addition to the OKW report, were engaged on Thursday in new heavy defensive fighting on the western and eastern fronts. […]\n\nIn the west the onslaught of the North Americans from their Remagen bridgehead and against our salient between Koblenz and Hagenau grew stronger. On the middle Rhine our troops brought to a halt the enemy who had broken in locally between Remagen and the Cologne–Frankfurt autobahn […]. The cloudless sky allowed the Anglo-Americans over the last 48 hours to commit their air forces in full over the battle areas on the Rhine and in western Germany. Our Luftwaffe too was committed in strength to disrupt the enemy's deployment. By day and night bitter air battles developed over the bridgehead east of Remagen. Although enemy fighters and antiaircraft did everything to protect the bridge crossings, our ground-attack aircraft succeeded in scoring several hits on the bridges and approach ramps. Low-flying aircraft of both sides also intervened continually in the fighting raging above all north-east of Honnef.",
+     "note": "Kein Wehrmachtbericht, sondern eine ergänzende Lagedarstellung zum OKW-Bericht; der Donnerstag ist der 15. März 1945. Im Druck steht „Brückensteige“. Dass Treffer die Brücken unbrauchbar gemacht hätten, behauptet der Text nicht; nach MacDonald blieben die Angriffe ohne Erfolg (Einheit 3). Fraktursatz, am Seitenbild der SLUB Dresden gelesen. Zeitungsseite: https://www.deutsche-digitale-bibliothek.de/newspaper/item/OUAZFPAWVOZQ3QWYYVASLESKWAGFU4GH",
+     "note_en": "Not a Wehrmacht report but a supplementary situation summary to the OKW report; the Thursday is 15 March 1945. The print has ‘Brückensteige’. The text does not claim that any hit put the bridges out of use; according to MacDonald the attacks had no success (unit 3). Set in Fraktur, read against the page image of the SLUB Dresden. Newspaper page: https://www.deutsche-digitale-bibliothek.de/newspaper/item/OUAZFPAWVOZQ3QWYYVASLESKWAGFU4GH"
+    }
+   ]
+  },
+  {
+   "id": "fernwaffen",
+   "titel": "Das Geschütz „Karl“ und die V-2",
+   "titel_en": "The ‘Karl’ gun and the V-2",
+   "zk": "Angriffe · Fernwaffen",
+   "zk_en": "Attacks · Long-range weapons",
+   "blurb": "Ein 54-cm-Mörser, der nach wenigen Schüssen in die Werkstatt muss, und elf Raketen aus den Niederlanden, der einzige taktische Einsatz der V-Waffen: Eine traf ein Haus in Erpel.",
+   "blurb_en": "A 54-cm mortar that has to go for repairs after a few rounds, and eleven rockets from the Netherlands, the only tactical use of the V-weapons: one hit a house in Erpel.",
+   "plates": [
+    "sc1945_ley"
+   ],
+   "units": [
+    {
+     "n": 5,
+     "pg": "S. 228",
+     "lang": "en",
+     "titel": "Der „Karl“",
+     "titel_en": "The ‘Karl’",
+     "orig": "By three other means the Germans tried to destroy the railroad bridge. Soon after losing the bridge, they brought up a tank-mounted 540-mm. piece called the Karl Howitzer. The weapon itself weighed 132 tons and fired a projectile of 4,400 pounds, but after only a few rounds that did no damage except to random houses, the weapon had to be evacuated for repairs.",
+     "de": "Auf drei weitere Arten versuchten die Deutschen, die Eisenbahnbrücke zu zerstören. Bald nach ihrem Verlust brachten sie ein auf Kettenfahrgestell gesetztes 54-cm-Geschütz heran, den „Karl“-Mörser. Die Waffe selbst wog 132 Tonnen und verschoss eine Granate von 4 400 Pfund, musste aber nach nur wenigen Schüssen, die außer an beliebigen Häusern keinen Schaden anrichteten, zur Instandsetzung abgezogen werden.",
+     "note": "„did no damage except to random houses“: Wem die Häuser gehörten und ob Menschen darin waren, sagt MacDonald nicht. 4 400 Pfund sind rund zwei Tonnen.",
+     "note_en": "‘Did no damage except to random houses’: whose houses they were and whether people were inside, MacDonald does not say."
+    },
+    {
+     "n": 6,
+     "pg": "S. 228",
+     "lang": "en",
+     "titel": "Elf V-2",
+     "titel_en": "Eleven V-2s",
+     "orig": "From 12 through 17 March a rocket unit with weapons emplaced in the Netherlands fired eleven supersonic V–2's in the direction of the bridge, the first and only tactical use of either of the so-called German V-weapons (Vergeltungswaffen, for vengeance) during World War II. One rocket hit a house 300 yards east of the bridge, killing three American soldiers and wounding fifteen. That was the only damage. Three landed in the river not far from the bridge, five others west of the bridge, and one near Cologne; one was never located.",
+     "de": "Vom 12. bis zum 17. März feuerte eine Raketeneinheit aus Stellungen in den Niederlanden elf überschallschnelle V-2 in Richtung der Brücke, der erste und einzige taktische Einsatz einer der sogenannten deutschen V-Waffen („Vergeltungswaffen“) im Zweiten Weltkrieg. Eine Rakete traf ein Haus 300 Yards östlich der Brücke, tötete drei amerikanische Soldaten und verwundete fünfzehn. Das war der einzige Schaden. Drei schlugen nicht weit von der Brücke in den Fluss, fünf westlich der Brücke und eine bei Köln; eine wurde nie gefunden.",
+     "note": "Die Zahlen nach MacDonalds Anm. 34 aus einem Bericht der Luftverteidigung von SHAEF für die Woche bis zum 19. März 1945. „300 yards“ sind rund 275 Meter; das Haus stand also in Erpel. Ob Bewohner darin waren, sagt die Quelle nicht. „Fünf westlich der Brücke“: in oder bei Remagen.",
+     "note_en": "The figures after MacDonald's n. 34 from a SHAEF air defence report for the week to 19 March 1945. 300 yards are about 275 metres; the house therefore stood in Erpel. Whether residents were inside, the source does not say. ‘Five west of the bridge’: in or near Remagen."
+    }
+   ]
+  },
+  {
+   "id": "schwimmer",
+   "titel": "Kampfschwimmer",
+   "titel_en": "Frogmen",
+   "zk": "Angriffe · Schwimmer",
+   "zk_en": "Attacks · Swimmers",
+   "blurb": "Sprengladungen im Wasser, Schützen auf der Brücke, Netze, Panzer mit Scheinwerfern: sieben Schwimmer mit Sprengstoff, die sich einer nach dem anderen ergeben.",
+   "blurb_en": "Charges in the water, riflemen on the bridge, nets, tanks with searchlights: seven swimmers with explosives who surrender one by one.",
+   "units": [
+    {
+     "n": 7,
+     "pg": "S. 228–229",
+     "lang": "en",
+     "titel": "Sieben Schwimmer",
+     "titel_en": "Seven swimmers",
+     "orig": "The night of 16 March, the Germans tried a third method—seven underwater swimmers in special rubber suits and carrying packages of plastic explosive compound—but from the first the Americans had anticipated such a gambit. During the first few days of the bridgehead, before nets could be strung across the river, they dropped demolition charges to discourage enemy swimmers and stationed riflemen at intervals along the railroad bridge to fire at suspicious objects. Later, with nets in place, they stationed tanks equipped with searchlights along the river.\n\nWhen the German swimmers first tried to reach the bridge, American artillery fire discouraged them from entering the water. On the next night, the 17th, they moved not against the railroad bridge but against tactical ponton bridges, only to be spotted by the American searchlights. Blinded by the lights, the seven Germans, one by one, surrendered.",
+     "de": "In der Nacht des 16. März versuchten es die Deutschen auf eine dritte Art, mit sieben Kampfschwimmern in besonderen Gummianzügen und mit Paketen plastischen Sprengstoffs; doch die Amerikaner hatten mit einem solchen Schachzug von Anfang an gerechnet. In den ersten Tagen des Brückenkopfes, bevor Netze über den Fluss gespannt werden konnten, warfen sie Sprengladungen ins Wasser, um feindliche Schwimmer abzuschrecken, und stellten in Abständen Schützen auf die Eisenbahnbrücke, die auf verdächtige Gegenstände schießen sollten. Später, als die Netze hingen, stellten sie Panzer mit Scheinwerfern am Fluss auf.\n\nAls die deutschen Schwimmer zum ersten Mal versuchten, die Brücke zu erreichen, hielt amerikanisches Artilleriefeuer sie davon ab, ins Wasser zu gehen. In der nächsten Nacht, der des 17., schwammen sie nicht gegen die Eisenbahnbrücke, sondern gegen die Pontonbrücken, wurden aber von den amerikanischen Scheinwerfern entdeckt. Von den Lichtern geblendet, ergaben sich die sieben Deutschen einer nach dem anderen.",
+     "note": "MacDonald gibt nicht an, ob er eine Nacht nach ihrem Beginn oder Ende datiert. Am Nachmittag des 17. März war die Ludendorff-Brücke schon eingestürzt (Modul 7).",
+     "note_en": "MacDonald does not say whether he dates a night by its beginning or its end. On the afternoon of 17 March the Ludendorff Bridge had already collapsed (module 7)."
+    }
+   ]
+  },
+  {
+   "id": "film",
+   "titel": "Combat Bulletin No. 48",
+   "titel_en": "Combat Bulletin No. 48",
+   "zk": "Angriffe · Film",
+   "zk_en": "Attacks · Film",
+   "blurb": "Ein Filmbericht der Army: Boote der Navy, Schwimmlastwagen, die Brücke zehn Tage unter Feuer, Pontonbrücken, die Instandsetzung. Den Einsturz im selben Film zeigt Modul 7.",
+   "blurb_en": "An Army film report: Navy craft, amphibious trucks, the bridge ten days under fire, treadway bridges, the repair. The collapse in the same film is in module 7.",
+   "plates": [
+    "cb48_schweisser"
+   ],
+   "films": [
+    {
+     "film": "cb48",
+     "start": "12:20",
+     "end": "15:08"
+    }
+   ],
+   "units": [
+    {
+     "n": 8,
+     "pg": "12:20",
+     "lang": "en",
+     "pgl": "Film",
+     "titel": "Boote der Navy, Schwimmlastwagen",
+     "titel_en": "Navy craft, amphibious trucks",
+     "orig": "[…] troops consolidating positions across the Rhine. General Hodges' army, driving for the central German plain, also employs Navy craft to move up reinforcements. LCVPs transport men of the 1st Infantry Division to Scheuren [Schreibung nach Gehör], Germany, northeast of Remagen. Sailors of Navy units attached to the 1st Army operate the craft. The Navy began operations in this area 48 hours after the Army seizure of the Ludendorff Bridge. In addition, supplies are ferried across the Rhine in dukws. Two amphibious truck companies, one a Negro outfit, man the amphibious vehicles on the runs to and from Unkel, Germany. Prisoners of war and empty gasoline containers are carted by the dukws on their return trips.",
+     "de": "[…] Truppen festigen ihre Stellungen jenseits des Rheins. General Hodges' Armee, auf dem Weg in die mitteldeutsche Ebene, setzt auch Boote der Navy ein, um Verstärkungen heranzubringen. Landungsboote bringen Männer der 1st Infantry Division nach Scheuren [Schreibung nach Gehör], nordöstlich von Remagen. Matrosen der Navy-Einheiten, die der First Army zugeteilt sind, fahren die Boote. Die Navy nahm hier 48 Stunden nach der Einnahme der Ludendorff-Brücke durch die Army den Betrieb auf. Außerdem wird Nachschub in Schwimmlastwagen über den Rhein gebracht. Zwei Amphibienlastwagen-Kompanien, eine davon eine „Negro outfit“, fahren die Schwimmwagen auf den Strecken nach und von Unkel. Auf der Rückfahrt bringen die Schwimmwagen Kriegsgefangene und leere Benzinkanister mit.",
+     "note": "„a Negro outfit“: eine Kompanie afroamerikanischer Soldaten, im Sprachgebrauch der Zeit; die US Army war 1945 nach Hautfarbe getrennt. Welche der Kompanien es war, sagt der Film nicht; MacDonald nennt die 819th Amphibious Truck Company ab dem 14. März (Modul 4, Einheit 11). Ort „Scheuren“ nach Gehör.",
+     "note_en": "‘A Negro outfit’: a company of African American soldiers, in the language of the time; the US Army was segregated by race in 1945. Which company it was, the film does not say; MacDonald names the 819th Amphibious Truck Company from 14 March (module 4, unit 11). The place ‘Scheuren’ by ear."
+    },
+    {
+     "n": 9,
+     "pg": "13:13",
+     "lang": "en",
+     "pgl": "Film",
+     "titel": "Zehn Tage unter Feuer",
+     "titel_en": "Ten days under fire",
+     "orig": "The Ludendorff Bridge across the Rhine at Remagen: for ten days it withstands aerial attacks and constant artillery fire while First Army troops exploit the initial breaching of the Rhine River Line. Traffic in the face of the attacks must be kept to proper intervals between vehicles. The convoy of ponton [im Ton wie „Patton“] equipment is ready to be unloaded for engineer battalions who begin construction despite the enemy raids. Normally a thirty-four hour job, bridging operations are hours behind as Nazi fire flares up repeatedly. Under heavy enemy fire, combat engineers out on the uncompleted span dash back to shore.",
+     "de": "Die Ludendorff-Brücke über den Rhein bei Remagen: Zehn Tage lang hält sie Luftangriffen und ständigem Artilleriefeuer stand, während Truppen der First Army den ersten Durchbruch durch die Rheinlinie ausnutzen. Der Verkehr muss unter den Angriffen auf gehörigen Abstand zwischen den Fahrzeugen gehalten werden. Die Kolonne mit Pontongerät steht zum Abladen bereit für die Pionierbataillone, die trotz der feindlichen Angriffe mit dem Bau beginnen. Normalerweise eine Arbeit von vierunddreißig Stunden, liegt der Brückenbau Stunden zurück, weil das Feuer der Nazis immer wieder aufflammt. Unter schwerem feindlichem Feuer rennen Pioniere, die draußen auf dem unfertigen Brückenstück arbeiten, ans Ufer zurück.",
+     "note": "Whisper hört „Patton“; gemeint ist „ponton“, wie die Bilder zeigen. „uncompleted“ im Ton „incompleted“.",
+     "note_en": "Whisper hears ‘Patton’; ‘ponton’ is meant, as the pictures show. ‘Uncompleted’ is heard as ‘incompleted’."
+    },
+    {
+     "n": 10,
+     "pg": "14:28",
+     "lang": "en",
+     "pgl": "Film",
+     "titel": "Die erste Pontonbrücke",
+     "titel_en": "The first ponton bridge",
+     "orig": "Despite these attacks, the first ponton bridge is completed and handling heavy traffic on 14th March. Armor is raced across the new link as the Remagen bridgehead begins expanding into a wide front. Both the ponton span and the adjacent Ludendorff bridge are still under enemy fire. The engineer battalion working on the Ludendorff strengthens the roadbed which was improvised to allow vehicles to travel over the railway ties. Damaged structural members of the bridge are removed by engineers.",
+     "de": "Trotz dieser Angriffe ist die erste Pontonbrücke fertig und trägt am 14. März schweren Verkehr. Panzer werden über die neue Verbindung gejagt, während sich der Brückenkopf Remagen zu einer breiten Front zu weiten beginnt. Die Pontonbrücke und die benachbarte Ludendorff-Brücke liegen weiter unter feindlichem Feuer. Das Pionierbataillon an der Ludendorff-Brücke verstärkt die Fahrbahn, die improvisiert worden war, damit Fahrzeuge über die Schwellen fahren konnten. Beschädigte Bauteile der Brücke werden von Pionieren entfernt.",
+     "note": "Nach MacDonald wurde die erste Pontonbrücke schon am 11. März freigegeben (Modul 4, Einheit 12); der Film meint vielleicht eine spätere oder datiert anders. Die Arbeiten an der Ludendorff-Brücke sind die Instandsetzung, während der sie am 17. März einstürzte (Modul 7).",
+     "note_en": "According to MacDonald the first treadway bridge opened on 11 March (module 4, unit 12); the film may mean a later one or date it differently. The work on the Ludendorff Bridge is the repair during which it collapsed on 17 March (module 7)."
+    }
+   ]
+  }
+ ]
+}
