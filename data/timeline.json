@@ -1,0 +1,105 @@
+{
+ "lede": "Nur geprüfte Stationen. Seitenzahlen nach MacDonald, The Last Offensive (1973); was nur die neuere Literatur nennt, ist so gekennzeichnet.",
+ "lede_en": "Verified stations only. Page numbers refer to MacDonald, The Last Offensive (1973); what only recent literature reports is marked as such.",
+ "stations": [
+  {
+   "d": "1916",
+   "d_en": "1916",
+   "side": "bruecke",
+   "titel": "Eine Brücke für den Krieg",
+   "titel_en": "A bridge for the war",
+   "text": "MacDonald nennt 1916 als Baujahr: eine Eisenbahnbrücke für zwei Gleise mit Fußwegen, drei Bögen auf vier Steinpfeilern, an jedem Ende zwei Steintürme, am Ostende der Tunnel durch die Erpeler Ley; benannt nach Erich Ludendorff (S. 214). Nach neuerer Literatur wurde sie 1919 in Betrieb genommen.",
+   "text_en": "MacDonald gives 1916 as the year it was built: a railway bridge for two tracks with footpaths, three arches on four stone piers, two stone towers at each end, at the east end the tunnel through the Erpeler Ley; named after Erich Ludendorff (p. 214). According to recent literature it went into service in 1919."
+  },
+  {
+   "d": "7. März 1945, kurz vor 13 Uhr",
+   "d_en": "7 March 1945, shortly before 1300",
+   "side": "us",
+   "titel": "Die Brücke steht noch",
+   "titel_en": "The bridge still stands",
+   "text": "Leutnant Emmet J. Burrows, Zugführer der vordersten Infanterie, tritt aus dem Wald über Remagen und sieht, dass die Eisenbahnbrücke noch steht (S. 213).",
+   "text_en": "Lieutenant Emmet J. Burrows, leading the forward infantry platoon, emerges from the woods above Remagen and sees that the railway bridge is still standing (p. 213)."
+  },
+  {
+   "d": "7. März, gegen 16 Uhr",
+   "d_en": "7 March, around 1600",
+   "side": "bruecke",
+   "titel": "Die Sprengung",
+   "titel_en": "The demolition",
+   "text": "Die Kompanie von Leutnant Karl H. Timmerman (Task Force Engeman) erreicht mit Panzern die Brücke (S. 215). Die deutsche Sprengung hebt das Mittelstück an; die Brücke fällt nicht (S. 217). Sergeant Alexander Drabik ist der erste Amerikaner auf dem Ostufer.",
+   "text_en": "Lieutenant Karl H. Timmerman's company (Task Force Engeman) reaches the bridge with tanks (p. 215). The German demolition lifts the span; the bridge does not fall (p. 217). Sergeant Alexander Drabik is the first American on the east bank."
+  },
+  {
+   "d": "7. März",
+   "d_en": "7 March",
+   "side": "menschen",
+   "titel": "Im Tunnel der Erpeler Ley",
+   "titel_en": "In the tunnel of the Erpeler Ley",
+   "text": "Im Eisenbahntunnel drängen sich Zivilisten mit Kindern, Volkssturm, Soldaten und einige ausländische Arbeiter; amerikanischer Phosphor nebelt den Eingang ein, Soldaten draußen schreien unter den Verbrennungen (S. 216).",
+   "text_en": "In the railway tunnel civilians with children, Volkssturm men, soldiers and some foreign workers crowd together; American phosphorus shells blanket the entrance in smoke, soldiers outside scream as it burns them (p. 216)."
+  },
+  {
+   "d": "12.–17. März",
+   "d_en": "12–17 March",
+   "side": "deutsch",
+   "titel": "Elf V-2",
+   "titel_en": "Eleven V-2s",
+   "text": "Von den Niederlanden aus werden elf V-2-Raketen auf die Brücke abgefeuert, der einzige taktische Einsatz der V-Waffen im Krieg. Eine trifft ein Haus 300 Yards östlich der Brücke: drei amerikanische Soldaten tot, fünfzehn verwundet (S. 228).",
+   "text_en": "Eleven V-2 rockets are fired at the bridge from the Netherlands, the only tactical use of the V-weapons in the war. One hits a house 300 yards east of the bridge: three American soldiers killed, fifteen wounded (p. 228)."
+  },
+  {
+   "d": "Nacht des 16. März",
+   "d_en": "Night of 16 March",
+   "side": "deutsch",
+   "titel": "Kampfschwimmer",
+   "titel_en": "Frogmen",
+   "text": "Sieben Schwimmer in Gummianzügen mit Sprengstoff sollen die Brücke erreichen; die Amerikaner haben damit gerechnet (S. 228).",
+   "text_en": "Seven swimmers in rubber suits carrying explosives are meant to reach the bridge; the Americans had anticipated it (p. 228)."
+  },
+  {
+   "d": "17. März, Nachmittag",
+   "d_en": "17 March, afternoon",
+   "side": "bruecke",
+   "titel": "Der Einsturz",
+   "titel_en": "The collapse",
+   "text": "In einer ruhigen Stunde, während rund 200 amerikanische Pioniere auf ihr arbeiten, stürzt die Brücke in den Rhein. MacDonald zählt 93 Verletzte und 38 Tote (S. 230); die neuere Literatur nennt oft 28 Tote. Die Angabe wird am Bericht der Army Service Forces geprüft.",
+   "text_en": "In a quiet hour, while some 200 American engineers are working on it, the bridge falls into the Rhine. MacDonald counts 93 injured and 38 killed (p. 230); recent literature often gives 28 dead. The figure will be checked against the Army Service Forces report."
+  },
+  {
+   "d": "März 1945",
+   "d_en": "March 1945",
+   "side": "deutsch",
+   "titel": "Das Standgericht",
+   "titel_en": "The court-martial",
+   "text": "Ein von Hitler eingesetztes Dreiergericht verurteilt die Majore Herbert Strobel, August Kraft und Hans Scheller, Leutnant Karl Heinz Peters und Hauptmann Willi Bratge zum Tod. Die vier ersten werden erschossen; Bratge überlebt als amerikanischer Gefangener; Hauptmann Karl Friesenhahn wird in Abwesenheit freigesprochen (S. 230).",
+   "text_en": "A three-man tribunal convened by Hitler sentences Majors Herbert Strobel, August Kraft and Hans Scheller, Lieutenant Karl Heinz Peters and Captain Willi Bratge to death. The first four are shot; Bratge survives as an American prisoner; Captain Karl Friesenhahn is acquitted in absentia (p. 230)."
+  },
+  {
+   "d": "16. und 22. März",
+   "d_en": "16 and 22 March",
+   "side": "film",
+   "titel": "Die Deutsche Wochenschau schweigt",
+   "titel_en": "The German newsreel is silent",
+   "text": "Die Ausgaben Nr. 754 und Nr. 755, die letzte, zeigen aus dem Westen nur die Abwehrkämpfe an der Rur bzw. gar nichts; Remagen kommt nicht vor (nach den Inhaltsangaben).",
+   "text_en": "Issues no. 754 and no. 755, the last, show from the west only the defensive fighting on the Roer, or nothing at all; Remagen does not appear (according to their summaries)."
+  },
+  {
+   "d": "26. März",
+   "d_en": "26 March",
+   "side": "film",
+   "titel": "„Allies Drive Across Rhine to Victory“",
+   "titel_en": "‘Allies Drive Across Rhine to Victory’",
+   "text": "Die amerikanische Universal-Wochenschau bringt Köln und die Brücke von Remagen ins Kino.",
+   "text_en": "The American Universal newsreel brings Cologne and the bridge at Remagen to the cinema."
+  },
+  {
+   "d": "April–Juli 1945",
+   "d_en": "April–July 1945",
+   "side": "menschen",
+   "titel": "Die Lager bei Remagen und Sinzig",
+   "titel_en": "The camps near Remagen and Sinzig",
+   "text": "Die US Army hält Hunderttausende deutsche Gefangene in Lagern unter freiem Himmel am Rhein. Nach der Forschung starben in den beiden Lagern rund 1 200 Menschen (neuere Literatur; Modul 9 in Vorbereitung).",
+   "text_en": "The US Army holds hundreds of thousands of German prisoners in open-air camps on the Rhine. According to research, some 1,200 people died in the two camps (recent literature; module 9 in preparation)."
+  }
+ ]
+}

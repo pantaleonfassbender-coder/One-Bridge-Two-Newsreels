@@ -1,0 +1,127 @@
+{
+ "shipped": [],
+ "planned": [
+  {
+   "id": "bruecke",
+   "side": "bruecke",
+   "kurz": "1 · Die Brücke, 1916–1945",
+   "kurz_en": "1 · The bridge, 1916–1945",
+   "warum": "Eine Eisenbahnbrücke für den Krieg gebaut, nach Ludendorff benannt, mit einem Tunnel durch die Erpeler Ley und einem Sprengplan seit 1938.",
+   "warum_en": "A railway bridge built for war, named after Ludendorff, with a tunnel through the Erpeler Ley and a demolition plan from 1938.",
+   "quelle": "MacDonald, Kap. XI (Anlage, Tunnel, Ladungen); ein gemeinfreier Baubericht der Jahre 1916–1919 wird noch gesucht.",
+   "quelle_en": "MacDonald, ch. XI (layout, tunnel, charges); a public-domain construction report of 1916–1919 is still being sought."
+  },
+  {
+   "id": "siebter",
+   "side": "us",
+   "kurz": "2 · Der 7. März",
+   "kurz_en": "2 · 7 March",
+   "warum": "Kurz vor 13 Uhr sieht Leutnant Burrows die Brücke noch stehen; gegen 16 Uhr ist die Kompanie Timmerman an der Rampe; die Sprengung hebt die Brücke, und sie fällt nicht.",
+   "warum_en": "A few minutes before 1300 Lieutenant Burrows sees the bridge still standing; around 1600 Timmerman's company is at the ramp; the demolition lifts the bridge, and it does not fall.",
+   "quelle": "MacDonald, Kap. XI; Berichte der 9th Armored Division und der Task Force Engeman (zu prüfen).",
+   "quelle_en": "MacDonald, ch. XI; reports of the 9th Armored Division and Task Force Engeman (to be checked)."
+  },
+  {
+   "id": "warum",
+   "side": "deutsch",
+   "kurz": "3 · Warum sie stand",
+   "kurz_en": "3 · Why it stood",
+   "warum": "Bratge, Scheller und Friesenhahn auf der Ostseite: ein Befehl, der schriftlich vorliegen musste, ein Zündkreis, der versagte, Zivilisten im Tunnel.",
+   "warum_en": "Bratge, Scheller and Friesenhahn on the east bank: an order that had to be in writing, a firing circuit that failed, civilians in the tunnel.",
+   "quelle": "MacDonald, Kap. XI; Bericht der First Army (zu prüfen); deutsche Aussagen nur, soweit gemeinfrei.",
+   "quelle_en": "MacDonald, ch. XI; First Army report (to be checked); German statements only where in the public domain."
+  },
+  {
+   "id": "brueckenkopf",
+   "side": "us",
+   "kurz": "4 · Der Brückenkopf",
+   "kurz_en": "4 · The bridgehead",
+   "warum": "Ab dem 7. März: Truppen über die Brücke, Fähren und Pontonbrücken, Flak, der Kampf um den Raum östlich des Rheins.",
+   "warum_en": "From 7 March: troops across the bridge, ferries and treadway bridges, antiaircraft, the fight for the ground east of the Rhine.",
+   "quelle": "MacDonald, Kap. XI–XII; Berichte der First Army und des III Corps (zu prüfen).",
+   "quelle_en": "MacDonald, ch. XI–XII; First Army and III Corps reports (to be checked)."
+  },
+  {
+   "id": "standgericht",
+   "side": "deutsch",
+   "kurz": "5 · Das fliegende Standgericht",
+   "kurz_en": "5 · The flying court-martial",
+   "warum": "Hitler wollte Schuldige: Strobel, Kraft, Scheller und Peters wurden erschossen, Bratge zum Tod verurteilt, aber als Gefangener der Amerikaner am Leben. Opfer der NS-Justiz.",
+   "warum_en": "Hitler wanted culprits: Strobel, Kraft, Scheller and Peters were shot, Bratge sentenced to death but alive as an American prisoner. Victims of Nazi justice.",
+   "quelle": "MacDonald, Kap. XI; Wortlaut des Wehrmachtberichts (zu suchen); Kalmbach 2021 nur referiert.",
+   "quelle_en": "MacDonald, ch. XI; wording of the Wehrmacht report (to be found); Kalmbach 2021 only summarized."
+  },
+  {
+   "id": "angriffe",
+   "side": "deutsch",
+   "kurz": "6 · Die Angriffe auf die Brücke",
+   "kurz_en": "6 · The attacks on the bridge",
+   "warum": "Flugzeuge, das Karl-Gerät, elf V-2-Raketen vom 12. bis 17. März und in der Nacht des 16. März sieben Kampfschwimmer.",
+   "warum_en": "Aircraft, the Karl howitzer, eleven V-2 rockets from 12 to 17 March, and on the night of 16 March seven frogmen.",
+   "quelle": "MacDonald, Kap. XI; Bericht der US Navy über die Boote am Rhein (zu prüfen).",
+   "quelle_en": "MacDonald, ch. XI; US Navy report on the boats on the Rhine (to be checked)."
+  },
+  {
+   "id": "einsturz",
+   "side": "bruecke",
+   "kurz": "7 · Der Einsturz",
+   "kurz_en": "7 · The collapse",
+   "warum": "Am Nachmittag des 17. März stürzte die Brücke in den Rhein, während rund 200 amerikanische Pioniere auf ihr arbeiteten. Die Zahl der Toten ist umstritten.",
+   "warum_en": "On the afternoon of 17 March the bridge fell into the Rhine while some 200 American engineers were working on it. The number of dead is disputed.",
+   "quelle": "MacDonald, Kap. XI; Bericht des Army Service Forces (Report No. 126, zu prüfen); Signal-Corps-Film vom 17. März.",
+   "quelle_en": "MacDonald, ch. XI; Army Service Forces report (Report No. 126, to be checked); Signal Corps film of 17 March."
+  },
+  {
+   "id": "wochenschauen",
+   "side": "film",
+   "kurz": "8 · Zwei Wochenschauen",
+   "kurz_en": "8 · Two newsreels",
+   "warum": "Was die amerikanischen und britischen Wochenschauen im März 1945 aus der Brücke machten, und was die Deutsche Wochenschau in ihren letzten beiden Ausgaben zeigte: Remagen nicht.",
+   "warum_en": "What the American and British newsreels made of the bridge in March 1945, and what the German newsreel showed in its last two issues: not Remagen.",
+   "quelle": "Universal Newsreel vom 26. März 1945; United News; Rohaufnahmen des Signal Corps; britische Wochenschauen nur eingebettet; Inhaltsangaben der Deutschen Wochenschau Nr. 754 und 755.",
+   "quelle_en": "Universal Newsreel of 26 March 1945; United News; Signal Corps raw footage; British newsreels embedded only; contents of the German newsreel nos. 754 and 755."
+  },
+  {
+   "id": "lager",
+   "side": "menschen",
+   "kurz": "9 · Die Lager am Rhein",
+   "kurz_en": "9 · The camps on the Rhine",
+   "warum": "Im Frühjahr 1945 lagen bei Remagen und Sinzig Hunderttausende deutsche Gefangene unter freiem Himmel. Nur belegte Zahlen; widerlegte werden als widerlegt benannt.",
+   "warum_en": "In the spring of 1945 hundreds of thousands of German prisoners lay in the open near Remagen and Sinzig. Only documented figures; disproved ones are named as disproved.",
+   "quelle": "Amerikanische Berichte (zu suchen); Zahlen nach der Forschung, wie sie die Landeszentrale für politische Bildung Rheinland-Pfalz zusammenfasst (neuere Literatur, nur referiert).",
+   "quelle_en": "American reports (to be found); figures after the research summarized by the Rhineland-Palatinate state agency for civic education (recent literature, only summarized)."
+  }
+ ],
+ "missing": [
+  {
+   "id": "dw",
+   "side": "film",
+   "kurz": "Die Deutsche Wochenschau, März 1945",
+   "kurz_en": "The German newsreel, March 1945",
+   "warum": "Nicht gezeigt und nicht eingebettet: Die Ausgaben sind vermutlich noch urheberrechtlich geschützt, die Verwertungsrechte liegen bei der Transit Film GmbH, und die frei zugänglichen Kopien sind private Uploads. Modul 8 beschreibt sie nach ihrem Inhalt.",
+   "warum_en": "Not shown and not embedded: the issues are probably still under copyright, the rights are held by Transit Film GmbH, and the freely available copies are private uploads. Module 8 describes them by their contents.",
+   "quelle": "Nr. 754 (16.3.1945) und Nr. 755 (22.3.1945).",
+   "quelle_en": "No. 754 (16 March 1945) and no. 755 (22 March 1945)."
+  },
+  {
+   "id": "hechler",
+   "side": "us",
+   "kurz": "Ken Hechler, The Bridge at Remagen (1957)",
+   "kurz_en": "Ken Hechler, The Bridge at Remagen (1957)",
+   "warum": "Das Buch des Armeehistorikers, der 1945 die Beteiligten befragte, ist ein privater Verlagsdruck und geschützt. MacDonald zitiert daraus; hier wird es nur referiert.",
+   "warum_en": "The book by the army historian who interviewed the participants in 1945 is a private publication and protected. MacDonald quotes from it; here it is only summarized.",
+   "quelle": "New York: Ballantine 1957.",
+   "quelle_en": "New York: Ballantine 1957."
+  },
+  {
+   "id": "film1969",
+   "side": "film",
+   "kurz": "Der Spielfilm „The Bridge at Remagen“ (1969)",
+   "kurz_en": "The feature film ‘The Bridge at Remagen’ (1969)",
+   "warum": "Ein geschützter Spielfilm, keine Quelle für die Ereignisse; er gehört in den Ausblick, nicht ins Korpus.",
+   "warum_en": "A protected feature film, not a source for the events; it belongs in the epilogue, not in the corpus.",
+   "quelle": "Regie John Guillermin, 1969.",
+   "quelle_en": "Directed by John Guillermin, 1969."
+  }
+ ]
+}
