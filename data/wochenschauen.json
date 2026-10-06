@@ -1,0 +1,183 @@
+{
+ "id": "wochenschauen",
+ "titel": "Zwei Wochenschauen",
+ "titel_en": "Two newsreels",
+ "autor": "Universal Newsreel, United News, britische Wochenschauen, Deutsche Wochenschau (März 1945)",
+ "autor_en": "Universal Newsreel, United News, British newsreels, Die Deutsche Wochenschau (March 1945)",
+ "jahr": "März 1945",
+ "jahr_en": "March 1945",
+ "sprache": "de",
+ "orig_sprache": "en",
+ "pg_label": "",
+ "pg_label_en": "",
+ "quelle": "Universal Newsreel vom 26. März 1945 (Internet Archive, als gemeinfrei gekennzeichnet) und United News, „Bridgehead Extended“ (National Archives, ARC 39162, CC0), Tonspuren maschinell abgeschrieben und durchgesehen. Katalogtexte des Imperial War Museum zu British Movietone News Nr. 825 und Gaumont-British News, kurz zitiert. Eigene Inhaltsangaben der Deutschen Wochenschau Nr. 754 und 755. Erzgebirgischer Volksfreund vom 20. März 1945, am Seitenbild im Deutschen Zeitungsportal gelesen.",
+ "quelle_en": "Universal Newsreel of 26 March 1945 (Internet Archive, marked public domain) and United News, ‘Bridgehead Extended’ (National Archives, ARC 39162, CC0), soundtracks transcribed by machine and reviewed. Imperial War Museum catalogue texts on British Movietone News no. 825 and Gaumont-British News, quoted briefly. My own summaries of Die Deutsche Wochenschau nos. 754 and 755. Erzgebirgischer Volksfreund of 20 March 1945, read against the page image in the Deutsches Zeitungsportal.",
+ "hinweis": "Was die Kinos im März 1945 von Remagen zeigten. Die amerikanischen und britischen Wochenschauen brachten die Brücke, die Gefangenen, den Einsturz und die Rettung, und sie zeigten weniger, als ihre Kameraleute gefilmt hatten. Die Deutsche Wochenschau zeigte Remagen nicht: In Nr. 754 kommt der Rhein vor, als Strom des geordneten Rückzugs; in Nr. 755, der letzten, nichts aus dem Westen. Ihre Ausgaben werden hier nur nach ihrem Inhalt beschrieben. Wer in Deutschland im März 1945 mehr über Remagen erfahren wollte, war auf die Meldungen der Gegenseite angewiesen, die die Zeitungen nach Reuter druckten, oder auf verbotene Sender; darunter war auch ein amerikanischer Tarnsender („1212“), der sich als deutscher ausgab (neuere Literatur; ob er über Remagen sendete, ist hier nicht belegt).",
+ "hinweis_en": "What the cinemas showed of Remagen in March 1945. The American and British newsreels brought the bridge, the prisoners, the collapse and the rescue, and they showed less than their cameramen had filmed. The German newsreel did not show Remagen: in no. 754 the Rhine appears, as the river of an orderly withdrawal; in no. 755, the last, nothing from the west. Its issues are described here only by their contents. Anyone in Germany in March 1945 who wanted to know more about Remagen depended on the enemy's reports, which the newspapers printed after Reuters, or on forbidden stations; among them was an American black station (‘1212’) posing as German (recent literature; whether it broadcast about Remagen is not documented here).",
+ "sections": [
+  {
+   "id": "universal",
+   "titel": "Universal: „Allies Drive Across Rhine to Victory“",
+   "titel_en": "Universal: ‘Allies Drive Across Rhine to Victory’",
+   "zk": "Wochenschauen · Universal",
+   "zk_en": "Newsreels · Universal",
+   "blurb": "Die amerikanische Kinowochenschau vom 26. März 1945: ein „spektakulärer Handstreich“, Gefangene, trockene Füße „mit freundlicher Empfehlung“, ein Einsturz im Nebensatz.",
+   "blurb_en": "The American cinema newsreel of 26 March 1945: a ‘spectacular coup’, prisoners, dry feet ‘by courtesy’, a collapse in a subordinate clause.",
+   "plates": [
+    "universal_gefangene"
+   ],
+   "viz": "wochenschauen",
+   "films": [
+    {
+     "film": "universal",
+     "start": "2:40",
+     "end": "3:56"
+    }
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "2:41–3:56",
+     "lang": "en",
+     "pgl": "Film",
+     "titel": "Universal Newsreel, 26. März 1945",
+     "titel_en": "Universal Newsreel, 26 March 1945",
+     "orig": "South of Cologne at Remagen, our troops made one of the most spectacular coups of the war in capturing the Ludendorff Bridge intact minutes before the Germans [unverständlich] up. Prisoners stream back as our men cross the Rhine to establish our first bridgehead on the east bank of the river.\n\nEnemy planes come over and anti-aircraft fights them off. The capture of the bridge saved a costly crossing by assault boats and served our needs well until, weakened by the heavy traffic and bomb hits, it collapsed.\n\nAs spearheads rolled into the inner citadel of Germany, dry feet were by courtesy of the 9th Armoured Division. Men and supplies pour out of [Wortlaut unsicher] the east bank in a leap that caught the Germans by complete surprise and trapped thousands of prisoners.\n\nThe Rhine crossing at Remagen was the signal for a general breakthrough of our armies across the Rhine. The defences of fortress Germany are crumbling fast.",
+     "de": "Südlich von Köln, bei Remagen, gelang unseren Truppen einer der spektakulärsten Handstreiche des Krieges: Sie nahmen die Ludendorff-Brücke unversehrt, Minuten bevor die Deutschen [unverständlich]. Gefangene strömen zurück, während unsere Männer den Rhein überqueren und den ersten Brückenkopf auf dem Ostufer bilden.\n\nFeindliche Flugzeuge kommen, die Flak wehrt sie ab. Die Einnahme der Brücke ersparte einen verlustreichen Übergang mit Sturmbooten und diente uns gut, bis sie, geschwächt vom schweren Verkehr und von Bombentreffern, einstürzte.\n\nAls die Spitzen in die innere Zitadelle Deutschlands rollten, gab es trockene Füße mit freundlicher Empfehlung der 9th Armored Division. Männer und Nachschub strömen auf das Ostufer [Wortlaut unsicher], ein Sprung, der die Deutschen völlig überraschte und Tausende Gefangene einbrachte.\n\nDer Rheinübergang bei Remagen war das Signal zum allgemeinen Durchbruch unserer Armeen über den Rhein. Die Verteidigung der Festung Deutschland bröckelt schnell.",
+     "note": "Die Bilder zeigen die Brücke, Fahrzeuge, Flak, Infanterie und lange Kolonnen von Gefangenen; vieles stammt aus der stummen Signal-Corps-Rolle ADC-3612c (Seite „Filme“). Der Sprecher macht aus dem Schild an der Brücke einen Satz: „dry feet were by courtesy of the 9th Armoured Division“. Von Toten spricht er nicht; der Einsturz ist ein Nebensatz. „minutes before the Germans […]“: ein Wort unverständlich.",
+     "note_en": "The pictures show the bridge, vehicles, antiaircraft guns, infantry and long columns of prisoners; much of it comes from the silent Signal Corps reel ADC-3612c (Films page). The narrator turns the sign at the bridge into a sentence: ‘dry feet were by courtesy of the 9th Armoured Division’. He does not speak of the dead; the collapse is a subordinate clause."
+    }
+   ]
+  },
+  {
+   "id": "united",
+   "titel": "United News: das Wort und das Bild",
+   "titel_en": "United News: word and picture",
+   "zk": "Wochenschauen · United",
+   "zk_en": "Newsreels · United",
+   "blurb": "Die Wochenschau der US-Regierung ehrt die toten Pioniere mit Worten, „no battle stars for death on the Remagen Bridge“, und lässt ihre Bilder weg.",
+   "blurb_en": "The US government newsreel honours the dead engineers in words, ‘no battle stars for death on the Remagen Bridge’, and leaves out their pictures.",
+   "plates": [
+    "united_bruecke"
+   ],
+   "films": [
+    {
+     "film": "united",
+     "start": "4:38",
+     "end": "7:58"
+    }
+   ],
+   "units": [
+    {
+     "n": 2,
+     "pg": "4:32–5:40",
+     "lang": "en",
+     "pgl": "Film",
+     "titel": "United News: die Brücke",
+     "titel_en": "United News: the bridge",
+     "orig": "South of Bonn, north of Koblenz, lies the little town of Remagen, an unimportant place, but for the crumbling German armies, perhaps the most fateful place all down the long course of the Rhine.\n\nFor over the battered Remagen bridge in mid-March, the only bridge captured intact, American tanks, trucks, artillery and troops were pouring in a slow but steady stream.\n\nIn the first days before the bridgehead was safely established, engineers worked desperately to repair the twisted girders before the bridge collapsed. They measured the time in hours first, then in days, and while they worked, the divisions of the First Army passed to the east bank, and the Luftwaffe, desperate to make good the Wehrmacht blunder, flung in scores of planes, but it was already too late.",
+     "de": "Südlich von Bonn, nördlich von Koblenz liegt das Städtchen Remagen, ein unbedeutender Ort, aber für die zerfallenden deutschen Armeen vielleicht der schicksalhafteste am ganzen langen Lauf des Rheins.\n\nDenn über die zerschlagene Brücke von Remagen, die einzige, die unversehrt genommen wurde, strömten Mitte März amerikanische Panzer, Lastwagen, Artillerie und Truppen, langsam, aber stetig.\n\nIn den ersten Tagen, bevor der Brückenkopf gesichert war, arbeiteten Pioniere verzweifelt daran, die verbogenen Träger instand zu setzen, ehe die Brücke einstürzte. Sie maßen die Zeit erst in Stunden, dann in Tagen, und während sie arbeiteten, gingen die Divisionen der First Army auf das Ostufer, und die Luftwaffe warf, verzweifelt bemüht, den Fehler der Wehrmacht wiedergutzumachen, Dutzende Flugzeuge hinein, aber es war schon zu spät.",
+     "note": "„the only bridge captured intact“ und „the Wehrmacht blunder“: Die amerikanische Wochenschau spricht wie der deutsche Wehrmachtbericht vom Versagen der Deutschen an der Brücke (Modul 5).",
+     "note_en": "‘The only bridge captured intact’ and ‘the Wehrmacht blunder’: the American newsreel speaks, like the German Wehrmacht report, of German failure at the bridge (module 5)."
+    },
+    {
+     "n": 3,
+     "pg": "5:44–7:40",
+     "lang": "en",
+     "pgl": "Film",
+     "titel": "United News: die Pioniere",
+     "titel_en": "United News: the engineers",
+     "orig": "When the bridge went down ten days after its capture, collapsed from the weight of transport over its damaged girders, for the enemy, the worst had already been done.\n\nIt was the heroic engineers who had battled so hard to save the bridge, who paid the heaviest price when it was lost, flung headlong into the water, some were drowned, some died of injuries, some were seriously hurt and were pulled out more dead than alive.\n\nYes, the bridge was lost, but other bridges had already been erected, and every man who could be spared joined in the job of rescue.\n\nThe engineers dead and injured here will not figure in battle citations. They conquered no strong points. They took no cities. They captured no prisoners. There were no battle stars for death on the Remagen Bridge, but because by their efforts and theirs alone the bridgehead was made possible, because by their heroism the costly attack by storm was avoided, each man who died here died for a hundred of his comrades.\n\nBy however many hours or days or weeks they shortened the war, they shortened it for us all.",
+     "de": "Als die Brücke zehn Tage nach ihrer Einnahme fiel, eingestürzt unter dem Gewicht der Transporte über ihre beschädigten Träger, war für den Feind das Schlimmste schon geschehen.\n\nEs waren die heldenhaften Pioniere, die so hart um die Rettung der Brücke gekämpft hatten, die den höchsten Preis zahlten, als sie verloren ging: kopfüber ins Wasser geschleudert; einige ertranken, einige starben an ihren Verletzungen, einige wurden schwer verletzt und mehr tot als lebendig herausgezogen.\n\nJa, die Brücke war verloren, aber andere Brücken standen schon, und jeder Mann, der abkömmlich war, half bei der Rettung.\n\nDie Pioniere, die hier starben oder verwundet wurden, werden in keinem Tagesbefehl erscheinen. Sie eroberten keine Stützpunkte, nahmen keine Städte, machten keine Gefangenen. Für den Tod auf der Brücke von Remagen gab es keine Gefechtssterne. Aber weil allein durch ihre Arbeit der Brückenkopf möglich wurde, weil durch ihren Heldenmut der verlustreiche Sturmangriff vermieden wurde, starb jeder, der hier starb, für hundert seiner Kameraden.\n\nUm wie viele Stunden, Tage oder Wochen sie den Krieg auch verkürzten: Sie verkürzten ihn für uns alle.",
+     "note": "Die Worte nennen die Toten: ertrunken, an Verletzungen gestorben, „more dead than alive“ geborgen. Die Bilder zeigen die Rettung aus dem Fluss und Tragen, aber nicht die Toten und Eingeklemmten zwischen den Trägern, die die stumme Rolle des Signal Corps vom selben Tag festhält (111-ADC-3597, 4:22–4:42). Das Wort sagt hier mehr als das Bild.",
+     "note_en": "The words name the dead: drowned, died of injuries, pulled out ‘more dead than alive’. The pictures show the rescue from the river and stretchers, but not the dead and trapped men between the girders recorded by the silent Signal Corps reel of the same day (111-ADC-3597, 4:22–4:42). Here the word says more than the picture."
+    }
+   ]
+  },
+  {
+   "id": "britisch",
+   "titel": "Die britischen Wochenschauen",
+   "titel_en": "The British newsreels",
+   "zk": "Wochenschauen · Britisch",
+   "zk_en": "Newsreels · British",
+   "blurb": "Pathé zeigt das Schild in Großaufnahme, Movietone am 26. März die Bergung, Gaumont-British im Mai den Einsturz „ohne Vorwarnung“. Nach Katalog und eigener Stichprobe.",
+   "blurb_en": "Pathé shows the sign in close-up, Movietone the rescue on 26 March, Gaumont-British in May the collapse ‘without warning’. After the catalogue and my own spot checks.",
+   "films": [
+    "pathe",
+    "movietone"
+   ],
+   "units": [
+    {
+     "n": 4,
+     "pg": "IWM 32000",
+     "lang": "en",
+     "titel": "British Movietone News Nr. 825, 26. März 1945",
+     "titel_en": "British Movietone News no. 825, 26 March 1945",
+     "orig": "Engineers repair the Remagen Bridge over the Rhine shortly before its collapse. Film taken immediately after the collapse shows rescue operations under way, including a stretcher casualty being lifted from the buckled girders and men coming ashore from the swift-flowing river.",
+     "de": "Pioniere setzen die Brücke von Remagen kurz vor ihrem Einsturz instand. Aufnahmen unmittelbar nach dem Einsturz zeigen die Rettung: Ein Verwundeter wird auf einer Trage aus den verbogenen Trägern gehoben, Männer kommen aus dem reißenden Fluss an Land.",
+     "note": "Kein Text der Wochenschau, sondern die Beschreibung im Katalog des Imperial War Museum (film.iwmcollections.org.uk, Datensatz 32000), hier kurz zitiert; den Film selbst habe ich nicht gesehen. Erschienen am selben Tag wie die Universal-Wochenschau, mit den Bildern der Bergung.",
+     "note_en": "Not a text of the newsreel but the description in the Imperial War Museum catalogue (film.iwmcollections.org.uk, record 32000), quoted briefly here; I have not seen the film itself. Released on the same day as the Universal newsreel, with the pictures of the rescue."
+    },
+    {
+     "n": 5,
+     "pg": "IWM 28364",
+     "lang": "en",
+     "titel": "Gaumont-British News, Mai 1945",
+     "titel_en": "Gaumont-British News, May 1945",
+     "orig": "Softening up attacks using rocket-tanks lead to the taking of the bridge at Remagen by the American 9th Armoured Division. […] Americans have to be rescued from the wreckage, when the bridge collapses without warning.",
+     "de": "Zermürbende Angriffe mit Raketenpanzern führen zur Einnahme der Brücke von Remagen durch die amerikanische 9. Panzerdivision. […] Amerikaner müssen aus den Trümmern gerettet werden, als die Brücke ohne Vorwarnung einstürzt.",
+     "note": "Beschreibung im Katalog des Imperial War Museum (Datensatz 28364), kurz zitiert. Raketenpanzer kommen in keiner der hier abgedruckten Darstellungen des 7. März vor (Modul 2); der Katalog beschreibt, was der Film zeigt, nicht was geschah. Die britischen Wochenschauen sind nur über den YouTube-Kanal ihrer Rechteinhaber eingebettet.",
+     "note_en": "Description in the Imperial War Museum catalogue (record 28364), quoted briefly. Rocket tanks appear in none of the accounts of 7 March printed here (module 2); the catalogue describes what the film shows, not what happened. The British newsreels are embedded only through their rights holders' YouTube channel."
+    }
+   ]
+  },
+  {
+   "id": "deutsch",
+   "titel": "Die Deutsche Wochenschau schweigt",
+   "titel_en": "The German newsreel is silent",
+   "zk": "Wochenschauen · Deutsch",
+   "zk_en": "Newsreels · German",
+   "blurb": "Nr. 754 am 16. März: der Rhein als Strom des geordneten Rückzugs. Nr. 755 am 22. März, die letzte: Hitler und zwanzig Hitlerjungen, nichts aus dem Westen. In der Zeitung vom 20. März stand beides untereinander.",
+   "blurb_en": "No. 754 on 16 March: the Rhine as the river of an orderly withdrawal. No. 755 on 22 March, the last: Hitler and twenty Hitler Youths, nothing from the west. In the newspaper of 20 March both stood one below the other.",
+   "films": [
+    "dw754",
+    "dw755"
+   ],
+   "units": [
+    {
+     "n": 6,
+     "pg": "DW 754, 16.3.1945",
+     "lang": "de",
+     "titel": "Nr. 754: der Rhein, aber nicht Remagen",
+     "titel_en": "No. 754: the Rhine, but not Remagen",
+     "orig": "Die Deutsche Wochenschau Nr. 754 vom 16. März 1945, neun Tage nach dem Übergang, beginnt mit Streiks in England und den USA. Dann der Westen: Der Sprecher behauptet sinngemäß, auch am Rhein sei dem amerikanischen General die Umklammerung der deutschen Truppen nicht gelungen; das Gros sei mit allen schweren Waffen über den Strom gegangen, an der Rur sei die geplante Einkesselung gescheitert. Es folgen Volksgrenadiere mit Panzerfäusten, Fallschirmjäger, General Wlassow, Kurland, Flüchtlingstrecks, die Marienburg, Lauban und Görlitz mit Goebbels und einem sechzehnjährigen Hitlerjungen mit dem Eisernen Kreuz, zuletzt Hitler bei einem Divisionsstab im Osten. Remagen kommt nicht vor, weder Brücke noch Brückenkopf.",
+     "en": "Die Deutsche Wochenschau no. 754 of 16 March 1945, nine days after the crossing, opens with strikes in Britain and the United States. Then the west: the narrator claims, in substance, that on the Rhine too the American general failed to encircle the German troops; the bulk had crossed the river with all its heavy weapons, and on the Roer the planned encirclement had failed. There follow Volksgrenadiers with Panzerfausts, paratroopers, General Vlasov, Courland, refugee treks, the Marienburg, Lauban and Görlitz with Goebbels and a sixteen-year-old Hitler Youth with the Iron Cross, and finally Hitler at a divisional headquarters in the east. Remagen does not appear, neither bridge nor bridgehead.",
+     "note": "Eigene Inhaltsangabe (CC BY 4.0) nach Sichtung und einer maschinellen Prüfabschrift des Tons, die nicht veröffentlicht wird; die Wochenschau selbst wird weder gezeigt noch eingebettet noch zitiert. Grundlage: Kopie im Internet Archive (1945-03-16-Die-Deutsche-Wochenschau-754, privater Upload) und deren Inhaltsangabe. Die Wochenschau kennt den Rhein als Strom, über den die eigenen Truppen geordnet zurückgingen, nicht als Strom, über den der Gegner gekommen war.",
+     "note_en": "My own summary (CC BY 4.0) after viewing and an unpublished machine check-transcript of the soundtrack; the newsreel itself is neither shown, embedded nor quoted. Basis: copy in the Internet Archive (1945-03-16-Die-Deutsche-Wochenschau-754, private upload) and its summary. The newsreel knows the Rhine as the river across which German troops withdrew in good order, not as the river the enemy had crossed."
+    },
+    {
+     "n": 7,
+     "pg": "DW 755, 22.3.1945",
+     "lang": "de",
+     "titel": "Nr. 755: die letzte Ausgabe",
+     "titel_en": "No. 755: the last issue",
+     "orig": "Die Deutsche Wochenschau Nr. 755 vom 22. März 1945, die letzte: ein Feuerwerker, der über tausend Bomben entschärft hat; Volkssturm und Zivilisten an der Panzerfaust; Hitler empfängt in seinem Hauptquartier Reichsjugendführer Axmann mit zwanzig Hitlerjungen, die das Eiserne Kreuz erhalten haben, und lässt sich ihre Erlebnisse schildern; ein Volkssturmführer mit dem Ritterkreuz; Breslau, Königsberg, die Kriegsmarine vor Ost- und Westpreußen, der Brückenkopf Stettin. Aus dem Westen nichts.",
+     "en": "Die Deutsche Wochenschau no. 755 of 22 March 1945, the last: a bomb disposal officer who has defused over a thousand bombs; Volkssturm and civilians with the Panzerfaust; Hitler receives Reich Youth Leader Axmann with twenty Hitler Youths who have received the Iron Cross and has them describe their experiences; a Volkssturm commander with the Knight's Cross; Breslau, Königsberg, the navy off East and West Prussia, the Stettin bridgehead. Nothing from the west.",
+     "note": "Eigene Inhaltsangabe (CC BY 4.0) nach Sichtung und Prüfabschrift; Kopie im Internet Archive (1945-03-22-Die-Deutsche-Wochenschau-755, privater Upload). Nach dem Bundesarchiv ist die Ausgabe online „aus rechtlichen Gründen“ gesperrt; die Verwertungsrechte liegen bei der Transit Film GmbH.",
+     "note_en": "My own summary (CC BY 4.0) after viewing and a check-transcript; copy in the Internet Archive (1945-03-22-Die-Deutsche-Wochenschau-755, private upload). According to the Bundesarchiv the issue is blocked online ‘for legal reasons’; the rights are held by Transit Film GmbH."
+    },
+    {
+     "n": 8,
+     "pg": "Erzgebirgischer Volksfreund, 20.3.1945, S. 1",
+     "lang": "de",
+     "titel": "Zwei Meldungen, eine Spalte",
+     "titel_en": "Two reports, one column",
+     "orig": "Tapfere Hitlerjungen beim Führer.\nDer Führer empfing in seinem Hauptquartier Reichsjugendführer Axmann mit einer Abordnung von 20 Hitlerjungen, die sich bei der Verteidigung ihrer Heimat in Pommern, Nieder- und Oberschlesien als Einzelkämpfer besonders bewährt haben.\n\n[unmittelbar darunter:]\nRheinbrücke bei Remagen durch deutschen Beschuß vernichtet.\nWie Reuter meldet, ist die Ludendorff-Brücke über den Rhein bei Remagen am Sonnabend nachmittag „zusammengebrochen und in den Fluß gestürzt“. […]",
+     "en": "Brave Hitler Youths with the Führer.\nThe Führer received at his headquarters Reich Youth Leader Axmann with a delegation of 20 Hitler Youths who have proved themselves particularly as lone fighters in the defence of their homeland in Pomerania, Lower and Upper Silesia.\n\n[immediately below:]\nRhine bridge at Remagen destroyed by German fire.\nAs Reuters reports, the Ludendorff Bridge over the Rhine at Remagen ‘collapsed and fell into the river’ on Saturday afternoon. […]",
+     "note": "Dieselbe Zeitungsspalte vom 20. März enthält beide Meldungen, eine über der anderen. Die Wochenschau zwei Tage später nahm die erste, fast mit denselben Worten, und ließ die zweite weg. Den vollständigen Remagen-Text gibt Modul 7, Einheit 4. Fraktursatz, am Seitenbild der SLUB Dresden gelesen. Zeitungsseite: https://www.deutsche-digitale-bibliothek.de/newspaper/item/R6HE5YI22772YFTH4HR5FYDYPI6ZTSSG",
+     "note_en": "The same newspaper column of 20 March contains both reports, one above the other. The newsreel two days later took the first, in almost the same words, and left out the second. The full Remagen text is in module 7, unit 4. Set in Fraktur, read against the page image of the SLUB Dresden. Newspaper page: https://www.deutsche-digitale-bibliothek.de/newspaper/item/R6HE5YI22772YFTH4HR5FYDYPI6ZTSSG"
+    }
+   ]
+  }
+ ]
+}

@@ -42,6 +42,9 @@ PLATES = {
     "sc1945_ley": ("commons", "File:Ludendorff Bridge from Erpeler Ley.jpg", None),
     "adc3612c_flak": ("film", "https://archive.org/download/ADC-3612c/ADC-3612c.mp4", 90.0),
     "cb48_schweisser": ("film", "https://archive.org/download/CB-48/CB-48%20Combat%20Bulletin%2048%20Air%20Support%20On%20Western%20Front%20Etc%201945.mp4", 910.0),
+    # Modul 8
+    "universal_gefangene": ("film", "https://archive.org/download/1945-03-26_Allies_Drive_Across_Rhine_To_Victory/1945-03-26_Allies_Drive_Across_Rhine_To_Victory.mp4", 215.0),
+    "united_bruecke": ("film", "https://archive.org/download/gov.archives.arc.39162/gov.archives.arc.39162_512kb.mp4", 280.0),
     # Modul 7
     "adc3597_truemmer": ("film", "https://archive.org/download/111-adc-3597/111-adc-3597.mp4", 16.0),
     "adc3597_rettung": ("film", "https://archive.org/download/111-adc-3597/111-adc-3597.mp4", 133.0),

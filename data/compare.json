@@ -374,6 +374,64 @@
      "wer_en": "MacDonald 1973"
     }
    ]
+  },
+  {
+   "id": "spalte",
+   "titel": "Eine Spalte, eine Wochenschau",
+   "titel_en": "One column, one newsreel",
+   "frage": "Was nahm die Wochenschau aus der Zeitung, was ließ sie weg?",
+   "frage_en": "What did the newsreel take from the newspaper, and what did it leave out?",
+   "note": "Am 20. März druckte der Erzgebirgische Volksfreund zwei Meldungen untereinander: Hitler empfängt zwanzig Hitlerjungen; die Brücke von Remagen ist eingestürzt. Die letzte Deutsche Wochenschau vom 22. März brachte die erste, fast wörtlich, und nicht die zweite.",
+   "note_en": "On 20 March the Erzgebirgischer Volksfreund printed two reports one below the other: Hitler receives twenty Hitler Youths; the bridge at Remagen has collapsed. The last German newsreel of 22 March brought the first, almost word for word, and not the second.",
+   "voices": [
+    {
+     "text": "wochenschauen",
+     "sec": "deutsch",
+     "n": [
+      8
+     ],
+     "wer": "Erzgebirgischer Volksfreund, 20. März 1945",
+     "wer_en": "Erzgebirgischer Volksfreund, 20 March 1945"
+    },
+    {
+     "text": "wochenschauen",
+     "sec": "deutsch",
+     "n": [
+      7
+     ],
+     "wer": "Deutsche Wochenschau Nr. 755 (Inhaltsangabe)",
+     "wer_en": "Die Deutsche Wochenschau no. 755 (summary)"
+    }
+   ]
+  },
+  {
+   "id": "gefechtssterne",
+   "titel": "Keine Gefechtssterne",
+   "titel_en": "No battle stars",
+   "frage": "Wie sprechen Wochenschau und Army-Geschichte von den toten Pionieren?",
+   "frage_en": "How do the newsreel and the Army's history speak of the dead engineers?",
+   "note": "United News macht aus den Toten ein Opfer „für hundert Kameraden“, MacDonald gibt eine Zahl, 28 Tote und 93 Verletzte. Die Wochenschau zeigt Rettung, nicht Tote; MacDonald zeigt nichts.",
+   "note_en": "United News makes the dead a sacrifice ‘for a hundred comrades’, MacDonald gives a figure, 28 killed and 93 injured. The newsreel shows rescue, not the dead; MacDonald shows nothing.",
+   "voices": [
+    {
+     "text": "wochenschauen",
+     "sec": "united",
+     "n": [
+      3
+     ],
+     "wer": "United News, 1945",
+     "wer_en": "United News, 1945"
+    },
+    {
+     "text": "einsturz",
+     "sec": "nachmittag",
+     "n": [
+      2
+     ],
+     "wer": "MacDonald 1973",
+     "wer_en": "MacDonald 1973"
+    }
+   ]
   }
  ]
 }

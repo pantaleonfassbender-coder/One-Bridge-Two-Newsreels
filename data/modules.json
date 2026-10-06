@@ -90,19 +90,22 @@
    "datei": "einsturz",
    "zk": "Nachmittag · Ursachen · Presse · Film",
    "zk_en": "Afternoon · Causes · Press · Film"
-  }
- ],
- "planned": [
+  },
   {
    "id": "wochenschauen",
    "side": "film",
    "kurz": "8 · Zwei Wochenschauen",
    "kurz_en": "8 · Two newsreels",
-   "warum": "Was die amerikanischen und britischen Wochenschauen im März 1945 aus der Brücke machten, und was die Deutsche Wochenschau in ihren letzten beiden Ausgaben zeigte: Remagen nicht.",
-   "warum_en": "What the American and British newsreels made of the bridge in March 1945, and what the German newsreel showed in its last two issues: not Remagen.",
-   "quelle": "Universal Newsreel vom 26. März 1945; United News; Rohaufnahmen des Signal Corps; britische Wochenschauen nur eingebettet; Inhaltsangaben der Deutschen Wochenschau Nr. 754 und 755.",
-   "quelle_en": "Universal Newsreel of 26 March 1945; United News; Signal Corps raw footage; British newsreels embedded only; contents of the German newsreel nos. 754 and 755."
-  },
+   "warum": "Die amerikanischen und britischen Wochenschauen zeigten die Brücke, die Gefangenen, den Einsturz und die Rettung, und weniger, als gefilmt war. Die Deutsche Wochenschau zeigte den Rhein als Strom des Rückzugs und in ihrer letzten Ausgabe Hitler mit Hitlerjungen; Remagen nicht.",
+   "warum_en": "The American and British newsreels showed the bridge, the prisoners, the collapse and the rescue, and less than had been filmed. The German newsreel showed the Rhine as the river of withdrawal and in its last issue Hitler with Hitler Youths; not Remagen.",
+   "quelle": "Universal Newsreel 26.3.1945; United News 1945; IWM-Katalog zu britischen Wochenschauen; Deutsche Wochenschau Nr. 754 und 755 (nur Inhaltsangabe); Erzgebirgischer Volksfreund 20.3.1945.",
+   "quelle_en": "Universal Newsreel 26 March 1945; United News 1945; IWM catalogue on British newsreels; Die Deutsche Wochenschau nos. 754 and 755 (summary only); Erzgebirgischer Volksfreund 20 March 1945.",
+   "datei": "wochenschauen",
+   "zk": "Universal · United · Britisch · Deutsch",
+   "zk_en": "Universal · United · British · German"
+  }
+ ],
+ "planned": [
   {
    "id": "lager",
    "side": "menschen",
@@ -115,16 +118,6 @@
   }
  ],
  "missing": [
-  {
-   "id": "dw",
-   "side": "film",
-   "kurz": "Die Deutsche Wochenschau, März 1945",
-   "kurz_en": "The German newsreel, March 1945",
-   "warum": "Nicht gezeigt und nicht eingebettet: Die Ausgaben sind vermutlich noch urheberrechtlich geschützt, die Verwertungsrechte liegen bei der Transit Film GmbH, und die frei zugänglichen Kopien sind private Uploads. Modul 8 beschreibt sie nach ihrem Inhalt.",
-   "warum_en": "Not shown and not embedded: the issues are probably still under copyright, the rights are held by Transit Film GmbH, and the freely available copies are private uploads. Module 8 describes them by their contents.",
-   "quelle": "Nr. 754 (16.3.1945) und Nr. 755 (22.3.1945).",
-   "quelle_en": "No. 754 (16 March 1945) and no. 755 (22 March 1945)."
-  },
   {
    "id": "hechler",
    "side": "us",
@@ -144,6 +137,16 @@
    "warum_en": "A protected feature film, not a source for the events; it belongs in the epilogue, not in the corpus.",
    "quelle": "Regie John Guillermin, 1969.",
    "quelle_en": "Directed by John Guillermin, 1969."
+  },
+  {
+   "id": "dw",
+   "side": "film",
+   "kurz": "Die Deutsche Wochenschau, März 1945",
+   "kurz_en": "The German newsreel, March 1945",
+   "warum": "Nicht gezeigt und nicht eingebettet: Die Ausgaben sind vermutlich noch urheberrechtlich geschützt, die Verwertungsrechte liegen bei der Transit Film GmbH, und die frei zugänglichen Kopien sind private Uploads. Modul 8 beschreibt sie nach ihrem Inhalt.",
+   "warum_en": "Not shown and not embedded: the issues are probably still under copyright, the rights are held by Transit Film GmbH, and the freely available copies are private uploads. Module 8 describes them by their contents.",
+   "quelle": "Nr. 754 (16.3.1945) und Nr. 755 (22.3.1945).",
+   "quelle_en": "No. 754 (16 March 1945) and no. 755 (22 March 1945)."
   }
  ]
 }
