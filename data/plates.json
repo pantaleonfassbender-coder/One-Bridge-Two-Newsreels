@@ -1,8 +1,8 @@
 {
- "lede": "Photographien, Karten und Filmstandbilder, alle gemeinfrei als Werke der US-Regierung. Jede Tafel nennt ihre Vorlage.",
- "lede_en": "Photographs, maps and film stills, all in the public domain as works of the US government. Each plate names its original.",
- "credit": "Photographien und Karten aus MacDonald, The Last Offensive (1973), nach den Seitenbildern des Internet Archive; Standbilder aus Rollen des Signal Corps (National Archives) im Internet Archive. Werke der US-Regierung, gemeinfrei (17 U.S.C. § 105).",
- "credit_en": "Photographs and maps from MacDonald, The Last Offensive (1973), after the page images of the Internet Archive; stills from Signal Corps reels (National Archives) in the Internet Archive. Works of the US government, in the public domain (17 U.S.C. § 105).",
+ "lede": "Photographien, Karten, Luftbilder, Filmstandbilder und ein Zeitungsausschnitt. Jede Tafel nennt ihre Vorlage und ihre Rechte.",
+ "lede_en": "Photographs, maps, aerial photographs, film stills and a newspaper clipping. Each plate names its original and its rights.",
+ "credit": "Photographien und Karten aus MacDonald, The Last Offensive (1973), nach den Seitenbildern des Internet Archive; Standbilder aus Rollen des Signal Corps und der Wochenschau United News (National Archives) im Internet Archive; Luftbilder der US-Regierung und ein Farbdia des Corps of Engineers über Wikimedia Commons: Werke der US-Regierung, gemeinfrei (17 U.S.C. § 105). Ein Zeitungsausschnitt von 1918 nach der Staatsbibliothek zu Berlin (Public Domain Mark); das Messtischblatt um 1938 nach dem Landesarchiv NRW (CC BY-SA 4.0).",
+ "credit_en": "Photographs and maps from MacDonald, The Last Offensive (1973), after the page images of the Internet Archive; stills from Signal Corps reels and the United News newsreel (National Archives) in the Internet Archive; US government aerial photographs and a Corps of Engineers colour slide via Wikimedia Commons: works of the US government, in the public domain (17 U.S.C. § 105). A newspaper clipping of 1918 after the Staatsbibliothek zu Berlin (Public Domain Mark); the ordnance map of c. 1938 after the Landesarchiv NRW (CC BY-SA 4.0).",
  "plates": [
   {
    "id": "mac1973_map3",
@@ -93,6 +93,42 @@
    "caption": "Der Rhein bei Remagen drei Jahre nach dem Krieg: vorn das Remagener Ufer mit den Brückentürmen, gegenüber Erpel und die Erpeler Ley mit dem Tunnelportal.",
    "caption_en": "The Rhine at Remagen three years after the war: in front the Remagen bank with the bridge towers, opposite Erpel and the Erpeler Ley with the tunnel portal.",
    "source": "„The Rhine at the Remagen Bridge Site. (Photograph taken in 1948.)“, MacDonald, The Last Offensive (1973), S. 231; Internet Archive CMHPub791TheLastOffensive."
+  },
+  {
+   "id": "tr1918_telegramm",
+   "side": "bruecke",
+   "titel": "„… heute den Namen Ludendorff-Brücke beigelegt“",
+   "titel_en": "‘… today given the name Ludendorff Bridge’",
+   "caption": "Das Telegramm Wilhelms II. an Ludendorff in der Berliner Täglichen Rundschau vom 2. Mai 1918.",
+   "caption_en": "Wilhelm II's telegram to Ludendorff in the Berlin Tägliche Rundschau of 2 May 1918.",
+   "source": "Tägliche Rundschau, 2.5.1918, S. 6 (Ausschnitt); Staatsbibliothek zu Berlin, ZEFYS SNP30744556-19180502, Public Domain Mark."
+  },
+  {
+   "id": "mtb1938_linz",
+   "side": "bruecke",
+   "titel": "Die Brücke auf dem Messtischblatt, um 1938",
+   "titel_en": "The bridge on the ordnance map, c. 1938",
+   "caption": "Remagen, Erpel und die Bahnlinien zur Brücke; in der Mitte die Strecke über den Rhein und in den Tunnel der Erpeler Ley. Ausschnitt aus dem Messtischblatt Linz.",
+   "caption_en": "Remagen, Erpel and the railway lines to the bridge; in the middle the line across the Rhine and into the tunnel of the Erpeler Ley. Detail of the Linz ordnance map sheet.",
+   "source": "Landesarchiv Nordrhein-Westfalen, RW Karten Nr. 8601 (Messtischblatt 5409 Linz, um 1938), über Wikimedia Commons; CC BY-SA 4.0 (Landesarchiv NRW)."
+  },
+  {
+   "id": "nara1944_erpel",
+   "side": "us",
+   "titel": "Erpel, Remagen und die Brücke, 28. Oktober 1944",
+   "titel_en": "Erpel, Remagen and the bridge, 28 October 1944",
+   "caption": "Alliiertes Luftbild: links Erpel unter der Ley, rechts Remagen, dazwischen die Brücke. Ausschnitt.",
+   "caption_en": "Allied aerial photograph: Erpel below the Ley on the left, Remagen on the right, the bridge between them. Detail.",
+   "source": "U.S. Department of Defense, Defense Intelligence Agency (National Archives, NAID 531347349), über Wikimedia Commons; gemeinfrei."
+  },
+  {
+   "id": "nara1945_erpel",
+   "side": "us",
+   "titel": "Die Brücke bei Erpel, 15. Februar 1945",
+   "titel_en": "The bridge at Erpel, 15 February 1945",
+   "caption": "Alliiertes Luftbild drei Wochen vor dem 7. März; unten die Brücke, darüber Erpel und die Bahnlinie am Ufer. Ausschnitt.",
+   "caption_en": "Allied aerial photograph three weeks before 7 March; below, the bridge, above it Erpel and the riverside railway. Detail.",
+   "source": "U.S. Department of Defense, Defense Intelligence Agency (National Archives, NAID 291982353), über Wikimedia Commons; gemeinfrei."
   }
  ]
 }

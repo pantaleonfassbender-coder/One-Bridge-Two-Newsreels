@@ -3,13 +3,41 @@
  "lede_en": "Verified stations only. Page numbers refer to MacDonald, The Last Offensive (1973); what only recent literature reports is marked as such.",
  "stations": [
   {
-   "d": "1916",
-   "d_en": "1916",
+   "d": "1916–1918",
+   "d_en": "1916–1918",
    "side": "bruecke",
    "titel": "Eine Brücke für den Krieg",
    "titel_en": "A bridge for the war",
-   "text": "MacDonald nennt 1916 als Baujahr: eine Eisenbahnbrücke für zwei Gleise mit Fußwegen, drei Bögen auf vier Steinpfeilern, an jedem Ende zwei Steintürme, am Ostende der Tunnel durch die Erpeler Ley; benannt nach Erich Ludendorff (S. 214). Nach neuerer Literatur wurde sie 1919 in Betrieb genommen.",
-   "text_en": "MacDonald gives 1916 as the year it was built: a railway bridge for two tracks with footpaths, three arches on four stone piers, two stone towers at each end, at the east end the tunnel through the Erpeler Ley; named after Erich Ludendorff (p. 214). According to recent literature it went into service in 1919."
+   "text": "Im Ersten Weltkrieg gebaut, als Zuführung zur Ahrtalbahn. Am 1. oder 2. Mai 1918 gibt Wilhelm II. ihr den Namen Ludendorff-Brücke, „die Rheinfahrer aller Zeiten sollen sich erinnern“; im August 1918 wird sie mit den Brücken bei Engers und Rüdesheim eingeweiht.",
+   "text_en": "Built in the First World War as a feeder to the Ahr valley railway. On 1 or 2 May 1918 Wilhelm II gives it the name Ludendorff Bridge, ‘Rhine travellers of all times shall remember’; in August 1918 it is dedicated together with the bridges at Engers and Rüdesheim.",
+   "cite": "#/text/bruecke/bau/2",
+   "citeLabel": "Die Brücke [2]",
+   "citeLabel_en": "The bridge [2]",
+   "plate": "tr1918_telegramm"
+  },
+  {
+   "d": "1918–1925",
+   "d_en": "1918–1925",
+   "side": "bruecke",
+   "titel": "Heimkehr und Besatzung",
+   "titel_en": "Homecoming and occupation",
+   "text": "Am 10. November 1918 für Fußgänger freigegeben; Ende November marschiert die 7. Armee über die Brücke zurück. Danach steht eine Wache auf ihr, bis zum 7. Dezember 1925.",
+   "text_en": "Opened to pedestrians on 10 November 1918; at the end of November the 7th Army marches back across the bridge. Afterwards a guard stands on it, until 7 December 1925.",
+   "cite": "#/text/bruecke/kriegsende/5",
+   "citeLabel": "Die Brücke [5]",
+   "citeLabel_en": "The bridge [5]"
+  },
+  {
+   "d": "1928",
+   "d_en": "1928",
+   "side": "bruecke",
+   "titel": "Der Brand",
+   "titel_en": "The fire",
+   "text": "In der Nacht zum 21. März brennt der Holzbelag, entzündet von Lokomotivschlacken; bis November erhält die Brücke Eisenplatten.",
+   "text_en": "On the night of 20–21 March the wooden decking burns, set alight by locomotive cinders; by November the bridge has iron plates.",
+   "cite": "#/text/bruecke/alltag/7",
+   "citeLabel": "Die Brücke [7]",
+   "citeLabel_en": "The bridge [7]"
   },
   {
    "d": "7. März 1945, kurz vor 13 Uhr",

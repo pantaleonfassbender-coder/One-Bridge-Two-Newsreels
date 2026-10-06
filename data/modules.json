@@ -1,6 +1,19 @@
 {
  "shipped": [
   {
+   "id": "bruecke",
+   "side": "bruecke",
+   "kurz": "1 · Die Brücke, 1916–1945",
+   "kurz_en": "1 · The bridge, 1916–1945",
+   "warum": "Im Krieg für den Krieg gebaut und im Mai 1918 nach Ludendorff benannt, nach dem Waffenstillstand vom heimkehrenden Heer benutzt, unter Besatzung bewacht, in den Jahren danach eine wenig befahrene Nebenbahn, die 1928 brannte, und ab 1940 wieder ein Ziel.",
+   "warum_en": "Built in the war for the war and named after Ludendorff in May 1918, used by the returning army after the armistice, guarded under occupation, in the following years a little-used branch line that burned in 1928, and from 1940 a target again.",
+   "quelle": "Zeitungen 1918–1935 (Deutsches Zeitungsportal), Telegramme Wilhelms II. und Ludendorffs (1918); MacDonald (1973), S. 213, 230.",
+   "quelle_en": "Newspapers 1918–1935 (Deutsches Zeitungsportal), telegrams of Wilhelm II and Ludendorff (1918); MacDonald (1973), pp. 213, 230.",
+   "datei": "bruecke",
+   "zk": "Bau · Kriegsende · Alltag · Krieg",
+   "zk_en": "Building · War's end · Everyday · War"
+  },
+  {
    "id": "siebter",
    "side": "us",
    "kurz": "2 · Der 7. März",
@@ -54,16 +67,6 @@
   }
  ],
  "planned": [
-  {
-   "id": "bruecke",
-   "side": "bruecke",
-   "kurz": "1 · Die Brücke, 1916–1945",
-   "kurz_en": "1 · The bridge, 1916–1945",
-   "warum": "Eine Eisenbahnbrücke für den Krieg gebaut, nach Ludendorff benannt, mit einem Tunnel durch die Erpeler Ley und einem Sprengplan seit 1938.",
-   "warum_en": "A railway bridge built for war, named after Ludendorff, with a tunnel through the Erpeler Ley and a demolition plan from 1938.",
-   "quelle": "MacDonald, Kap. XI (Anlage, Tunnel, Ladungen); ein gemeinfreier Baubericht der Jahre 1916–1919 wird noch gesucht.",
-   "quelle_en": "MacDonald, ch. XI (layout, tunnel, charges); a public-domain construction report of 1916–1919 is still being sought."
-  },
   {
    "id": "angriffe",
    "side": "deutsch",

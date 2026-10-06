@@ -33,6 +33,11 @@ PLATES = {
     "usace_ponton": ("commons", "File:212 Cameron bridgehead at Remagen - USACE-p15141coll5-15246.jpeg", None),
     "united_panzer": ("film", "https://archive.org/download/gov.archives.arc.39162/gov.archives.arc.39162_512kb.mp4", 289.0),
     "mac1973_luft1948": ("ia", MAC.format(231 + 20), (72, 108, 898, 555)),
+    # Modul 1
+    "tr1918_telegramm": ("local", "../quellen/anno/_ts_ludendorff.png", None),
+    "nara1944_erpel": ("commons", "File:Erpel Germany 50.5824603486033, 7.2413274834195 1944-10-28 NARA ID531347349 deatil.webp", None),
+    "nara1945_erpel": ("commons", "File:Erpel Germany 50.58099226, 7.24065513 1945-02-15 NARA ID291982353 detail.webp", None),
+    "mtb1938_linz": ("commons", "File:Remagener Brücke R RW Karten-08601 gesamt 1938.jpg", None),
     # Modul 7
     "nara195343": ("commons", "File:WWII, Europe, Germany, \"U.S. First Army at Remagen Bridge\" - NARA - 195343.jpg", None),
 }
@@ -81,7 +86,10 @@ def main(ids):
         if kind == "film":
             save(pid, frame(src, arg))
             continue
-        im = commons(src) if kind == "commons" else Image.open(io.BytesIO(fetch(src)))
+        if kind == "local":
+            im = Image.open(ROOT / src)
+        else:
+            im = commons(src) if kind == "commons" else Image.open(io.BytesIO(fetch(src)))
         if arg:
             w, h = im.size
             x0, y0, x1, y1 = arg
