@@ -25,6 +25,19 @@
    "datei": "warum",
    "zk": "Befehle · Scheller · Sprengplan · Bratge · Tunnel · Erklärungen",
    "zk_en": "Commands · Scheller · Scheme · Bratge · Tunnel · Explanations"
+  },
+  {
+   "id": "standgericht",
+   "side": "deutsch",
+   "kurz": "5 · Das fliegende Standgericht",
+   "kurz_en": "5 · The flying court-martial",
+   "warum": "Der Wehrmachtbericht schwieg über die Brücke, bis er die Todesurteile meldete. Strobel, Kraft, Scheller und Peters wurden erschossen, Bratge in Abwesenheit verurteilt, seine Familie in Sippenhaft genommen: Opfer der NS-Justiz, zur Warnung an die Truppe.",
+   "warum_en": "The Wehrmacht report was silent about the bridge until it announced the death sentences. Strobel, Kraft, Scheller and Peters were shot, Bratge sentenced in absentia, his family subjected to liability of kin: victims of Nazi justice, as a warning to the troops.",
+   "quelle": "Wehrmachtberichte 8.–18. März 1945 (Zeitungen im Deutschen Zeitungsportal); MacDonald (1973), S. 222, 230; Erlass Kesselrings, BArch RH 19-IV/226, Bl. 42.",
+   "quelle_en": "Wehrmacht reports 8–18 March 1945 (newspapers in the Deutsches Zeitungsportal); MacDonald (1973), pp. 222, 230; Kesselring's decree, BArch RH 19-IV/226, fol. 42.",
+   "datei": "standgericht",
+   "zk": "Bericht · Hitler · OKW · Erlass",
+   "zk_en": "Report · Hitler · OKW · Decree"
   }
  ],
  "planned": [
@@ -47,16 +60,6 @@
    "warum_en": "From 7 March: troops across the bridge, ferries and treadway bridges, antiaircraft, the fight for the ground east of the Rhine.",
    "quelle": "MacDonald, Kap. XI–XII; Berichte der First Army und des III Corps (zu prüfen).",
    "quelle_en": "MacDonald, ch. XI–XII; First Army and III Corps reports (to be checked)."
-  },
-  {
-   "id": "standgericht",
-   "side": "deutsch",
-   "kurz": "5 · Das fliegende Standgericht",
-   "kurz_en": "5 · The flying court-martial",
-   "warum": "Hitler wollte Schuldige: Strobel, Kraft, Scheller und Peters wurden erschossen, Bratge zum Tod verurteilt, aber als Gefangener der Amerikaner am Leben. Opfer der NS-Justiz.",
-   "warum_en": "Hitler wanted culprits: Strobel, Kraft, Scheller and Peters were shot, Bratge sentenced to death but alive as an American prisoner. Victims of Nazi justice.",
-   "quelle": "MacDonald, Kap. XI; Wortlaut des Wehrmachtberichts (zu suchen); Kalmbach 2021 nur referiert.",
-   "quelle_en": "MacDonald, ch. XI; wording of the Wehrmacht report (to be found); Kalmbach 2021 only summarized."
   },
   {
    "id": "angriffe",

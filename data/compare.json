@@ -144,6 +144,73 @@
      "wer_en": "MacDonald 1973: Timmerman's men"
     }
    ]
+  },
+  {
+   "id": "schuld",
+   "titel": "Wer war schuld?",
+   "titel_en": "Who was to blame?",
+   "frage": "Wie erklären die deutschen Stellen 1945 und die US Army 1973 den Verlust der Brücke?",
+   "frage_en": "How do the German authorities in 1945 and the US Army in 1973 explain the loss of the bridge?",
+   "note": "Für den Wehrmachtbericht und Kesselring lag es an den Offizieren: „fahrlässig“, „feige“, „entschlusslos“, bei „sachgemässer“ Sprengvorbereitung. MacDonald zählt Sabotage, einen Zufallstreffer auf das Kabel und das Fehlen jeder Untersuchung auf und nennt die Verurteilten Sündenböcke.",
+   "note_en": "For the Wehrmacht report and Kesselring it was the officers' fault: ‘negligent’, ‘cowardly’, ‘irresolute’, with ‘proper’ preparation for demolition. MacDonald lists sabotage, a lucky hit on the cable and the absence of any investigation, and calls those sentenced scapegoats.",
+   "voices": [
+    {
+     "text": "standgericht",
+     "sec": "okw",
+     "n": [
+      7
+     ],
+     "wer": "Wehrmachtbericht, 18. März 1945",
+     "wer_en": "Wehrmacht report, 18 March 1945"
+    },
+    {
+     "text": "standgericht",
+     "sec": "erlass",
+     "n": [
+      8
+     ],
+     "wer": "Kesselring, Erlass, März 1945",
+     "wer_en": "Kesselring, decree, March 1945"
+    },
+    {
+     "text": "warum",
+     "sec": "erklaerungen",
+     "n": [
+      22
+     ],
+     "wer": "MacDonald 1973",
+     "wer_en": "MacDonald 1973"
+    }
+   ]
+  },
+  {
+   "id": "sprengen",
+   "titel": "Gesprengt und nicht gesprengt",
+   "titel_en": "Blown and not blown",
+   "frage": "Wie meldet man eine gesprengte und eine verlorene Brücke?",
+   "frage_en": "How does one report a blown bridge and a lost one?",
+   "note": "Am selben 11. März meldet das DNB die gesprengten Rheinbrücken bei Wesel, nach geordnetem Rückzug; die Brücke von Remagen kommt nicht vor, nur Kräfte, die „über den Strom gesetzt“ sind. Daneben MacDonald, wie die Nachricht am 7. März auf amerikanischer Seite weiterlief: binnen Stunden bis zu Eisenhower.",
+   "note_en": "On the same 11 March the DNB reports the Rhine bridges at Wesel blown after an orderly withdrawal; the bridge at Remagen does not appear, only forces that have ‘crossed the river’. Beside it MacDonald on how the news travelled on the American side on 7 March: within hours up to Eisenhower.",
+   "voices": [
+    {
+     "text": "standgericht",
+     "sec": "bericht",
+     "n": [
+      3
+     ],
+     "wer": "DNB, 11. März 1945",
+     "wer_en": "DNB, 11 March 1945"
+    },
+    {
+     "text": "siebter",
+     "sec": "meldung",
+     "n": [
+      20
+     ],
+     "wer": "MacDonald 1973: die Nachricht am 7. März",
+     "wer_en": "MacDonald 1973: the news on 7 March"
+    }
+   ]
   }
  ]
 }
