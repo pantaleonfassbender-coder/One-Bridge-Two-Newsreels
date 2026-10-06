@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Eine Brücke, zwei Wochenschauen. Remagen 1945 – One Bridge, Two Newsreels. Ein zweisprachiger Quellenapparat"
+message: "Wenn Sie diesen Apparat benutzen, zitieren Sie ihn bitte wie unten angegeben, und zitieren Sie für jede übernommene Stelle auch die gedruckte Quelle oder den Film. / If you use this apparatus, please cite it as below, and cite the printed source or the film for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/One-Bridge-Two-Newsreels"
+url: "https://one-bridge-two-newsreels.netlify.app/"
+abstract: >-
+  Ein zweisprachiger digitaler Quellenapparat zur Brücke von Remagen, 7. bis
+  17. März 1945, und zu den Lagern am Rhein: neun Module mit 124 Einheiten,
+  Original neben Übersetzung, jeder Auszug am Seitenbild eines gemeinfreien
+  Drucks oder an der Tonspur eines Films gelesen (MacDonald, The Last
+  Offensive, 1973; Wehrmachtberichte und Presse 1918–1951 aus dem Deutschen
+  Zeitungsportal; Combat Bulletins 48 und 51, Universal Newsreel, United News;
+  Preventive Medicine in World War II, Bd. 9, 1969). Zwölf Filme, nur
+  eingebettet und an Zeitmarken kommentiert; die Deutsche Wochenschau nur nach
+  ihrem Inhalt beschrieben. Mit Zeitleiste, 15 Vergleichen, 25 gemeinfreien
+  Bildtafeln, neun Schemata und einer Liste der geprüften und nicht
+  aufgenommenen Quellen. Begleitspiel: Zehn Tage am Rhein – Ten Days on the
+  Rhine.
+keywords:
+  - Remagen
+  - Ludendorff-Brücke
+  - Ludendorff Bridge
+  - Wochenschau
+  - newsreels
+  - Rheinwiesenlager
+  - Zweiter Weltkrieg
+  - World War II
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-10-06

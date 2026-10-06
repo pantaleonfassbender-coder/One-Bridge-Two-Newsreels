@@ -1,0 +1,37 @@
+{
+  "upload_type": "dataset",
+  "title": "Eine Brücke, zwei Wochenschauen. Remagen 1945 – One Bridge, Two Newsreels. Ein zweisprachiger Quellenapparat",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>Ein zweisprachiger digitaler Quellenapparat zur Brücke von Remagen, 7. bis 17. März 1945: Texte und Filme ihrer Zeit, im Original neben einer Übersetzung, die Filme an Zeitmarken kommentiert. These, an den Quellen zu prüfen: Die amerikanischen und britischen Wochenschauen brachten die Brücke ins Kino, und zwar weniger, als gefilmt war; die Deutsche Wochenschau schwieg, und die deutsche Presse meldete die Brücke erst, als Todesurteile und Einsturz zu melden waren. Der Apparat endet nicht mit dem Einsturz, sondern mit den Lagern am Rhein.</p><p>Stufe 1: neun Module mit 124 Einheiten: die Brücke 1916&ndash;1945 in der Presse ihrer Zeit; der 7. März nach Charles B. MacDonald, <em>The Last Offensive</em> (1973), und den Stimmen aus <em>Combat Bulletin No. 51</em>; warum sie stand; der Brückenkopf; das fliegende Standgericht in den Wehrmachtberichten; die Angriffe auf die Brücke, mit kritischer Einordnung der Abschusszahlen der amerikanischen Flak; der Einsturz am 17. März; zwei Wochenschauen (Universal, United News, britische Wochenschauen nach dem Katalog des Imperial War Museum, die Deutsche Wochenschau Nr. 754 und 755 nur nach ihrem Inhalt beschrieben); die Lager bei Remagen und Sinzig nach dem amtlichen Bericht des Sanitätsdienstes der US Army, <em>Preventive Medicine in World War II</em>, Bd. 9 (1969).</p><p>Jeder Auszug ist am Seitenbild eines gemeinfreien Drucks oder an der Tonspur eines gemeinfreien Films gelesen; die Abschriften der Tonspuren sind maschinell erstellt und durchgesehen. Die Filme liegen nicht im Repositorium, sie werden aus dem Internet Archive oder vom offiziellen Kanal der Rechteinhaber eingebettet. Geschützte Darstellungen und die neuere Forschung werden nur referiert und als solche gekennzeichnet; widerlegte Zahlen werden als widerlegt benannt. Die Gewalt aller Seiten wird genannt: die Toten auf beiden Ufern, die standrechtlich erschossenen Offiziere, die toten Pioniere beim Einsturz, die Gefangenen in den Lagern. Mit Zeitleiste (15 Stationen), 15 Vergleichen, 25 gemeinfreien Bildtafeln, neun Schemata, zwölf kommentierten Filmen und einer Liste der geprüften und nicht aufgenommenen Quellen. Die Oberfläche lässt sich zwischen Deutsch und Englisch umschalten. Begleitspiel: <em>Zehn Tage am Rhein &ndash; Ten Days on the Rhine</em>.</p><p><em>English:</em> A bilingual source apparatus on the bridge at Remagen, 7&ndash;17 March 1945, and the camps on the Rhine: nine modules, 124 units, original beside translation, every excerpt read against the page image of a public-domain print or the soundtrack of a public-domain film (MacDonald's <em>The Last Offensive</em>, Wehrmacht reports and German newspapers 1918&ndash;1951, Combat Bulletins 48 and 51, Universal Newsreel, United News, the US Army Medical Department's <em>Preventive Medicine in World War II</em>, vol. 9). Twelve films, embedded only and annotated at time marks; the German newsreel described by its contents only. Timeline, 15 paired readings, 25 public-domain plates, nine charts, and a list of sources examined and not included.</p><p>Lizenzen: Code MIT; redaktionelle Texte CC BY 4.0; Editionen und Übersetzungen CC0 1.0; Filme nur eingebettet &mdash; siehe LICENSES.md. Live: https://one-bridge-two-newsreels.netlify.app/</p>",
+  "license": "MIT",
+  "language": "deu",
+  "keywords": [
+    "Remagen",
+    "Ludendorff-Brücke",
+    "Ludendorff Bridge",
+    "Brücke von Remagen",
+    "Bridge at Remagen",
+    "Wochenschau",
+    "newsreels",
+    "Combat Bulletin",
+    "Wehrmachtbericht",
+    "Rheinwiesenlager",
+    "Sinzig",
+    "Zweiter Weltkrieg",
+    "World War II",
+    "Quellenedition",
+    "Digital Humanities"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://one-bridge-two-newsreels.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ]
+}

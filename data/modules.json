@@ -149,6 +149,46 @@
    "warum_en": "Not shown and not embedded: the issues are probably still under copyright, the rights are held by Transit Film GmbH, and the freely available copies are private uploads. Module 8 describes them by their contents.",
    "quelle": "Nr. 754 (16.3.1945) und Nr. 755 (22.3.1945).",
    "quelle_en": "No. 754 (16 March 1945) and no. 755 (22 March 1945)."
+  },
+  {
+   "id": "asf126",
+   "side": "bruecke",
+   "kurz": "Army Service Forces, Report No. 126 zum Einsturz",
+   "kurz_en": "Army Service Forces, Report No. 126 on the collapse",
+   "warum": "Der technische Untersuchungsbericht zum Einsturz vom 17. März ist gemeinfrei, aber nicht frei online; er ließ sich nicht einsehen. Modul 7 folgt MacDonalds Zusammenfassung der Ursachen und nennt die abweichenden Zahlen nebeneinander.",
+   "warum_en": "The technical investigation of the collapse of 17 March is in the public domain but not freely online; it could not be consulted. Module 7 follows MacDonald's summary of the causes and sets the differing figures side by side.",
+   "quelle": "Army Service Forces, Report No. 126 (1945).",
+   "quelle_en": "Army Service Forces, Report No. 126 (1945)."
+  },
+  {
+   "id": "flak",
+   "side": "us",
+   "kurz": "Die Berichte der amerikanischen Flak",
+   "kurz_en": "The American antiaircraft reports",
+   "warum": "Der Gefechtsbericht der 16th AAA Group vom 17. März 1945 und die Auswertung von Welborn (Operations Research Office, 1950) zur Wirksamkeit der Flak der First Army liegen nicht frei online. Modul 6 ordnet die „367 Angreifer“ deshalb an MacDonald, an Craven/Cate und an der neueren Auswertung deutscher Unterlagen ein.",
+   "warum_en": "The after-action report of the 16th AAA Group of 17 March 1945 and Welborn's evaluation (Operations Research Office, 1950) of the effectiveness of First Army antiaircraft fire are not freely online. Module 6 therefore places the ‘367 attackers’ against MacDonald, Craven/Cate and the recent evaluation of German records.",
+   "quelle": "16th AAA Group, After Action Report, 17.3.1945; Welborn, ORO 1950.",
+   "quelle_en": "16th AAA Group, after-action report, 17 March 1945; Welborn, ORO 1950."
+  },
+  {
+   "id": "ktb",
+   "side": "deutsch",
+   "kurz": "Das Kriegstagebuch des OKW, März 1945",
+   "kurz_en": "The OKW war diary, March 1945",
+   "warum": "Die Edition von Percy E. Schramm (1961) war von hier aus nicht am Seitenbild einzusehen; eine Stelle zum 13. März erscheint in Modul 6 nur nach ihrer Wiedergabe in der neueren Literatur und wird nicht wörtlich zitiert.",
+   "warum_en": "Percy E. Schramm's edition (1961) could not be consulted against the page image from here; one passage on 13 March appears in module 6 only as reported in recent literature and is not quoted verbatim.",
+   "quelle": "Kriegstagebuch des Oberkommandos der Wehrmacht 1944–1945, hg. von P. E. Schramm, Teilband 2.",
+   "quelle_en": "Kriegstagebuch des Oberkommandos der Wehrmacht 1944–1945, ed. P. E. Schramm, part 2."
+  },
+  {
+   "id": "lagerlit",
+   "side": "menschen",
+   "kurz": "Die Forschung zu den Rheinwiesenlagern",
+   "kurz_en": "Research on the Rhine meadow camps",
+   "warum": "Gückelhorn/Kleemann (2013), Overmans (1995) und Smith (1992) sind geschützt; ihre Zahlen erscheinen in Modul 9 nur referiert, nach der Zusammenfassung der Landeszentrale für politische Bildung Rheinland-Pfalz. Bacques „Other Losses“ (1989) wird als widerlegt benannt, nicht benutzt.",
+   "warum_en": "Gückelhorn/Kleemann (2013), Overmans (1995) and Smith (1992) are protected; their figures appear in module 9 only summarized, after the Rhineland-Palatinate state agency for civic education. Bacque's ‘Other Losses’ (1989) is named as refuted, not used.",
+   "quelle": "W. Gückelhorn/K. Kleemann, Die Rheinwiesenlager Remagen und Sinzig (Aachen 2013).",
+   "quelle_en": "W. Gückelhorn/K. Kleemann, Die Rheinwiesenlager Remagen und Sinzig (Aachen 2013)."
   }
  ]
 }
