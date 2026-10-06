@@ -24,7 +24,7 @@ const T = {
     cmpTag: "Vergleich", cmpH: "Stimmen nebeneinander", tlTag: "Zeitleiste", tlH: "1916–1945, mit Ausblick", platesTag: "Tafeln", platesH: "Photographien, Karten, Ansichten",
     filmsTag: "Filme", filmsH: "Die Wochenschauen und die Rohaufnahmen", filmsLede: "Was die Kameras im März 1945 an der Brücke aufnahmen, und was gezeigt wurde. Die amerikanischen Aufnahmen sind Werke der US-Regierung und hier aus dem Internet Archive eingebettet; die britischen Wochenschauen nur über den offiziellen Player ihrer Rechteinhaber. Die Deutsche Wochenschau zeigte Remagen nicht.",
     load: "Film laden", loadNote: "Der Film wird erst auf Klick vom Internet Archive oder von YouTube geladen; dabei erhalten diese Dienste Ihre IP-Adresse.",
-    marks: "Kommentar an Zeitmarken", silent: "Kein Film: Die Ausgabe zeigt Remagen nicht.", dur: "Dauer", rights: "Rechte",
+    marks: "Kommentar an Zeitmarken", ton: "Der Ton: Abschrift mit Übersetzung", silent: "Kein Film: Die Ausgabe zeigt Remagen nicht.", dur: "Dauer", rights: "Rechte",
     fail: "Der Apparat konnte nicht geladen werden: "
   },
   en: {
@@ -37,7 +37,7 @@ const T = {
     cmpTag: "Compare", cmpH: "Voices side by side", tlTag: "Timeline", tlH: "1916–1945, with an epilogue", platesTag: "Plates", platesH: "Photographs, maps, views",
     filmsTag: "Films", filmsH: "The newsreels and the raw footage", filmsLede: "What the cameras recorded at the bridge in March 1945, and what was shown. The American footage is a work of the US government and is embedded here from the Internet Archive; the British newsreels only through the official player of their rights holders. The German newsreel did not show Remagen.",
     load: "Load film", loadNote: "The film is only loaded from the Internet Archive or YouTube when you click; those services then receive your IP address.",
-    marks: "Commentary at time marks", silent: "No film: this issue does not show Remagen.", dur: "Length", rights: "Rights",
+    marks: "Commentary at time marks", ton: "The soundtrack: transcript", silent: "No film: this issue does not show Remagen.", dur: "Length", rights: "Rights",
     fail: "The apparatus could not be loaded: "
   }
 };
@@ -253,6 +253,9 @@ function filmBlock(ref) {
     ${url ? `<div class="frame"><button class="loadfilm" type="button">▶ ${esc(S("load"))}${f.start ? ` (${esc(f.start)}${f.end ? `–${esc(f.end)}` : ""})` : ""}</button><p class="fine">${esc(S("loadNote"))}</p></div>`
       : `<div class="frame silent"><p>${esc(S("silent"))}</p></div>`}
     ${marks.length ? `<h4>${esc(S("marks"))}</h4><ol class="marks">${marks.map(mk => `<li><button class="mark" type="button" data-t="${esc(mk.t)}"${url ? "" : " disabled"}>${esc(mk.t)}</button> ${esc(L(mk, "text"))}${mk.cite ? ` <a href="${mk.cite}">✦</a>` : ""}</li>`).join("")}</ol>` : ""}
+    ${(f.ton || []).length ? `<details class="ton"><summary>${esc(S("ton"))}</summary><p class="fine">${esc(L(f, "tonhinweis"))}</p>
+      <ol class="marks">${f.ton.map(z => `<li><button class="mark" type="button" data-t="${esc(z.t)}"${url ? "" : " disabled"}>${esc(z.t)}</button>
+        <span lang="en">${esc(z.en)}</span>${ui === "de" ? `<br><i lang="de">${esc(z.de)}</i>` : ""}</li>`).join("")}</ol></details>` : ""}
     <p class="fine"><b>${esc(S("rights"))}:</b> ${esc(L(f, "rechte") || "")}${f.link ? ` · <a href="${esc(f.link)}" target="_blank" rel="noopener">${esc(f.ia ? "archive.org" : f.yt ? "YouTube" : "Link")}</a>` : ""}</p>
   </div>`;
 }

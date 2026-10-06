@@ -175,8 +175,8 @@
    "titel_en": "Universal Newsreel: Allies Drive Across Rhine to Victory",
    "datum": "26. März 1945",
    "datum_en": "26 March 1945",
-   "beschreibung": "Amerikanische Kinowochenschau mit Ton. Erst Köln (bis etwa 2:40, darin bei 1:28 ein am Boden liegender Mann in Großaufnahme und das Schild „Welcome to Köln – Courtesy of Spearhead Division“), dann Remagen (2:40–3:56), dann die Delegation zur Konferenz von San Francisco. Der Remagen-Teil übernimmt Einstellungen der Signal-Corps-Rolle ADC-3612c. Der Ton ist noch nicht abgeschrieben. Gesichtet am 6. Oktober 2026, Bild für Bild.",
-   "beschreibung_en": "American cinema newsreel with sound. First Cologne (until about 2:40, including a man lying on the ground in close-up at 1:28 and the sign ‘Welcome to Köln – Courtesy of Spearhead Division’), then Remagen (2:40–3:56), then the delegation to the San Francisco conference. The Remagen part reuses shots from Signal Corps reel ADC-3612c. The soundtrack has not yet been transcribed. Viewed on 6 October 2026, frame by frame.",
+   "beschreibung": "Amerikanische Kinowochenschau mit Ton. Erst Köln (bis etwa 2:40, darin bei 1:28 ein am Boden liegender Mann in Großaufnahme und das Schild „Welcome to Köln – Courtesy of Spearhead Division“), dann Remagen (2:40–3:56), dann die Delegation zur Konferenz von San Francisco. Der Remagen-Teil übernimmt Einstellungen der Signal-Corps-Rolle ADC-3612c. Gesichtet am 6. Oktober 2026, Bild für Bild.",
+   "beschreibung_en": "American cinema newsreel with sound. First Cologne (until about 2:40, including a man lying on the ground in close-up at 1:28 and the sign ‘Welcome to Köln – Courtesy of Spearhead Division’), then Remagen (2:40–3:56), then the delegation to the San Francisco conference. The Remagen part reuses shots from Signal Corps reel ADC-3612c. Viewed on 6 October 2026, frame by frame.",
    "rechte": "Im Internet Archive als gemeinfrei gekennzeichnet; eingebettet",
    "rechte_en": "Marked as public domain in the Internet Archive; embedded",
    "marks": [
@@ -220,7 +220,36 @@
    "link": "https://archive.org/details/1945-03-26_Allies_Drive_Across_Rhine_To_Victory",
    "ia": "1945-03-26_Allies_Drive_Across_Rhine_To_Victory",
    "start": "2:40",
-   "end": "3:56"
+   "end": "3:56",
+   "ton": [
+    {
+     "t": "2:30",
+     "en": "… and the Miracle of Cologne, the survival of one of Europe's most magnificent buildings in a holocaust which engulfed a city of three quarters of a million persons.",
+     "de": "… und das Wunder von Köln: Eines der prächtigsten Bauwerke Europas überstand ein Inferno, das eine Stadt von einer Dreiviertelmillion Menschen verschlang."
+    },
+    {
+     "t": "2:41",
+     "en": "South of Cologne at Remagen, our troops made one of the most spectacular coups of the war in capturing the Ludendorff Bridge intact minutes before the Germans [unverständlich] up. Prisoners stream back as our men cross the Rhine to establish our first bridgehead on the east bank of the river.",
+     "de": "Südlich von Köln, bei Remagen, gelang unseren Truppen einer der spektakulärsten Handstreiche des Krieges: Sie nahmen die Ludendorff-Brücke unversehrt, Minuten bevor die Deutschen [unverständlich]. Gefangene strömen zurück, während unsere Männer den Rhein überqueren und den ersten Brückenkopf auf dem Ostufer bilden."
+    },
+    {
+     "t": "2:54",
+     "en": "Enemy planes come over and anti-aircraft fights them off. The capture of the bridge saved a costly crossing by assault boats and served our needs well until, weakened by the heavy traffic and bomb hits, it collapsed.",
+     "de": "Feindliche Flugzeuge kommen, die Flak wehrt sie ab. Die Einnahme der Brücke ersparte einen verlustreichen Übergang mit Sturmbooten und diente uns gut, bis sie, geschwächt vom schweren Verkehr und von Bombentreffern, einstürzte."
+    },
+    {
+     "t": "3:17",
+     "en": "As spearheads rolled into the inner citadel of Germany, dry feet were by courtesy of the 9th Armoured Division. Men and supplies pour out of [Wortlaut unsicher] the east bank in a leap that caught the Germans by complete surprise and trapped thousands of prisoners.",
+     "de": "Als die Spitzen in die innere Zitadelle Deutschlands rollten, gab es trockene Füße mit freundlicher Empfehlung der 9th Armored Division. Männer und Nachschub strömen auf das Ostufer [Wortlaut unsicher], ein Sprung, der die Deutschen völlig überraschte und Tausende Gefangene einbrachte."
+    },
+    {
+     "t": "3:37",
+     "en": "The Rhine crossing at Remagen was the signal for a general breakthrough of our armies across the Rhine. The defences of fortress Germany are crumbling fast.",
+     "de": "Der Rheinübergang bei Remagen war das Signal zum allgemeinen Durchbruch unserer Armeen über den Rhein. Die Verteidigung der Festung Deutschland bröckelt schnell."
+    }
+   ],
+   "tonhinweis": "Ton maschinell abgeschrieben (Whisper medium.en, 6. Oktober 2026), noch nicht am Film gegengehört; Unsicheres steht in eckigen Klammern. Namen, die MacDonald bestätigt (Engeman, Drabik), sind nach ihm geschrieben, die übrigen nach Gehör. Übersetzung: eigene Arbeit, CC0.",
+   "tonhinweis_en": "Soundtrack transcribed by machine (Whisper medium.en, 6 October 2026), not yet checked against the film by ear; uncertain passages are in square brackets. Names confirmed by MacDonald (Engeman, Drabik) are spelled after him, the others by ear. German translation: my own, CC0."
   },
   {
    "id": "united",
@@ -228,8 +257,8 @@
    "titel_en": "United News: Bastogne Defenders Honored [etc.]",
    "datum": "1945",
    "datum_en": "1945",
-   "beschreibung": "Wochenschau der US-Regierung (National Archives, ARC 39162) mit Ton, vier Teile. Teil 4 trägt den Titel „Bridgehead Extended – Allies Drive On Despite Remagen Span Collapse“ (4:38): erst die Brücke im Gebrauch und bei der Instandsetzung, dann der Einsturz mit Bildern aus der Signal-Corps-Rolle 111-ADC-3597, eine Karte des Brückenkopfs, danach Kämpfe bei Koblenz. Der Ton ist noch nicht abgeschrieben. Gesichtet am 6. Oktober 2026, Bild für Bild.",
-   "beschreibung_en": "US government newsreel (National Archives, ARC 39162) with sound, four parts. Part 4 is titled ‘Bridgehead Extended – Allies Drive On Despite Remagen Span Collapse’ (4:38): first the bridge in use and under repair, then the collapse with images from Signal Corps reel 111-ADC-3597, a map of the bridgehead, then fighting at Koblenz. The soundtrack has not yet been transcribed. Viewed on 6 October 2026, frame by frame.",
+   "beschreibung": "Wochenschau der US-Regierung (National Archives, ARC 39162) mit Ton, vier Teile. Teil 4 trägt den Titel „Bridgehead Extended – Allies Drive On Despite Remagen Span Collapse“ (4:38): erst die Brücke im Gebrauch und bei der Instandsetzung, dann der Einsturz mit Bildern aus der Signal-Corps-Rolle 111-ADC-3597, eine Karte des Brückenkopfs, danach Kämpfe bei Koblenz. Gesichtet am 6. Oktober 2026, Bild für Bild.",
+   "beschreibung_en": "US government newsreel (National Archives, ARC 39162) with sound, four parts. Part 4 is titled ‘Bridgehead Extended – Allies Drive On Despite Remagen Span Collapse’ (4:38): first the bridge in use and under repair, then the collapse with images from Signal Corps reel 111-ADC-3597, a map of the bridgehead, then fighting at Koblenz. Viewed on 6 October 2026, frame by frame.",
    "rechte": "Werk der US-Regierung, gemeinfrei; eingebettet aus dem Internet Archive (CC0)",
    "rechte_en": "Work of the US government, public domain; embedded from the Internet Archive (CC0)",
    "marks": [
@@ -273,7 +302,56 @@
    "link": "https://archive.org/details/gov.archives.arc.39162",
    "ia": "gov.archives.arc.39162",
    "start": "4:38",
-   "end": "7:58"
+   "end": "7:58",
+   "ton": [
+    {
+     "t": "4:32",
+     "en": "South of Bonn, north of Koblenz, lies the little town of Remagen, an unimportant place, but for the crumbling German armies, perhaps the most fateful place all down the long course of the Rhine.",
+     "de": "Südlich von Bonn, nördlich von Koblenz liegt das Städtchen Remagen, ein unbedeutender Ort, aber für die zerfallenden deutschen Armeen vielleicht der schicksalhafteste am ganzen langen Lauf des Rheins."
+    },
+    {
+     "t": "4:56",
+     "en": "For over the battered Remagen bridge in mid-March, the only bridge captured intact, American tanks, trucks, artillery and troops were pouring in a slow but steady stream.",
+     "de": "Denn über die zerschlagene Brücke von Remagen, die einzige, die unversehrt genommen wurde, strömten Mitte März amerikanische Panzer, Lastwagen, Artillerie und Truppen, langsam, aber stetig."
+    },
+    {
+     "t": "5:07",
+     "en": "In the first days before the bridgehead was safely established, engineers worked desperately to repair the twisted girders before the bridge collapsed. They measured the time in hours first, then in days, and while they worked, the divisions of the First Army passed to the east bank, and the Luftwaffe, desperate to make good the Wehrmacht blunder, flung in scores of planes, but it was already too late.",
+     "de": "In den ersten Tagen, bevor der Brückenkopf gesichert war, arbeiteten Pioniere verzweifelt daran, die verbogenen Träger instand zu setzen, ehe die Brücke einstürzte. Sie maßen die Zeit erst in Stunden, dann in Tagen, und während sie arbeiteten, gingen die Divisionen der First Army auf das Ostufer, und die Luftwaffe warf, verzweifelt bemüht, den Fehler der Wehrmacht wiedergutzumachen, Dutzende Flugzeuge hinein, aber es war schon zu spät."
+    },
+    {
+     "t": "5:44",
+     "en": "When the bridge went down ten days after its capture, collapsed from the weight of transport over its damaged girders, for the enemy, the worst had already been done.",
+     "de": "Als die Brücke zehn Tage nach ihrer Einnahme fiel, eingestürzt unter dem Gewicht der Transporte über ihre beschädigten Träger, war für den Feind das Schlimmste schon geschehen."
+    },
+    {
+     "t": "5:59",
+     "en": "It was the heroic engineers who had battled so hard to save the bridge, who paid the heaviest price when it was lost, flung headlong into the water, some were drowned, some died of injuries, some were seriously hurt and were pulled out more dead than alive.",
+     "de": "Es waren die heldenhaften Pioniere, die so hart um die Rettung der Brücke gekämpft hatten, die den höchsten Preis zahlten, als sie verloren ging: kopfüber ins Wasser geschleudert; einige ertranken, einige starben an ihren Verletzungen, einige wurden schwer verletzt und mehr tot als lebendig herausgezogen."
+    },
+    {
+     "t": "6:40",
+     "en": "Yes, the bridge was lost, but other bridges had already been erected, and every man who could be spared joined in the job of rescue.",
+     "de": "Ja, die Brücke war verloren, aber andere Brücken standen schon, und jeder Mann, der abkömmlich war, half bei der Rettung."
+    },
+    {
+     "t": "6:59",
+     "en": "The engineers dead and injured here will not figure in battle citations. They conquered no strong points. They took no cities. They captured no prisoners. There were no battle stars for death on the Remagen Bridge, but because by their efforts and theirs alone the bridgehead was made possible, because by their heroism the costly attack by storm was avoided, each man who died here died for a hundred of his comrades.",
+     "de": "Die Pioniere, die hier starben oder verwundet wurden, werden in keinem Tagesbefehl erscheinen. Sie eroberten keine Stützpunkte, nahmen keine Städte, machten keine Gefangenen. Für den Tod auf der Brücke von Remagen gab es keine Gefechtssterne. Aber weil allein durch ihre Arbeit der Brückenkopf möglich wurde, weil durch ihren Heldenmut der verlustreiche Sturmangriff vermieden wurde, starb jeder, der hier starb, für hundert seiner Kameraden."
+    },
+    {
+     "t": "7:30",
+     "en": "By however many hours or days or weeks they shortened the war, they shortened it for us all.",
+     "de": "Um wie viele Stunden, Tage oder Wochen sie den Krieg auch verkürzten: Sie verkürzten ihn für uns alle."
+    },
+    {
+     "t": "7:47",
+     "en": "The Remagen Bridgehead is established. Outside the town of Rheinbrohl [Schreibung nach Gehör] on the east bank, civilians are herded into the fields to escape …",
+     "de": "Der Brückenkopf Remagen steht. Vor dem Ort Rheinbrohl [Schreibung nach Gehör] auf dem Ostufer werden Zivilisten auf die Felder getrieben, um zu entkommen …"
+    }
+   ],
+   "tonhinweis": "Ton maschinell abgeschrieben (Whisper medium.en, 6. Oktober 2026), noch nicht am Film gegengehört; Unsicheres steht in eckigen Klammern. Namen, die MacDonald bestätigt (Engeman, Drabik), sind nach ihm geschrieben, die übrigen nach Gehör. Übersetzung: eigene Arbeit, CC0.",
+   "tonhinweis_en": "Soundtrack transcribed by machine (Whisper medium.en, 6 October 2026), not yet checked against the film by ear; uncertain passages are in square brackets. Names confirmed by MacDonald (Engeman, Drabik) are spelled after him, the others by ear. German translation: my own, CC0."
   },
   {
    "id": "bulletin51",
@@ -281,8 +359,8 @@
    "titel_en": "Combat Bulletin No. 51",
    "datum": "1945",
    "datum_en": "1945",
-   "beschreibung": "Filmbericht des Army Pictorial Service (Signal Corps) mit Ton. Der erste Teil (bis 4:48) gilt Remagen: nach einer Karte sprechen Soldaten vor der Brücke in die Kamera, einzeln und in Gruppen; Namen werden nicht eingeblendet. Danach Berichte über die Marine, den Pazifik, Burma und NS-Verbrechen. Wer spricht und was gesagt wird, wird nach Abhören des Tons ergänzt. Gesichtet am 6. Oktober 2026, Bild für Bild.",
-   "beschreibung_en": "Film report of the Army Pictorial Service (Signal Corps) with sound. The first part (until 4:48) is about Remagen: after a map, soldiers speak to the camera in front of the bridge, singly and in groups; no names are shown on screen. Then reports on the navy, the Pacific, Burma and Nazi crimes. Who speaks and what is said will be added once the soundtrack has been heard. Viewed on 6 October 2026, frame by frame.",
+   "beschreibung": "Filmbericht des Army Pictorial Service (Signal Corps) mit Ton. Der erste Teil (bis 4:48) gilt Remagen: nach einer Karte sprechen Soldaten vor der Brücke in die Kamera, einzeln und in Gruppen; Namen werden nicht eingeblendet. Danach Berichte über die Marine, den Pazifik, Burma und NS-Verbrechen. Die Sprecher sind im Ton genannt: Oberstleutnant Engeman, Leutnant Grimble, Sergeant Drabik, Leutnant Mott und die Sergeants Dorland und Reynolds. Gesichtet am 6. Oktober 2026, Bild für Bild.",
+   "beschreibung_en": "Film report of the Army Pictorial Service (Signal Corps) with sound. The first part (until 4:48) is about Remagen: after a map, soldiers speak to the camera in front of the bridge, singly and in groups; no names are shown on screen. Then reports on the navy, the Pacific, Burma and Nazi crimes. The speakers are named on the soundtrack: Lieutenant Colonel Engeman, Lieutenant Grimble, Sergeant Drabik, Lieutenant Mott and Sergeants Dorland and Reynolds. Viewed on 6 October 2026, frame by frame.",
    "rechte": "Werk der US-Regierung, gemeinfrei; eingebettet aus dem Internet Archive (CC0)",
    "rechte_en": "Work of the US government, public domain; embedded from the Internet Archive (CC0)",
    "marks": [
@@ -315,7 +393,76 @@
    "dauer": "26:48",
    "link": "https://archive.org/details/gov.dod.dimoc.20315",
    "ia": "gov.dod.dimoc.20315",
-   "end": "4:48"
+   "end": "4:48",
+   "ton": [
+    {
+     "t": "0:30",
+     "en": "At Remagen, Germany, interviews with men who seized the first bridge over the Rhine intact.",
+     "de": "In Remagen, Deutschland: Gespräche mit den Männern, die die erste Brücke über den Rhein unversehrt nahmen."
+    },
+    {
+     "t": "0:40",
+     "en": "Remagen was taken early in March by a task force of the 9th Armored Division. Lieutenant Colonel Leonard Engeman, commander of the task force, describes his first view of the undamaged Remagen bridge.",
+     "de": "Remagen wurde Anfang März von einer Kampfgruppe der 9th Armored Division genommen. Oberstleutnant Leonard Engeman, ihr Kommandeur, beschreibt, wie er die unbeschädigte Brücke zum ersten Mal sah."
+    },
+    {
+     "t": "0:50",
+     "en": "[Engeman:] On March the 7th, at about noon, with Lieutenant Grimble [Schreibung nach Gehör] as my advance guard commander, my column came to the hill there which commands a view of this whole valley. I formulated a plan to come into the town and reach the approach to the bridge.",
+     "de": "[Engeman:] Am 7. März gegen Mittag kam meine Kolonne, mit Leutnant Grimble [Schreibung nach Gehör] als Führer der Vorhut, auf den Hügel dort, von dem aus man das ganze Tal überblickt. Ich fasste den Plan, in die Stadt zu kommen und die Auffahrt zur Brücke zu erreichen."
+    },
+    {
+     "t": "1:10",
+     "en": "Movement began when the head of the column got to the end of the bridge on the other side. The tanks immediately took position and began firing across the bridge to the approaches on this side at the Germans who were on the bridge. The infantry then started moving across. It was about 3.30 at that time.",
+     "de": "Die Bewegung begann, als die Spitze der Kolonne das Ende der Brücke auf der anderen Seite erreichte. Die Panzer gingen sofort in Stellung und feuerten über die Brücke hinweg auf die Zugänge auf dieser Seite, auf die Deutschen auf der Brücke. Dann ging die Infanterie hinüber. Es war damals etwa halb vier."
+    },
+    {
+     "t": "1:33",
+     "en": "I received a message about that time that the bridge would be blown at 4 o'clock. In a few minutes, two detonations occurred on the bridge. Looking at the bridge, I could see that the infantry was still moving over and that the bridge was still in one piece, and it would be available for our foot troops to move over. And that's all there was to it, and I'd like to have Lieutenant Grimble tell his story.",
+     "de": "Etwa zu dieser Zeit erhielt ich die Meldung, die Brücke werde um vier Uhr gesprengt. Wenige Minuten später gab es zwei Detonationen auf der Brücke. Ich sah, dass die Infanterie noch hinüberging und die Brücke noch ganz war, so dass unsere Fußtruppen sie benutzen konnten. Das war alles; ich möchte Leutnant Grimble seine Geschichte erzählen lassen."
+    },
+    {
+     "t": "1:58",
+     "en": "[Grimble:] We went right on down to the bridge. The bridge was manned by German engineers in the towers. There were lots of snipers and some machine guns. The tanks covered the towers and fired on them. The Germans jumped from the tops of the towers to the bridge. They ran back across the bridge, and our infantry pursued them.",
+     "de": "[Grimble:] Wir fuhren geradewegs hinunter zur Brücke. In den Türmen saßen deutsche Pioniere. Es gab viele Scharfschützen und einige Maschinengewehre. Die Panzer nahmen die Türme unter Feuer. Die Deutschen sprangen von den Turmspitzen auf die Brücke und rannten über sie zurück, und unsere Infanterie setzte ihnen nach."
+    },
+    {
+     "t": "2:21",
+     "en": "Under covering fire from tanks on the West Bank, an infantry patrol was sent to set up a skirmish line east of the Rhine. First to cross the span were Sergeant Drabik and PFC Jensen [Schreibung nach Gehör]. Sergeant Drabik is questioned by the photographer.",
+     "de": "Unter dem Feuerschutz der Panzer auf dem Westufer wurde ein Infanteriespähtrupp geschickt, um östlich des Rheins eine Schützenlinie zu bilden. Als erste überquerten Sergeant Drabik und Gefreiter Jensen [Schreibung nach Gehör] die Brücke. Der Kameramann befragt Sergeant Drabik."
+    },
+    {
+     "t": "2:35",
+     "en": "– Oh, is it pretty hot coming over? – Plenty hot when he's coming over. – Does that bridge seem very long? – It looks like … they tell me it's only 250 yards and it looks like miles long.",
+     "de": "– Na, ist es ziemlich heiß beim Hinüberkommen? – Verdammt heiß. – Kommt einem die Brücke sehr lang vor? – Sie sieht aus … man sagt mir, sie ist nur 250 Yards lang, und sie sieht aus wie meilenlang."
+    },
+    {
+     "t": "2:49",
+     "en": "Along with the infantry, a detail of engineers went onto the bridge. Sergeants Dorland and Reynolds and Lieutenant Mott [Schreibung nach Gehör], who describes the assignment.",
+     "de": "Mit der Infanterie ging ein Trupp Pioniere auf die Brücke: die Sergeants Dorland und Reynolds und Leutnant Mott [Schreibung nach Gehör], der den Auftrag beschreibt."
+    },
+    {
+     "t": "2:58",
+     "en": "[Mott:] After the infantry had taken the town of Remagen, the task force commander, Lieutenant Colonel Engeman, called me up and ordered me out on the bridge to do some reconnaissance. I was to find out what demolitions were on the bridge and if the bridge would take traffic and if not, how long it would take to repair the bridge for traffic.",
+     "de": "[Mott:] Nachdem die Infanterie die Stadt Remagen genommen hatte, rief mich der Kommandeur der Kampfgruppe, Oberstleutnant Engeman, und schickte mich zur Erkundung auf die Brücke. Ich sollte feststellen, welche Sprengladungen auf der Brücke waren, ob sie Verkehr tragen würde und, wenn nicht, wie lange es dauern würde, sie dafür instand zu setzen."
+    },
+    {
+     "t": "3:28",
+     "en": "[Dorland:] While entering the bridge, searching for demolitions and finding that the first few charges we came to were wired electrically into the main electrical conduit [Wortlaut unsicher] running the length of the bridge, immediately went to the far side of the bridge and beyond the last charge that was on the bridge, severed the main electric cable by rifle fire. I then located the master switch at the far end of the bridge and kind of crossed my fingers and threw it out. Nothing happened then. There was no booby trap of any kind.",
+     "de": "[Dorland:] Als wir auf die Brücke gingen und nach Sprengladungen suchten, fanden wir, dass die ersten Ladungen elektrisch an die Hauptleitung [Wortlaut unsicher] angeschlossen waren, die über die ganze Länge der Brücke lief. Ich ging sofort auf die andere Seite, hinter die letzte Ladung auf der Brücke, und zerschoss das Hauptkabel mit dem Gewehr. Dann fand ich am anderen Ende den Hauptschalter, drückte mir sozusagen die Daumen und riss ihn heraus. Es geschah nichts. Es gab keine Sprengfalle."
+    },
+    {
+     "t": "4:08",
+     "en": "After disposing of the master switch on the east bank, the engineers worked their way back, neutralizing the unexploded charges. Sergeant Reynolds explains.",
+     "de": "Nachdem der Hauptschalter am Ostufer beseitigt war, arbeiteten sich die Pioniere zurück und machten die nicht detonierten Ladungen unschädlich. Sergeant Reynolds erklärt."
+    },
+    {
+     "t": "4:18",
+     "en": "[Reynolds:] Sergeant Dorland blew the [unverständlich] cables in through the switch box, started working back this way and we found one main charge about 500 pounds that hadn't been detonated. We neutralized that and worked on this way. We came to the pier. The pier had two big separate wells in it filled with explosives. We cut the wires to that because they were too heavy to lift out and we just kept working back this way until we figured we had all the charges neutralized.",
+     "de": "[Reynolds:] Sergeant Dorland zerschoss die [unverständlich] Kabel am Schaltkasten, wir arbeiteten uns in diese Richtung zurück und fanden eine Hauptladung von etwa 500 Pfund, die nicht detoniert war. Die machten wir unschädlich und arbeiteten weiter. Wir kamen zum Pfeiler. Der Pfeiler hatte zwei große getrennte Schächte voller Sprengstoff. Die Drähte dazu schnitten wir durch, weil die Ladungen zu schwer zum Herausheben waren, und so arbeiteten wir uns zurück, bis wir glaubten, alle Ladungen unschädlich gemacht zu haben."
+    }
+   ],
+   "tonhinweis": "Ton maschinell abgeschrieben (Whisper medium.en, 6. Oktober 2026), noch nicht am Film gegengehört; Unsicheres steht in eckigen Klammern. Namen, die MacDonald bestätigt (Engeman, Drabik), sind nach ihm geschrieben, die übrigen nach Gehör. Übersetzung: eigene Arbeit, CC0.",
+   "tonhinweis_en": "Soundtrack transcribed by machine (Whisper medium.en, 6 October 2026), not yet checked against the film by ear; uncertain passages are in square brackets. Names confirmed by MacDonald (Engeman, Drabik) are spelled after him, the others by ear. German translation: my own, CC0."
   },
   {
    "id": "pathe",
