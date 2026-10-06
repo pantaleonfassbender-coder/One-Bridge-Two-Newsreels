@@ -218,7 +218,7 @@ async function reader([id, secId, unitN]) {
     box.insertAdjacentHTML("beforeend", `
       <div class="${cls}" id="u${u.n}">
         <div class="num"><a href="#/text/${id}/${sec.id}/${u.n}" title="${esc(S("cite"))} ${esc(L(sec, "zk"))} [${u.n}]">[${u.n}]</a>
-          ${u.pg ? `<span class="pg">${esc(t.pg_label || "")} ${esc(u.pg)}</span>` : ""}</div>
+          ${u.pg ? `<span class="pg">${esc(u.pgl || L(t, "pg_label") || "")} ${esc(ui === "en" ? String(u.pg).replace(/^S\. /, "p. ") : u.pg)}</span>` : ""}</div>
         <div>${u.titel ? `<h4>${esc(L(u, "titel"))} <span class="fine">(${esc(lname(ul))})</span></h4>` : ""}
           <div class="cols ${showO && showT ? "" : "one"}">
             ${showO ? `<div class="orig" lang="${esc(ul)}">${esc(u.orig)}</div>` : ""}

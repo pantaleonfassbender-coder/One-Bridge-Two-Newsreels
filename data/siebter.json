@@ -1,0 +1,370 @@
+{
+ "id": "siebter",
+ "titel": "Der 7. März",
+ "titel_en": "7 March",
+ "autor": "Charles B. MacDonald, The Last Offensive (1973); Combat Bulletin No. 51 (Army Pictorial Service, 1945)",
+ "autor_en": "Charles B. MacDonald, The Last Offensive (1973); Combat Bulletin No. 51 (Army Pictorial Service, 1945)",
+ "jahr": "7. März 1945",
+ "jahr_en": "7 March 1945",
+ "sprache": "de",
+ "orig_sprache": "en",
+ "pg_label": "",
+ "pg_label_en": "",
+ "quelle": "Charles B. MacDonald, The Last Offensive (United States Army in World War II. The European Theater of Operations), Washington: Office of the Chief of Military History 1973, S. 211–219, am Seitenbild des Internet Archive gelesen (CMHPub791TheLastOffensive, Public Domain Mark); Combat Bulletin No. 51 (War Department, Army Pictorial Service, Signal Corps, 1945), Tonspur 0:50–4:48, Internet Archive gov.dod.dimoc.20315 (CC0), maschinell abgeschrieben und durchgesehen. Beide Werke der US-Regierung, gemeinfrei.",
+ "quelle_en": "Charles B. MacDonald, The Last Offensive (United States Army in World War II. The European Theater of Operations), Washington: Office of the Chief of Military History 1973, pp. 211–219, read against the page images of the Internet Archive (CMHPub791TheLastOffensive, Public Domain Mark); Combat Bulletin No. 51 (War Department, Army Pictorial Service, Signal Corps, 1945), soundtrack 0:50–4:48, Internet Archive gov.dod.dimoc.20315 (CC0), transcribed by machine and reviewed. Both works of the US government, in the public domain.",
+ "hinweis": "Der 7. März aus amerikanischer Sicht, vom Befehl des Vortags bis zur Genehmigung am Abend: die Darstellung der US Army, dazu Männer, die nach dem Übergang vor der Brücke in die Kamera sprachen. Die Seite der Deutschen steht in Modul 3. MacDonald schreibt mit Abstand und aus den Akten; wo er wörtliche Reden bringt, stammen sie aus Interviews und Erinnerungen (Hechler, Bradley, Eisenhower) und sind in den Anmerkungen so bezeichnet. Text nach dem Druck, Anmerkungsziffern weggelassen, Silbentrennung aufgelöst; die Filmstimmen nach der Tonspur, Unsicheres in eckigen Klammern, Namen außer Engeman und Drabik nach Gehör. Übersetzungen: eigene Arbeit (CC0).",
+ "hinweis_en": "7 March from the American side, from the order of the day before to the approval in the evening: the US Army's history, together with men who spoke to the camera in front of the bridge after the crossing. The German side is in module 3. MacDonald writes at a distance and from the records; where he gives direct speech it comes from interviews and memoirs (Hechler, Bradley, Eisenhower) and is identified as such in the notes. Text after the print, note numbers omitted, hyphenation resolved; the film voices after the soundtrack, uncertain passages in square brackets, names other than Engeman and Drabik by ear. German translations: my own (CC0).",
+ "sections": [
+  {
+   "id": "befehl",
+   "titel": "Der Befehl: abschneiden, nicht nehmen",
+   "titel_en": "The order: cut, not capture",
+   "zk": "7. März · Befehl",
+   "zk_en": "7 March · Order",
+   "blurb": "Am 6. März war die Brücke von Remagen kein Ziel. Sie sollte unter Feuer liegen; die Division sollte an die Ahr. Wer von einer Rheinbrücke sprach, sprach von Ruhm, nicht von einem Plan.",
+   "blurb_en": "On 6 March the bridge at Remagen was not an objective. It was to be kept under fire; the division was to make for the Ahr. Whoever spoke of a Rhine bridge spoke of glory, not of a plan.",
+   "plates": [
+    "mac1973_map3"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "S. 211",
+     "titel": "Der Befehl vom 6. März",
+     "titel_en": "The order of 6 March",
+     "orig": "The G–3 of the III Corps, Colonel Mewshaw, and an assistant had mused over the likelihood of taking the Remagen bridge with paratroops or a picked band of Rangers; but so slight appeared the chance that the discussion never went beyond the operations section. In the directive issued to the 9th Armored Division on 6 March, the order in regard to the bridge at Remagen was to “cut by fire”; the order also restricted artillery fire against the bridge to time and proximity fuze. Early in the evening of 6 March the III Corps also asked the air officer at First Army to refrain from bombing both the Bonn and Remagen bridges.",
+     "de": "Der G-3 des III. Korps, Oberst Mewshaw, und ein Gehilfe hatten erwogen, ob man die Remagener Brücke mit Fallschirmjägern oder einem ausgesuchten Trupp Rangers nehmen könne; aber die Aussicht schien so gering, dass das Gespräch nie über die Operationsabteilung hinausging. In der Weisung an die 9th Armored Division vom 6. März lautete der Befehl zur Brücke von Remagen, sie „durch Feuer abzuschneiden“; zugleich beschränkte er das Artilleriefeuer auf die Brücke auf Zeit- und Annäherungszünder. Am frühen Abend des 6. März bat das III. Korps außerdem den Luftwaffenoffizier der First Army, die Brücken von Bonn und Remagen nicht zu bombardieren.",
+     "note": "Die Brücke sollte unter Feuer liegen, nicht zerstört werden: Zeit- und Annäherungszünder lassen die Granaten über dem Ziel zerspringen; sie treffen, was auf der Brücke ist, und schonen das Tragwerk.",
+     "note_en": "The bridge was to be kept under fire, not destroyed: time and proximity fuzes burst the shells above the target; they hit whatever is on the bridge and spare the structure."
+    },
+    {
+     "n": 2,
+     "pg": "S. 211–212",
+     "orig": "That same evening, 6 March, General Millikin talked by telephone with the 9th Armored Division commander, General Leonard. Among other things, General Leonard recalled later, Millikin had something like this to say about the railroad bridge at Remagen: “Do you see that little black strip of bridge at Remagen? If you happen to get that, your name will go down in glory.”",
+     "de": "Am selben Abend, dem 6. März, telefonierte General Millikin mit dem Kommandeur der 9th Armored Division, General Leonard. Unter anderem, so erinnerte sich General Leonard später, sagte Millikin etwa Folgendes über die Eisenbahnbrücke bei Remagen: „Sehen Sie den kleinen schwarzen Streifen Brücke bei Remagen? Wenn Sie den zufällig bekommen, wird Ihr Name in die Geschichte eingehen.“",
+     "note": "Nach MacDonalds Anm. 8 aus einem Gefechtsinterview mit General Leonard; „something like this“: der Wortlaut ist erinnert, nicht protokolliert.",
+     "note_en": "According to MacDonald's n. 8 from a combat interview with General Leonard; ‘something like this’: the wording is remembered, not recorded."
+    },
+    {
+     "n": 3,
+     "pg": "S. 212",
+     "orig": "Yet despite all deliberation about the bridge on 6 March, this was the same day that Colonel Mewshaw confirmed for the 9th Armored Division G–3 that the division's main effort should be aimed not at the Rhine but at crossings of the Ahr. Furthermore, neither the 9th Armored Division nor that division's Combat Command B, the unit headed toward Remagen, mentioned in its field order taking the bridge at Remagen, although General Leonard did note the possibility orally as a matter of course to the CCB commander.\n\nFor all the talk about getting a bridge over the Rhine, the prospect remained little more than a fancy.",
+     "de": "Doch trotz aller Überlegungen zur Brücke am 6. März bestätigte Oberst Mewshaw am selben Tag dem G-3 der 9th Armored Division, das Schwergewicht der Division solle nicht auf dem Rhein liegen, sondern auf Übergängen über die Ahr. Weder die 9th Armored Division noch ihr Combat Command B, die Einheit auf dem Weg nach Remagen, erwähnten in ihrem Gefechtsbefehl die Einnahme der Brücke von Remagen, auch wenn General Leonard die Möglichkeit dem Kommandeur von CCB gegenüber mündlich und wie selbstverständlich ansprach.\n\nBei allem Gerede, man müsse eine Brücke über den Rhein bekommen, blieb die Aussicht kaum mehr als ein Hirngespinst."
+    }
+   ]
+  },
+  {
+   "id": "vormarsch",
+   "titel": "Vormarsch zum Rhein",
+   "titel_en": "Advance to the Rhine",
+   "zk": "7. März · Vormarsch",
+   "zk_en": "7 March · Advance",
+   "blurb": "Von Meckenheim durch den Wald auf die Höhe über Remagen: um 8.20 Uhr der Aufbruch, kurz vor 13 Uhr der Blick hinunter. Unterwegs kommen Deutsche mit erhobenen Händen entgegen.",
+   "blurb_en": "From Meckenheim through the woods to the heights above Remagen: departure at 0820, the view down shortly before 1300. On the way Germans come towards them with their hands raised.",
+   "viz": "siebter",
+   "units": [
+    {
+     "n": 4,
+     "pg": "S. 212",
+     "titel": "Der 6. März",
+     "titel_en": "6 March",
+     "orig": "On 6 March, as General Millikin shifted the objectives of his divisions southeastward to conform with the First Army's emphasis on crossings of the Ahr River, the advance of the III Corps picked up momentum. Despite time lost to a determined German delaying force at the road center of Rheinbach, the 9th Armored Division's Combat Command A gained more than ten miles and stopped at midnight less than two miles from the Ahr. CCB reached Stadt Meckenheim, only eight miles from the Rhine. A regiment of the 1st Division on the corps north wing got within four miles of the Rhine northwest of Bonn.",
+     "de": "Am 6. März, als General Millikin die Ziele seiner Divisionen nach Südosten verlegte, um dem Schwerpunkt der First Army auf den Ahrübergängen zu folgen, kam der Vormarsch des III. Korps in Schwung. Trotz des Zeitverlusts an einer entschlossenen deutschen Nachhut am Straßenknoten Rheinbach gewann das Combat Command A der 9th Armored Division mehr als zehn Meilen und hielt um Mitternacht weniger als zwei Meilen vor der Ahr. CCB erreichte Stadt Meckenheim, nur acht Meilen vom Rhein. Ein Regiment der 1st Division am Nordflügel des Korps kam nordwestlich von Bonn bis auf vier Meilen an den Rhein heran."
+    },
+    {
+     "n": 5,
+     "pg": "S. 212",
+     "titel": "Der Morgen des 7. März",
+     "titel_en": "The morning of 7 March",
+     "orig": "The next morning, 7 March, as troops of the neighboring VII Corps eliminated the last resistance around Cologne, General Hodges transferred responsibility for clearing Bonn to General Collins's corps, but with the responsibility went the means, the 1st Division. At the same time, infantry of the 9th Division continued to close in on Bad Godesberg, and the 9th Armored's CCA jumped the Ahr at Bad Neuenahr, even though the Germans fought doggedly to hold open the Ahr valley highway, the main route of withdrawal for General Hitzfeld's LXVII Corps. Combat Command B meanwhile sent one column southeastward to cross the Ahr near its confluence with the Rhine and another column toward Remagen.",
+     "de": "Am nächsten Morgen, dem 7. März, als Truppen des benachbarten VII. Korps den letzten Widerstand um Köln brachen, übertrug General Hodges die Säuberung Bonns dem Korps von General Collins, gab ihm mit der Aufgabe aber auch die Mittel, die 1st Division. Zugleich rückte die Infanterie der 9th Division weiter auf Bad Godesberg vor, und das CCA der 9th Armored setzte bei Bad Neuenahr über die Ahr, obwohl die Deutschen hartnäckig kämpften, um die Ahrtalstraße offenzuhalten, den Hauptrückzugsweg für General Hitzfelds LXVII. Korps. Combat Command B schickte unterdessen eine Kolonne nach Südosten, um nahe der Mündung der Ahr in den Rhein überzusetzen, und eine andere auf Remagen."
+    },
+    {
+     "n": 6,
+     "pg": "S. 212",
+     "titel": "Task Force Engeman",
+     "titel_en": "Task Force Engeman",
+     "orig": "Built around the 27th Armored Infantry Battalion and the 14th Tank Battalion (minus one company), the task force heading for Remagen was under the tank battalion commander, Lt. Col. Leonard Engeman. To lead the column, Colonel Engeman designated an infantry platoon and a tank platoon, the latter equipped with the new, experimental T26 Pershing tank mounting a 90-mm. gun.",
+     "de": "Die Kampfgruppe auf dem Weg nach Remagen, gebildet aus dem 27th Armored Infantry Battalion und dem 14th Tank Battalion (ohne eine Kompanie), stand unter dem Kommandeur des Panzerbataillons, Oberstleutnant Leonard Engeman. An die Spitze der Kolonne stellte Oberst Engeman einen Infanteriezug und einen Panzerzug, diesen ausgerüstet mit dem neuen, noch in Erprobung befindlichen T26 Pershing mit einer 9-cm-Kanone.",
+     "note": "„experimental“: der Pershing war im März 1945 erst wenige Wochen an der Front. Im Film nennt Engeman den Führer der Vorhut „Lieutenant Grimble“ (nach Gehör; siehe Einheit 24).",
+     "note_en": "‘Experimental’: the Pershing had been at the front for only a few weeks in March 1945. In the film Engeman names the leader of the advance guard ‘Lieutenant Grimble’ (by ear; see unit 24)."
+    },
+    {
+     "n": 7,
+     "pg": "S. 212–213",
+     "titel": "Aufbruch um 8.20 Uhr",
+     "titel_en": "Departure at 0820",
+     "orig": "Because bulldozers had to clear rubble from the roads leading out of Stadt Meckenheim before the armored vehicles could pass, Task Force Engeman got a fairly late start on 7 March. The column began to move only at 0820, but the Germans apparently gained nothing from the delay. The first opposition—desultory artillery and small arms fire—developed more than three miles from the starting point. Another mile and a half to the east the column turned south, and just before noon entered a big patch of woods west of Remagen. Here and there little clusters of Germans passed, hands behind their heads, anxious to give themselves up to the first Americans who would take the time to deal with them.",
+     "de": "Weil Planierraupen erst den Schutt von den Straßen aus Stadt Meckenheim räumen mussten, ehe die Panzerfahrzeuge durchkamen, brach die Task Force Engeman am 7. März ziemlich spät auf. Die Kolonne setzte sich erst um 8.20 Uhr in Bewegung, aber die Deutschen gewannen durch die Verzögerung offenbar nichts. Der erste Widerstand, vereinzeltes Artillerie- und Gewehrfeuer, kam mehr als drei Meilen vom Ausgangspunkt. Anderthalb Meilen weiter östlich bog die Kolonne nach Süden ab und erreichte kurz vor Mittag ein großes Waldstück westlich von Remagen. Hier und da kamen kleine Gruppen Deutscher vorbei, die Hände hinter dem Kopf, begierig, sich den ersten Amerikanern zu ergeben, die sich die Zeit nahmen, sich um sie zu kümmern."
+    },
+    {
+     "n": 8,
+     "pg": "S. 213",
+     "titel": "Kurz vor 13 Uhr: „still stood“",
+     "titel_en": "Shortly before 1300: ‘still stood’",
+     "orig": "A few minutes before 1300, the leading infantry platoon commander, 2d Lt. Emmet J. Burrows, emerged from the woods on a high bluff overlooking Remagen. Below him, the view of the Rhine gorge, even in the haze of 7 March, was spectacular.\n\nThe railroad bridge just outside Remagen, Lieutenant Burrows took in at a glance, still stood.",
+     "de": "Wenige Minuten vor 13 Uhr trat der Führer des vordersten Infanteriezuges, Leutnant Emmet J. Burrows, auf einer hohen Steilhöhe über Remagen aus dem Wald. Unter ihm bot das Rheintal, selbst im Dunst des 7. März, einen großartigen Anblick.\n\nDie Eisenbahnbrücke gleich vor Remagen, das erfasste Leutnant Burrows auf einen Blick, stand noch."
+    }
+   ]
+  },
+  {
+   "id": "hoehe",
+   "titel": "Auf der Höhe über Remagen",
+   "titel_en": "On the heights above Remagen",
+   "zk": "7. März · Höhe",
+   "zk_en": "7 March · Heights",
+   "blurb": "Erst der Wunsch, die Fliehenden auf der Brücke zu beschießen; dann Hoges Rechnung, ein Bataillon gegen einen Zug; dann die Meldung aus Sinzig, um 16 Uhr werde gesprengt.",
+   "blurb_en": "First the wish to shell those fleeing across the bridge; then Hoge's reckoning, a battalion against a platoon; then the message from Sinzig that the bridge would be blown at 1600.",
+   "plates": [
+    "mac1973_timmerman"
+   ],
+   "units": [
+    {
+     "n": 9,
+     "pg": "S. 214–215",
+     "titel": "Feuer auf die Brücke?",
+     "titel_en": "Fire on the bridge?",
+     "orig": "On the hill above Remagen, Lieutenant Burrows's excitement at discovering the bridge intact had brought his company commander, 1st Lt. Karl H. Timmerman, hurrying to the vantage point at the edge of the woods. Timmerman in turn called for the task force commander, Colonel Engeman.\n\nThe task force commander's first reaction was much like that of Burrows and Timmerman, awe and surprise tempered by a sharp desire to get artillery time fire on the bridge immediately to hamper the German retreat. Supporting artillery nevertheless declined to fire, citing reports, actually erroneous, that friendly troops already were too close to the bridge.",
+     "de": "Auf dem Hügel über Remagen hatte Leutnant Burrows' Aufregung über die unversehrte Brücke seinen Kompaniechef, Oberleutnant Karl H. Timmerman, eilig an den Aussichtspunkt am Waldrand gebracht. Timmerman wiederum rief nach dem Kommandeur der Kampfgruppe, Oberst Engeman.\n\nDessen erste Reaktion glich der von Burrows und Timmerman: Staunen und Überraschung, gedämpft durch den dringenden Wunsch, sofort Artilleriefeuer mit Zeitzündern auf die Brücke zu legen, um den deutschen Rückzug zu behindern. Die unterstützende Artillerie lehnte das Feuer dennoch ab, unter Berufung auf Meldungen, in Wahrheit irrige, eigene Truppen seien schon zu nah an der Brücke.",
+     "note": "Der erste Gedanke galt nicht der Einnahme, sondern dem Beschuss der Fliehenden auf der Brücke: deutsche Soldaten, Fahrzeuge, Pferdegespanne (vgl. MacDonald S. 213).",
+     "note_en": "The first thought was not capture but shelling those fleeing across the bridge: German soldiers, vehicles, horse teams (cf. MacDonald p. 213)."
+    },
+    {
+     "n": 10,
+     "pg": "S. 215",
+     "orig": "As Colonel Engeman directed Lieutenant Timmerman to start his infantry company moving cross-country into Remagen with the platoon of Pershing tanks to follow down the winding little road from the bluff, CCB's operations officer, Maj. Ben Cothran, arrived on the scene. Like the others before him, he got a tingling shock of excitement as he emerged from the woods and saw the Rhine below him, the Remagen bridge still standing.\n\n“My God!” Cothran exclaimed. “I've got to get the Old Man.”",
+     "de": "Während Oberst Engeman Leutnant Timmerman anwies, seine Infanteriekompanie querfeldein nach Remagen zu führen und den Zug Pershing-Panzer die gewundene kleine Straße von der Höhe folgen zu lassen, traf der Operationsoffizier von CCB, Major Ben Cothran, ein. Wie die anderen vor ihm durchfuhr ihn ein prickelnder Schreck, als er aus dem Wald trat und unter sich den Rhein sah, die Brücke von Remagen noch stehend.\n\n„Mein Gott!“, rief Cothran. „Ich muss den Alten holen.“",
+     "note": "Die wörtlichen Reden in diesem Abschnitt übernimmt MacDonald nach eigener Angabe (Anm. 10) aus Ken Hechler, The Bridge at Remagen (1957); Hechler hatte die Beteiligten 1945 als Armeehistoriker befragt. Sein Buch ist geschützt und wird hier nur über MacDonald zitiert.",
+     "note_en": "MacDonald states (n. 10) that the direct quotations in this section come from Ken Hechler, The Bridge at Remagen (1957); Hechler had interviewed the participants in 1945 as an army historian. His book is protected and is quoted here only through MacDonald."
+    },
+    {
+     "n": 11,
+     "pg": "S. 215",
+     "titel": "Hoges Rechnung",
+     "titel_en": "Hoge's reckoning",
+     "orig": "He was referring to Brig. Gen. William M. Hoge, the CCB commander. In keeping with the theory that the other column of the combat command heading for the Ahr was making the main effort, Hoge had followed closely behind that thrust. In response to Cothran's radio report, he tore cross-country to the scene.\n\nHe might lose a battalion, General Hoge mused, if his men crossed the bridge before the Germans blew it. If they destroyed it while his men were in the act of crossing, he probably would lose a platoon. On the other hand . . . .\n\nTurning to Colonel Engeman, Hoge said, “I want you to get to that bridge as soon as possible.”",
+     "de": "Er meinte Brigadegeneral William M. Hoge, den Kommandeur von CCB. Der Annahme gemäß, die andere, auf die Ahr angesetzte Kolonne trage das Schwergewicht, war Hoge dicht hinter jenem Stoß gefolgt. Auf Cothrans Funkmeldung jagte er querfeldein zum Ort.\n\nEr könne ein Bataillon verlieren, überlegte General Hoge, wenn seine Männer die Brücke überquerten, bevor die Deutschen sie sprengten. Zerstörten sie sie, während seine Männer gerade hinübergingen, verlöre er wahrscheinlich einen Zug. Andererseits …\n\nZu Oberst Engeman gewandt, sagte Hoge: „Ich will, dass Sie so schnell wie möglich an diese Brücke kommen.“",
+     "note": "Ein Bataillon gegen einen Zug: Die Rechnung in Menschenleben, die das Begleitspiel aufnimmt. Die wörtlichen Reden in diesem Abschnitt übernimmt MacDonald nach eigener Angabe (Anm. 10) aus Ken Hechler, The Bridge at Remagen (1957); Hechler hatte die Beteiligten 1945 als Armeehistoriker befragt. Sein Buch ist geschützt und wird hier nur über MacDonald zitiert.",
+     "note_en": "A battalion against a platoon: the reckoning in human lives that the companion game takes up. MacDonald states (n. 10) that the direct quotations in this section come from Ken Hechler, The Bridge at Remagen (1957); Hechler had interviewed the participants in 1945 as an army historian. His book is protected and is quoted here only through MacDonald."
+    },
+    {
+     "n": 12,
+     "pg": "S. 215",
+     "titel": "15.15 Uhr: „precisely at 1600“",
+     "titel_en": "1515: ‘precisely at 1600’",
+     "orig": "A short while later, at 1515, a message arrived from CCB's other column, which earlier had found a bridge across the Ahr River at Sinzig and had fought its way across. In Sinzig the men had discovered a civilian who insisted that the Germans at Remagen intended to blow the Ludendorff railroad bridge precisely at 1600. Although the Germans in fact had no specific time schedule, the civilian's report nevertheless spurred General Hoge to urge Task Force Engeman to greater speed in seizing the bridge at Remagen.",
+     "de": "Kurz darauf, um 15.15 Uhr, kam eine Meldung von der anderen Kolonne von CCB, die zuvor bei Sinzig eine Brücke über die Ahr gefunden und sich hinübergekämpft hatte. In Sinzig hatten die Männer einen Zivilisten aufgetan, der darauf beharrte, die Deutschen in Remagen wollten die Ludendorff-Eisenbahnbrücke genau um 16 Uhr sprengen. Obwohl die Deutschen tatsächlich keinen festen Zeitplan hatten, trieb die Meldung des Zivilisten General Hoge dazu, die Task Force Engeman zu noch größerer Eile bei der Einnahme der Brücke anzuhalten.",
+     "note": "Im Film erinnert sich Engeman an dieselbe Meldung: „the bridge would be blown at 4 o'clock“ (Einheit 23). Wer der Zivilist war, sagt MacDonald nicht.",
+     "note_en": "In the film Engeman remembers the same message: ‘the bridge would be blown at 4 o'clock’ (unit 23). MacDonald does not say who the civilian was."
+    }
+   ]
+  },
+  {
+   "id": "uebergang",
+   "titel": "Über die Brücke",
+   "titel_en": "Across the bridge",
+   "zk": "7. März · Übergang",
+   "zk_en": "7 March · Crossing",
+   "blurb": "Gegen 16 Uhr: die Sperrladung, die Sprengung, die Brücke hebt sich und bleibt stehen. Über die Fußwege, von Träger zu Träger, die Pioniere hinter den Schützen, Drabik als erster drüben.",
+   "blurb_en": "Around 1600: the ditch charge, the demolition, the bridge lifts and stays standing. Along the footpaths, from girder to girder, the engineers behind the riflemen, Drabik the first across.",
+   "plates": [
+    "mac1973_drabik",
+    "adc3612c_tuerme"
+   ],
+   "units": [
+    {
+     "n": 13,
+     "pg": "S. 215–216",
+     "titel": "Gegen 16 Uhr: die Sperrladung",
+     "titel_en": "Around 1600: the ditch charge",
+     "orig": "Having fought through the town of Remagen against an occasional die-hard German defender, Lieutenant Timmerman, his infantrymen, and the supporting platoon of tanks neared the bridge around 1600. As they approached, dodging occasional small arms and 20-mm. fire from the towers, a volcano of rocks, dirt, and noise erupted. Captain Friesenhahn on his own initiative, when he saw the Americans appear, had exploded the charge designed to prevent tanks from reaching the bridge. Timmerman and his men could see the Germans on the other side of the river scurrying to and fro, apparently getting ready to blow the bridge itself.",
+     "de": "Nachdem sie sich gegen vereinzelte verbissene deutsche Verteidiger durch die Stadt Remagen gekämpft hatten, näherten sich Leutnant Timmerman, seine Infanteristen und der begleitende Panzerzug gegen 16 Uhr der Brücke. Als sie herankamen, dem gelegentlichen Gewehr- und 2-cm-Feuer aus den Türmen ausweichend, brach ein Vulkan aus Steinen, Erde und Lärm los. Hauptmann Friesenhahn hatte, als er die Amerikaner auftauchen sah, aus eigenem Entschluss die Ladung gezündet, die Panzer von der Brücke fernhalten sollte. Timmerman und seine Männer sahen die Deutschen am anderen Ufer hin und her hasten, offenbar bereit, die Brücke selbst zu sprengen.",
+     "note": "Was auf dem Ostufer geschah, Scheller, Bratge und Friesenhahn im Tunnel, der Schlüssel, die Zündschnur, steht in Modul 3.",
+     "note_en": "What happened on the east bank, Scheller, Bratge and Friesenhahn in the tunnel, the key, the primer cord, is in module 3."
+    },
+    {
+     "n": 14,
+     "pg": "S. 216–217",
+     "titel": "Die Sprengung",
+     "titel_en": "The demolition",
+     "orig": "Lieutenant Timmerman had barely finished the order to his men of Company A, 27th Armored Infantry Battalion, to storm across the railroad bridge when the explosion came. Some men flung themselves to the ground for protection. Others watched in awe as the big span lifted and a giant cloud of dust and thick black smoke rose. Moments later, like Friesenhahn and the Germans on the east bank, they saw in incredible surprise that the bridge still stood.",
+     "de": "Leutnant Timmerman hatte seinen Männern der Kompanie A, 27th Armored Infantry Battalion, kaum den Befehl gegeben, die Eisenbahnbrücke im Sturm zu nehmen, als die Explosion kam. Einige warfen sich zu Boden. Andere sahen ehrfürchtig zu, wie sich der große Bogen hob und eine riesige Wolke aus Staub und dickem schwarzem Rauch aufstieg. Augenblicke später sahen sie, wie Friesenhahn und die Deutschen auf dem Ostufer, in ungläubigem Staunen, dass die Brücke noch stand."
+    },
+    {
+     "n": 15,
+     "pg": "S. 217",
+     "titel": "Über die Fußwege",
+     "titel_en": "Along the footpaths",
+     "orig": "As the smoke and dust cleared, Timmerman could discern that even though the explosion had torn big holes in the planking over the railroad tracks, the footpaths on either side were intact. Signaling his platoon leaders, he again ordered attack.\n\nBobbing and weaving, dashing from the cover of one metal girder to another, the men made their way onto the bridge. Machine gun fire from the towers near the east bank spattered among them, but return fire from the riflemen themselves and from the big tanks on the Remagen side kept the German fire down. With a few well-placed rounds, the Pershings silenced German riflemen firing from a half-submerged barge in the river.",
+     "de": "Als sich Rauch und Staub verzogen, erkannte Timmerman, dass die Explosion zwar große Löcher in die Bohlen über den Gleisen gerissen hatte, die Fußwege zu beiden Seiten aber heil waren. Er gab seinen Zugführern ein Zeichen und befahl erneut den Angriff.\n\nGeduckt und im Zickzack, von der Deckung eines Stahlträgers zum nächsten springend, arbeiteten sich die Männer auf die Brücke vor. Maschinengewehrfeuer aus den Türmen am Ostufer prasselte zwischen sie, aber das Gegenfeuer der Schützen selbst und der großen Panzer auf der Remagener Seite hielt das deutsche Feuer nieder. Mit einigen gut gezielten Schüssen brachten die Pershings deutsche Schützen zum Schweigen, die von einem halb versunkenen Lastkahn im Fluss feuerten."
+    },
+    {
+     "n": 16,
+     "pg": "S. 217",
+     "titel": "Die Pioniere",
+     "titel_en": "The engineers",
+     "orig": "Close behind the first riflemen went two sergeants and a lieutenant from the engineer detachment operating with Task Force Engeman. Working swiftly, the engineers cut every wire they could find that might possibly lead to additional demolitions. They shot apart heavy cables with their carbines.",
+     "de": "Dicht hinter den ersten Schützen gingen zwei Sergeants und ein Leutnant der Pionierabteilung, die mit der Task Force Engeman eingesetzt war. Rasch schnitten die Pioniere jeden Draht durch, den sie fanden und der zu weiteren Sprengladungen führen konnte. Schwere Kabel zerschossen sie mit ihren Karabinern.",
+     "note": "MacDonald nennt die drei nicht. Im Film sprechen sie selbst: Leutnant Mott und die Sergeants Dorland und Reynolds (nach Gehör; Einheiten 26–28).",
+     "note_en": "MacDonald does not name the three. In the film they speak for themselves: Lieutenant Mott and Sergeants Dorland and Reynolds (by ear; units 26–28)."
+    },
+    {
+     "n": 17,
+     "pg": "S. 217",
+     "titel": "Drabik",
+     "titel_en": "Drabik",
+     "orig": "Nearing the far end, several men digressed to clean out the machine gunners from the towers, while others continued to the east bank. The first man to set foot beyond the Rhine was an assistant squad leader, Sgt. Alex Drabik. Others were only moments behind, including the first officer to cross, the Company A commander, Lieutenant Timmerman.",
+     "de": "Gegen das andere Ende hin bogen einige Männer ab, um die Maschinengewehrschützen aus den Türmen zu holen, während andere zum Ostufer weiterliefen. Der erste, der jenseits des Rheins den Fuß an Land setzte, war ein stellvertretender Gruppenführer, Sergeant Alex Drabik. Andere folgten nur Augenblicke später, darunter der erste Offizier, der hinüberkam, der Chef der Kompanie A, Leutnant Timmerman."
+    },
+    {
+     "n": 18,
+     "pg": "S. 217",
+     "titel": "Der Tunnel ergibt sich",
+     "titel_en": "The tunnel surrenders",
+     "orig": "As Timmerman's men spread out on the east bank and one platoon began the onerous task of climbing the precipitous Erpeler Ley, Major Scheller in the railroad tunnel tried time after time to contact his higher headquarters to report that the bridge still stood. Failing that, he mounted a bicycle and rode off to report in person. As American troops appeared at both ends of the tunnel, Captain Bratge and the other Germans inside, including the engineer officer, Captain Friesenhahn, surrendered.",
+     "de": "Während sich Timmermans Männer auf dem Ostufer ausbreiteten und ein Zug den mühsamen Aufstieg an der steilen Erpeler Ley begann, versuchte Major Scheller im Eisenbahntunnel immer wieder, seine vorgesetzte Dienststelle zu erreichen und zu melden, dass die Brücke noch stand. Als das misslang, stieg er auf ein Fahrrad und fuhr davon, um persönlich zu melden. Als an beiden Enden des Tunnels amerikanische Truppen erschienen, ergaben sich Hauptmann Bratge und die anderen Deutschen darin, auch der Pionieroffizier, Hauptmann Friesenhahn.",
+     "note": "Im Tunnel waren auch Zivilisten, Volkssturm und ausländische Arbeiter (MacDonald S. 216, Modul 3). Schellers Fahrt endete vor dem Standgericht (Modul 5).",
+     "note_en": "Civilians, Volkssturm men and foreign workers were also in the tunnel (MacDonald p. 216, module 3). Scheller's ride ended before the court-martial (module 5)."
+    }
+   ]
+  },
+  {
+   "id": "meldung",
+   "titel": "Die Nachricht",
+   "titel_en": "The news",
+   "zk": "7. März · Meldung",
+   "zk_en": "7 March · News",
+   "blurb": "Von Hoge zu Leonard, zum Korps, zu Hodges, zu Bradley, zu Eisenhower: binnen drei Stunden wird aus einem Handstreich gegen den Befehl der neue Schwerpunkt. Nur die Planer zweifeln.",
+   "blurb_en": "From Hoge to Leonard, to corps, to Hodges, to Bradley, to Eisenhower: within three hours a coup against orders becomes the new main effort. Only the planners have doubts.",
+   "plates": [
+    "adc3612c_schild"
+   ],
+   "units": [
+    {
+     "n": 19,
+     "pg": "S. 217–219",
+     "titel": "Gegen einen gültigen Befehl",
+     "titel_en": "Against an order still in effect",
+     "orig": "Hardly had the first of Timmerman's men crossed the Rhine when Colonel Engeman radioed the news to the CCB commander, General Hoge. Because Hoge in the meantime had received word to divert as much strength as possible from Remagen to reinforce the bridgehead over the Ahr River at Sinzig, he would be acting contrary to an order still in effect if, instead, he reinforced the Rhine crossing. He hesitated only momentarily. Send the rest of the armored infantry battalion across immediately, he told Engeman; then he drove to his own command post for a meeting with his division commander, General Leonard.\n\nGeneral Leonard's first reaction to the news was mock concern against Hoge's upset of the plans. “But let's push it,” he added, “and then put it up to Corps.”",
+     "de": "Kaum war der erste von Timmermans Männern über den Rhein, als Oberst Engeman die Nachricht an den Kommandeur von CCB, General Hoge, funkte. Weil Hoge inzwischen die Weisung erhalten hatte, so viele Kräfte wie möglich von Remagen abzuziehen, um den Brückenkopf über die Ahr bei Sinzig zu verstärken, handelte er gegen einen noch gültigen Befehl, wenn er stattdessen den Rheinübergang verstärkte. Er zögerte nur einen Augenblick. Schicken Sie den Rest des Panzergrenadierbataillons sofort hinüber, sagte er Engeman; dann fuhr er zu seinem eigenen Gefechtsstand, um seinen Divisionskommandeur, General Leonard, zu treffen.\n\nGeneral Leonards erste Reaktion war gespielte Sorge darüber, dass Hoge die Pläne umgeworfen hatte. „Aber treiben wir es voran“, fügte er hinzu, „und legen es dann dem Korps vor.“",
+     "note": "Leonards Satz nach Hechler, S. 155 (MacDonalds Anm. 11).",
+     "note_en": "Leonard's words after Hechler, p. 155 (MacDonald's n. 11)."
+    },
+    {
+     "n": 20,
+     "pg": "S. 219",
+     "titel": "16.30 Uhr: „Hot damn!“",
+     "titel_en": "1630: ‘Hot damn!’",
+     "orig": "At 1630 the 9th Armored Division chief of staff telephoned the command post of the III Corps.\n\n“Hot damn!” cried a little sergeant as he transferred the call to the chief of staff and threw down the telephone. “We got a bridge over the Rhine and we're crossing over!”\n\nAlthough the corps commander, General Millikin, was away from the command post, his chief of staff, Col. James H. Phillips, believed he knew how his commander would react. Even before trying to contact Millikin, he told the 9th Armored Division to exploit the crossing.",
+     "de": "Um 16.30 Uhr rief der Stabschef der 9th Armored Division den Gefechtsstand des III. Korps an.\n\n„Verdammt noch mal!“, rief ein kleiner Sergeant, als er das Gespräch an den Stabschef weitergab und den Hörer hinwarf. „Wir haben eine Brücke über den Rhein, und wir gehen hinüber!“\n\nObwohl der Korpskommandeur, General Millikin, nicht im Gefechtsstand war, glaubte sein Stabschef, Oberst James H. Phillips, zu wissen, wie sein Kommandeur reagieren würde. Noch bevor er Millikin zu erreichen suchte, wies er die 9th Armored Division an, den Übergang auszunutzen.",
+     "note": "Der Ruf des Sergeants nach Hechler, S. viii (Anm. 12).",
+     "note_en": "The sergeant's cry after Hechler, p. viii (n. 12)."
+    },
+    {
+     "n": 21,
+     "pg": "S. 219",
+     "titel": "„This will bust him wide open“",
+     "titel_en": "‘This will bust him wide open’",
+     "orig": "When Phillips relayed the news to headquarters of the First Army, General Hodges ordered engineers and boats to Remagen even before calling General Bradley at 12th Army Group for approval.\n\n“Hot dog, Courtney”—General Bradley later recalled his own reaction—“This will bust him wide open . . . . Shove everything you can across it.”\n\nGeneral Eisenhower's reaction was much the same. Only the planners appeared to question in any degree the advisability of exploiting the coup. The SHAEF G–3, General Bull, who happened to be at Bradley's headquarters when the news arrived, remarked that a crossing at Remagen led no place and that a diversion of strength to Remagen would interfere with General Eisenhower's plan to make the main effort north of the Ruhr. Yet Bradley would have none of it, and Eisenhower confirmed that view.",
+     "de": "Als Phillips die Nachricht an das Hauptquartier der First Army weitergab, schickte General Hodges Pioniere und Boote nach Remagen, noch ehe er General Bradley bei der 12th Army Group um Zustimmung anrief.\n\n„Großartig, Courtney“, so erinnerte sich General Bradley später an seine eigene Reaktion, „das reißt ihn weit auf … Schieben Sie hinüber, was Sie können.“\n\nGeneral Eisenhowers Reaktion war ganz ähnlich. Nur die Planer schienen in gewissem Maß zu bezweifeln, ob es klug sei, den Handstreich auszunutzen. Der G-3 von SHAEF, General Bull, der gerade in Bradleys Hauptquartier war, als die Nachricht eintraf, meinte, ein Übergang bei Remagen führe nirgendwohin, und Kräfte nach Remagen abzuzweigen, störe General Eisenhowers Plan, den Hauptstoß nördlich der Ruhr zu führen. Doch Bradley wollte davon nichts wissen, und Eisenhower bestätigte ihn.",
+     "note": "Bradleys Worte nach seinen Erinnerungen, A Soldier's Story, S. 510 (Anm. 13); Bulls Einwand nach ebd. und Toland (Anm. 14). Erinnerte Worte, nicht protokolliert.",
+     "note_en": "Bradley's words after his memoirs, A Soldier's Story, p. 510 (n. 13); Bull's objection after the same and Toland (n. 14). Remembered words, not recorded."
+    },
+    {
+     "n": 22,
+     "pg": "S. 219",
+     "titel": "18.45 Uhr: Genehmigung",
+     "titel_en": "1845: approval",
+     "orig": "“Well, Brad,” Eisenhower said, “we expected to have . . . [four] divisions tied up around Cologne and now those are free. Go ahead and shove over at least five divisions instantly, and anything else that is necessary to make certain of our hold.”\n\nConfirmed approval to exploit the crossing reached the III Corps at 1845 on 7 March, and an hour and a half later General Hodges relieved the corps of the assignment of driving south across the Ahr. General Millikin in the meantime had been making plans to motorize the reserve regiments of his two infantry divisions and rush them to the bridge. Engineers, artillery, antiaircraft—units of all types stirred in the early darkness and headed for Remagen.",
+     "de": "„Nun, Brad“, sagte Eisenhower, „wir haben damit gerechnet, dass … [vier] Divisionen um Köln gebunden sind, und jetzt sind sie frei. Nur zu, schieben Sie sofort mindestens fünf Divisionen hinüber und alles andere, was nötig ist, um uns den Halt zu sichern.“\n\nDie bestätigte Genehmigung, den Übergang auszunutzen, erreichte das III. Korps am 7. März um 18.45 Uhr, und anderthalb Stunden später entband General Hodges das Korps von dem Auftrag, nach Süden über die Ahr vorzustoßen. General Millikin hatte unterdessen geplant, die Reserveregimenter seiner beiden Infanteriedivisionen auf Lastwagen zu setzen und zur Brücke zu werfen. Pioniere, Artillerie, Flak: Einheiten aller Art regten sich in der frühen Dunkelheit und machten sich auf den Weg nach Remagen.",
+     "note": "Eisenhowers Worte nach Crusade in Europe, S. 380, und Butcher (Anm. 15); die Klammer [four] ist MacDonalds, weil Bradley vier Divisionen nennt.",
+     "note_en": "Eisenhower's words after Crusade in Europe, p. 380, and Butcher (n. 15); the bracket [four] is MacDonald's, because Bradley gives four divisions."
+    }
+   ]
+  },
+  {
+   "id": "film",
+   "titel": "Die Männer vor der Kamera",
+   "titel_en": "The men before the camera",
+   "zk": "7. März · Film",
+   "zk_en": "7 March · Film",
+   "blurb": "Nach dem Übergang filmte das Signal Corps die Beteiligten vor der Brücke: der Kommandeur, der Führer der Vorhut, der erste Mann drüben, die drei Pioniere. Sie erzählen anders als die Akten.",
+   "blurb_en": "After the crossing the Signal Corps filmed the participants in front of the bridge: the commander, the leader of the advance guard, the first man across, the three engineers. They tell it differently from the records.",
+   "films": [
+    {
+     "film": "bulletin51",
+     "start": "0:30",
+     "end": "4:48"
+    }
+   ],
+   "units": [
+    {
+     "n": 23,
+     "pg": "0:50–1:58",
+     "pgl": "Film",
+     "titel": "Oberstleutnant Engeman",
+     "titel_en": "Lieutenant Colonel Engeman",
+     "orig": "On March the 7th, at about noon, with Lieutenant Grimble as my advance guard commander, my column came to the hill there which commands a view of this whole valley. I formulated a plan to come into the town and reach the approach to the bridge. Movement began when the head of the column got to the end of the bridge on the other side. The tanks immediately took position and began firing across the bridge to the approaches on this side at the Germans who were on the bridge. The infantry then started moving across. It was about 3.30 at that time. I received a message about that time that the bridge would be blown at 4 o'clock. In a few minutes, two detonations occurred on the bridge. Looking at the bridge, I could see that the infantry was still moving over and that the bridge was still in one piece, and it would be available for our foot troops to move over.",
+     "de": "Am 7. März gegen Mittag kam meine Kolonne, mit Leutnant Grimble als Führer der Vorhut, auf den Hügel dort, von dem aus man das ganze Tal überblickt. Ich fasste den Plan, in die Stadt zu kommen und die Auffahrt zur Brücke zu erreichen. Die Bewegung begann, als die Spitze der Kolonne das Ende der Brücke auf der anderen Seite erreichte. Die Panzer gingen sofort in Stellung und feuerten über die Brücke hinweg auf die Zugänge auf dieser Seite, auf die Deutschen auf der Brücke. Dann ging die Infanterie hinüber. Es war damals etwa halb vier. Etwa zu dieser Zeit erhielt ich die Meldung, die Brücke werde um vier Uhr gesprengt. Wenige Minuten später gab es zwei Detonationen auf der Brücke. Ich sah, dass die Infanterie noch hinüberging und die Brücke noch ganz war, so dass unsere Fußtruppen sie benutzen konnten.",
+     "note": "Gesprochen vor der Brücke; wann, sagt der Film nicht. Engeman sagt „gegen halb vier“; MacDonald setzt die Annäherung „gegen 16 Uhr“ an (Einheit 13). Die „zwei Detonationen“ passen zu MacDonald: erst Friesenhahns Sperrladung, dann die Hauptladung (Einheiten 13–14). „Grimble“ nach Gehör.",
+     "note_en": "Spoken in front of the bridge; the film does not say when. Engeman says ‘about 3.30’; MacDonald puts the approach ‘around 1600’ (unit 13). The ‘two detonations’ fit MacDonald: first Friesenhahn's ditch charge, then the main charge (units 13–14). ‘Grimble’ by ear."
+    },
+    {
+     "n": 24,
+     "pg": "1:58–2:20",
+     "pgl": "Film",
+     "titel": "Leutnant Grimble",
+     "titel_en": "Lieutenant Grimble",
+     "orig": "We went right on down to the bridge. The bridge was manned by German engineers in the towers. There were lots of snipers and some machine guns. The tanks covered the towers and fired on them. The Germans jumped from the tops of the towers to the bridge. They ran back across the bridge, and our infantry pursued them.",
+     "de": "Wir fuhren geradewegs hinunter zur Brücke. In den Türmen saßen deutsche Pioniere. Es gab viele Scharfschützen und einige Maschinengewehre. Die Panzer nahmen die Türme unter Feuer. Die Deutschen sprangen von den Turmspitzen auf die Brücke und rannten über sie zurück, und unsere Infanterie setzte ihnen nach.",
+     "note": "Der Name nach Gehör; MacDonald nennt den Panzerzugführer nicht.",
+     "note_en": "The name by ear; MacDonald does not name the tank platoon leader."
+    },
+    {
+     "n": 25,
+     "pg": "2:28–2:48",
+     "pgl": "Film",
+     "titel": "Sergeant Drabik",
+     "titel_en": "Sergeant Drabik",
+     "orig": "[Sprecher:] First to cross the span were Sergeant Drabik and PFC Jensen. Sergeant Drabik is questioned by the photographer.\n– Oh, is it pretty hot coming over?\n– Plenty hot when he's coming over.\n– Does that bridge seem very long?\n– It looks like … they tell me it's only 250 yards and it looks like miles long.",
+     "de": "[Sprecher:] Als erste überquerten Sergeant Drabik und Gefreiter Jensen die Brücke. Der Kameramann befragt Sergeant Drabik.\n– Na, ist es ziemlich heiß beim Hinüberkommen?\n– Verdammt heiß.\n– Kommt einem die Brücke sehr lang vor?\n– Sie sieht aus … man sagt mir, sie ist nur 250 Yards lang, und sie sieht aus wie meilenlang.",
+     "note": "„Jensen“ nach Gehör. 250 Yards sind rund 230 Meter; MacDonald gibt die Gesamtlänge mit 1 069 Fuß an, rund 326 Meter (S. 213).",
+     "note_en": "‘Jensen’ by ear. 250 yards are about 230 metres; MacDonald gives the overall length as 1,069 feet, about 326 metres (p. 213)."
+    },
+    {
+     "n": 26,
+     "pg": "2:58–3:20",
+     "pgl": "Film",
+     "titel": "Leutnant Mott",
+     "titel_en": "Lieutenant Mott",
+     "orig": "After the infantry had taken the town of Remagen, the task force commander, Lieutenant Colonel Engeman, called me up and ordered me out on the bridge to do some reconnaissance. I was to find out what demolitions were on the bridge and if the bridge would take traffic and if not, how long it would take to repair the bridge for traffic.",
+     "de": "Nachdem die Infanterie die Stadt Remagen genommen hatte, rief mich der Kommandeur der Kampfgruppe, Oberstleutnant Engeman, und schickte mich zur Erkundung auf die Brücke. Ich sollte feststellen, welche Sprengladungen auf der Brücke waren, ob sie Verkehr tragen würde und, wenn nicht, wie lange es dauern würde, sie dafür instand zu setzen.",
+     "note": "Der Name nach Gehör.",
+     "note_en": "The name by ear."
+    },
+    {
+     "n": 27,
+     "pg": "3:28–4:06",
+     "pgl": "Film",
+     "titel": "Sergeant Dorland",
+     "titel_en": "Sergeant Dorland",
+     "orig": "While entering the bridge, searching for demolitions and finding that the first few charges we came to were wired electrically into the main electrical conduit [Wortlaut unsicher] running the length of the bridge, immediately went to the far side of the bridge and beyond the last charge that was on the bridge, severed the main electric cable by rifle fire. I then located the master switch at the far end of the bridge and kind of crossed my fingers and threw it out. Nothing happened then. There was no booby trap of any kind.",
+     "de": "Als wir auf die Brücke gingen und nach Sprengladungen suchten, fanden wir, dass die ersten Ladungen elektrisch an die Hauptleitung [Wortlaut unsicher] angeschlossen waren, die über die ganze Länge der Brücke lief. Ich ging sofort auf die andere Seite, hinter die letzte Ladung auf der Brücke, und zerschoss das Hauptkabel mit dem Gewehr. Dann fand ich am anderen Ende den Hauptschalter, drückte mir sozusagen die Daumen und riss ihn heraus. Es geschah nichts. Es gab keine Sprengfalle.",
+     "note": "Der Name nach Gehör. Dorland spricht vom Zerschießen des Hauptkabels, MacDonald von „heavy cables“, die die Pioniere mit Karabinern zerschossen (Einheit 16). Warum die deutsche Hauptzündung versagt hatte, ist eine andere Frage: Modul 3.",
+     "note_en": "The name by ear. Dorland speaks of shooting through the main cable, MacDonald of ‘heavy cables’ the engineers shot apart with their carbines (unit 16). Why the German main firing circuit had failed is another question: module 3."
+    },
+    {
+     "n": 28,
+     "pg": "4:18–4:48",
+     "pgl": "Film",
+     "titel": "Sergeant Reynolds",
+     "titel_en": "Sergeant Reynolds",
+     "orig": "Sergeant Dorland blew the [unverständlich] cables in through the switch box, started working back this way and we found one main charge about 500 pounds that hadn't been detonated. We neutralized that and worked on this way. We came to the pier. The pier had two big separate wells in it filled with explosives. We cut the wires to that because they were too heavy to lift out and we just kept working back this way until we figured we had all the charges neutralized.",
+     "de": "Sergeant Dorland zerschoss die [unverständlich] Kabel am Schaltkasten, wir arbeiteten uns in diese Richtung zurück und fanden eine Hauptladung von etwa 500 Pfund, die nicht detoniert war. Die machten wir unschädlich und arbeiteten weiter. Wir kamen zum Pfeiler. Der Pfeiler hatte zwei große getrennte Schächte voller Sprengstoff. Die Drähte dazu schnitten wir durch, weil die Ladungen zu schwer zum Herausheben waren, und so arbeiteten wir uns zurück, bis wir glaubten, alle Ladungen unschädlich gemacht zu haben.",
+     "note": "Der Name nach Gehör. 500 Pfund sind rund 230 Kilogramm. Eine nicht detonierte Hauptladung auf der Brücke: ein Befund für Modul 3.",
+     "note_en": "The name by ear. 500 pounds are about 230 kilograms. An undetonated main charge on the bridge: a finding for module 3."
+    }
+   ]
+  }
+ ]
+}

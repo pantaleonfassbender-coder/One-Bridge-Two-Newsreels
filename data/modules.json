@@ -1,5 +1,19 @@
 {
- "shipped": [],
+ "shipped": [
+  {
+   "id": "siebter",
+   "side": "us",
+   "kurz": "2 · Der 7. März",
+   "kurz_en": "2 · 7 March",
+   "warum": "Am Vortag war die Brücke kein Ziel. Kurz vor 13 Uhr sah Leutnant Burrows sie noch stehen, gegen 16 Uhr hob die Sprengung sie an, und sie fiel nicht; Drabik war als erster drüben. Am Abend war aus dem Handstreich gegen den Befehl der neue Schwerpunkt geworden.",
+   "warum_en": "The day before, the bridge was not an objective. Shortly before 1300 Lieutenant Burrows saw it still standing, around 1600 the demolition lifted it, and it did not fall; Drabik was the first across. By evening the coup against orders had become the new main effort.",
+   "quelle": "MacDonald, The Last Offensive (1973), S. 211–219; Combat Bulletin No. 51 (1945), Tonspur.",
+   "quelle_en": "MacDonald, The Last Offensive (1973), pp. 211–219; Combat Bulletin No. 51 (1945), soundtrack.",
+   "datei": "siebter",
+   "zk": "Befehl · Vormarsch · Höhe · Übergang · Meldung · Film",
+   "zk_en": "Order · Advance · Heights · Crossing · News · Film"
+  }
+ ],
  "planned": [
   {
    "id": "bruecke",
@@ -10,16 +24,6 @@
    "warum_en": "A railway bridge built for war, named after Ludendorff, with a tunnel through the Erpeler Ley and a demolition plan from 1938.",
    "quelle": "MacDonald, Kap. XI (Anlage, Tunnel, Ladungen); ein gemeinfreier Baubericht der Jahre 1916–1919 wird noch gesucht.",
    "quelle_en": "MacDonald, ch. XI (layout, tunnel, charges); a public-domain construction report of 1916–1919 is still being sought."
-  },
-  {
-   "id": "siebter",
-   "side": "us",
-   "kurz": "2 · Der 7. März",
-   "kurz_en": "2 · 7 March",
-   "warum": "Kurz vor 13 Uhr sieht Leutnant Burrows die Brücke noch stehen; gegen 16 Uhr ist die Kompanie Timmerman an der Rampe; die Sprengung hebt die Brücke, und sie fällt nicht.",
-   "warum_en": "A few minutes before 1300 Lieutenant Burrows sees the bridge still standing; around 1600 Timmerman's company is at the ramp; the demolition lifts the bridge, and it does not fall.",
-   "quelle": "MacDonald, Kap. XI; Berichte der 9th Armored Division und der Task Force Engeman (27th Armored Infantry Battalion, 14th Tank Battalion; zu prüfen).",
-   "quelle_en": "MacDonald, ch. XI; reports of the 9th Armored Division and Task Force Engeman (27th Armored Infantry Battalion, 14th Tank Battalion; to be checked)."
   },
   {
    "id": "warum",

@@ -1,7 +1,53 @@
 {
- "lede": "Die Tafeln entstehen mit den Modulen: Photographien des Signal Corps, Karten der US Army und Ansichten der Brücke vor 1945, alle gemeinfrei.",
- "lede_en": "The plates are added with the modules: Signal Corps photographs, US Army maps and views of the bridge before 1945, all in the public domain.",
- "credit": "Jede Tafel nennt ihre Vorlage. Photographien und Karten der US-Regierung sind gemeinfrei; ältere Ansichten nur, wenn ihre Schutzfrist abgelaufen ist.",
- "credit_en": "Each plate names its original. Photographs and maps of the US government are in the public domain; older views only where their term of protection has expired.",
- "plates": []
+ "lede": "Photographien, Karten und Filmstandbilder, alle gemeinfrei als Werke der US-Regierung. Jede Tafel nennt ihre Vorlage.",
+ "lede_en": "Photographs, maps and film stills, all in the public domain as works of the US government. Each plate names its original.",
+ "credit": "Photographien und Karten aus MacDonald, The Last Offensive (1973), nach den Seitenbildern des Internet Archive; Standbilder aus Rollen des Signal Corps (National Archives) im Internet Archive. Werke der US-Regierung, gemeinfrei (17 U.S.C. § 105).",
+ "credit_en": "Photographs and maps from MacDonald, The Last Offensive (1973), after the page images of the Internet Archive; stills from Signal Corps reels (National Archives) in the Internet Archive. Works of the US government, in the public domain (17 U.S.C. § 105).",
+ "plates": [
+  {
+   "id": "mac1973_map3",
+   "side": "us",
+   "titel": "Der Brückenkopf Remagen, 7.–24. März 1945",
+   "titel_en": "The Remagen Bridgehead, 7–24 March 1945",
+   "caption": "Karte der US Army: die Front am Abend des 7. März (Linie mit Querstrichen), der Brückenkopf am 13. März und die Front am 24. März; rechts die deutschen Angriffe am 23./24. März. Remagen in der Bildmitte, gegenüber Erpel und Linz.",
+   "caption_en": "US Army map: the front on the evening of 7 March (line with cross-ticks), the bridgehead on 13 March and the front on 24 March; on the right the German attacks of 23–24 March. Remagen in the centre, opposite Erpel and Linz.",
+   "source": "MacDonald, The Last Offensive (1973), Map 3, S. 218 (Zeichnung H. C. Brewer, Jr.); Internet Archive CMHPub791TheLastOffensive."
+  },
+  {
+   "id": "mac1973_timmerman",
+   "side": "us",
+   "titel": "Leutnant Karl H. Timmerman",
+   "titel_en": "Lieutenant Karl H. Timmerman",
+   "caption": "Chef der Kompanie A, 27th Armored Infantry Battalion; nach MacDonald der erste Offizier über die Brücke.",
+   "caption_en": "Commander of Company A, 27th Armored Infantry Battalion; according to MacDonald the first officer across the bridge.",
+   "source": "Photographie der US Army in MacDonald, The Last Offensive (1973), S. 215; Internet Archive CMHPub791TheLastOffensive."
+  },
+  {
+   "id": "mac1973_drabik",
+   "side": "us",
+   "titel": "Sergeant Alex Drabik",
+   "titel_en": "Sergeant Alex Drabik",
+   "caption": "Stellvertretender Gruppenführer in Timmermans Kompanie; nach MacDonald der erste Amerikaner auf dem Ostufer.",
+   "caption_en": "Assistant squad leader in Timmerman's company; according to MacDonald the first American on the east bank.",
+   "source": "Photographie der US Army in MacDonald, The Last Offensive (1973), S. 217; Internet Archive CMHPub791TheLastOffensive."
+  },
+  {
+   "id": "adc3612c_tuerme",
+   "side": "film",
+   "titel": "Infanterie zwischen den Türmen",
+   "titel_en": "Infantry between the towers",
+   "caption": "Soldaten gehen zwischen den Brückentürmen auf die Brücke; rechts am Turm das Schild. Standbild aus der stummen Signal-Corps-Rolle, März 1945.",
+   "caption_en": "Soldiers walk onto the bridge between the towers; on the right, on the tower, the sign. Still from the silent Signal Corps reel, March 1945.",
+   "source": "U.S. Army, Antiaircraft & Troops Moving Up, Remagen, Germany (National Archives, NAID 17415), 3:29; Internet Archive ADC-3612c."
+  },
+  {
+   "id": "adc3612c_schild",
+   "side": "film",
+   "titel": "„Cross the Rhine with dry feet“",
+   "titel_en": "‘Cross the Rhine with dry feet’",
+   "caption": "Das Schild über dem Tordurchgang des Brückenturms: „Cross the Rhine with dry feet – Courtesy of 9th Armd Div“. Standbild aus der stummen Signal-Corps-Rolle, März 1945.",
+   "caption_en": "The sign above the gateway of the bridge tower: ‘Cross the Rhine with dry feet – Courtesy of 9th Armd Div’. Still from the silent Signal Corps reel, March 1945.",
+   "source": "U.S. Army, Antiaircraft & Troops Moving Up, Remagen, Germany (National Archives, NAID 17415), 3:42; Internet Archive ADC-3612c."
+  }
+ ]
 }

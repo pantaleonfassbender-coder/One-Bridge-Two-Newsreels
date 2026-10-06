@@ -4,7 +4,11 @@ Ein zweisprachiger Quellenapparat zur Brücke von Remagen, 7. bis 17. März 1945
 
 *A bilingual documentary apparatus on the bridge at Remagen, 7–17 March 1945: texts and films of the time, the original beside a translation, the films with commentary at time marks. The American and British newsreels brought the bridge to the cinema; the German newsreel was silent. The apparatus does not end with the collapse but with the camps on the Rhine.*
 
-**Stand:** im Aufbau. Neun Module sind geplant (die Brücke, der 7. März, warum sie stand, der Brückenkopf, das fliegende Standgericht, die Angriffe, der Einsturz, zwei Wochenschauen, die Lager am Rhein); die Seite „Texte“ nennt sie mit ihren Quellen, die Seite „Filme“ die Aufnahmen, die Zeitleiste die bisher geprüften Stationen.
+**Stand:** im Aufbau. Abgedruckt:
+
+- **Der 7. März** — Charles B. MacDonald, *The Last Offensive* (1973), S. 211–219, am Seitenbild gelesen, mit deutscher Übersetzung; dazu die Stimmen von Engeman, Drabik und den Pionieren aus *Combat Bulletin No. 51* (1945) nach der Tonspur. Sechs Abschnitte, 28 Einheiten, fünf Tafeln (zwei Photographien und eine Karte aus MacDonald, zwei Standbilder des Signal Corps) und eine Zeitachse der Stunden des 7. März.
+
+Acht weitere Module sind geplant (die Brücke, warum sie stand, der Brückenkopf, das fliegende Standgericht, die Angriffe, der Einsturz, zwei Wochenschauen, die Lager am Rhein). Die Seite „Filme“ zeigt elf Filme mit Zeitmarken und, wo es Ton gibt, einer Abschrift mit Übersetzung.
 
 **Nur Gemeinfreies, und was eingebettet werden darf.** Hauptquelle ist Charles B. MacDonald, *The Last Offensive* (Center of Military History 1973), als Werk der US-Regierung gemeinfrei. Die Filme sind nicht im Repository: Aufnahmen der US-Regierung werden aus dem Internet Archive eingebettet, britische Wochenschauen nur über den offiziellen YouTube-Kanal ihrer Rechteinhaber, beide erst auf Klick. Die Deutsche Wochenschau wird weder gezeigt noch eingebettet. Geschützte Darstellungen (Hechler 1957, der Spielfilm von 1969, die neuere Forschung) werden nur referiert.
 
@@ -12,7 +16,7 @@ Ein zweisprachiger Quellenapparat zur Brücke von Remagen, 7. bis 17. März 1945
 
 ## Aufbau
 
-Statische Site ohne Build-Schritt: `index.html`, `app.js` (Hash-Routen, Sprachumschalter, Filmeinbettung auf Klick), `style.css`, `legal.html`; Daten in `data/` (`modules.json`, `films.json`, `timeline.json`, `compare.json`, `plates.json`, später je Modul eine Datei). Felder mit dem Suffix `_en` tragen die englische Fassung; fehlt sie, zeigt die Site die deutsche.
+Statische Site ohne Build-Schritt: `index.html`, `app.js` (Hash-Routen, Sprachumschalter, Filmeinbettung auf Klick), `style.css`, `legal.html`; Bauskripte in `tools/` (`build-siebter.py`, `viz-siebter.py`, `make-plates.py`); Daten in `data/` (`modules.json`, `films.json`, `timeline.json`, `compare.json`, `plates.json`, später je Modul eine Datei). Felder mit dem Suffix `_en` tragen die englische Fassung; fehlt sie, zeigt die Site die deutsche.
 
 Lokal: `python -m http.server` im Repository, dann `http://localhost:8000/`.
 
