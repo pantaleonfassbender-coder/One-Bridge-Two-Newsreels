@@ -117,7 +117,7 @@ const OVERVIEW = {
       ["Warum stand die Brücke noch?", "Ein Zündkabel, das nach deutscher Meinung ein amerikanischer Treffer durchschlug; Sabotage, die sich nicht ausschließen ließ; ein Sprengbefehl, der erst schriftlich vorliegen musste; Geschütze, die noch über den Fluss sollten. Die Quellen geben mehrere Antworten; keine allein genügt."],
       ["Was zeigten die Wochenschauen?", "Die amerikanische Universal-Wochenschau vom 26. März hieß „Allies Drive Across Rhine to Victory“; eine britische zeigt in Großaufnahme das Schild, das auch eine amerikanische Rohaufnahme festhält: „Cross the Rhine with dry feet – Courtesy of 9th Armd. Div.“ Die beiden letzten Ausgaben der Deutschen Wochenschau zeigten Remagen nicht. Das Schweigen ist selbst ein Befund."],
       ["Wer bezahlte dafür?", "Amerikanische Soldaten und Pioniere, deutsche Soldaten und Zivilisten im Tunnel der Erpeler Ley, vier Offiziere vor einem Standgericht, und die Gefangenen in den Lagern von Remagen und Sinzig."],
-      ["Lässt sich das nachvollziehen?", "Zehn Tage am Rhein. Zwei Lagen, eine Brücke: Eine Reflexion in Entscheidungen. Aus der Lage von Hauptmann Willi Bratge oder des amerikanischen Brückenkopfs, vom 7. bis zum 17. März: was sich entscheiden ließ, was nicht, und was die Tage an Menschen kosteten. Jede Karte verweist auf ihre Stelle in diesem Apparat."]
+      ["Lässt sich das nachvollziehen?", "Zehn Tage am Rhein. Zwei Lagen, eine Brücke: Eine Reflexion in Entscheidungen. Aus der Lage von Hauptmann Willi Bratge oder des amerikanischen Brückenkopfs, vom 7. bis zum 17. März: was sich entscheiden ließ, was nicht, und was die Tage an Menschen kosteten. Jede Karte verweist auf ihre Stelle in diesem Apparat.", [["Zehn Tage am Rhein öffnen", "https://ten-days-on-the-rhine.netlify.app/"], ["auf itch.io", "https://leofassb.itch.io/ten-days-on-the-rhine"]]]
     ],
     none: "Die ersten Module sind in Arbeit; die Seite „Texte“ nennt sie mit ihren Quellen, die Seite „Filme“ die Aufnahmen.",
     have: "Was der Apparat enthält", qs: "Die Fragen"
@@ -131,7 +131,7 @@ const OVERVIEW = {
       ["Why was the bridge still standing?", "A firing cable that Germans believed an American hit had cut; sabotage that could not be ruled out; an order to blow that first had to be in writing; guns that were still meant to cross the river. The sources give several answers; none is enough on its own."],
       ["What did the newsreels show?", "The American Universal newsreel of 26 March was called ‘Allies Drive Across Rhine to Victory’; a British one shows in close-up the sign that American raw footage also records: ‘Cross the Rhine with dry feet – Courtesy of 9th Armd. Div.’ The last two issues of the German newsreel did not show Remagen. The silence is itself a finding."],
       ["Who paid for it?", "American soldiers and engineers, German soldiers and civilians in the tunnel of the Erpeler Ley, four officers before a court-martial, and the prisoners in the camps at Remagen and Sinzig."],
-      ["Can one retrace it?", "Ten Days on the Rhine. Two Situations, One Bridge: A Reflection in Decisions. From the situation of Captain Willi Bratge or the American bridgehead, from 7 to 17 March: what could be decided, what not, and what those days cost in human lives. Every card points to its passage in this apparatus."]
+      ["Can one retrace it?", "Ten Days on the Rhine. Two Situations, One Bridge: A Reflection in Decisions. From the situation of Captain Willi Bratge or the American bridgehead, from 7 to 17 March: what could be decided, what not, and what those days cost in human lives. Every card points to its passage in this apparatus.", [["Open Ten Days on the Rhine", "https://ten-days-on-the-rhine.netlify.app/"], ["on itch.io", "https://leofassb.itch.io/ten-days-on-the-rhine"]]]
     ],
     none: "The first modules are in preparation; the Texts page lists them with their sources, the Films page the footage.",
     have: "What the apparatus contains", qs: "The questions"
@@ -154,7 +154,7 @@ function overview() {
   ${D.mods.shipped.length ? `<div class="grid g2">${D.mods.shipped.map(card).join("")}</div>` : `<p class="fine">${esc(O.none)}</p>`}
 
   <h2>${esc(O.qs)}</h2>
-  <div class="grid g2">${O.q.map(([h, p]) => `<div class="panel"><h3>${esc(h)}</h3><p>${esc(p)}</p></div>`).join("")}</div>`;
+  <div class="grid g2">${O.q.map(([h, p, links]) => `<div class="panel"><h3>${esc(h)}</h3><p>${esc(p)}</p>${links ? `<p>${links.map(([t, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a>`).join(" · ")}</p>` : ""}</div>`).join("")}</div>`;
 }
 
 function card(m) {

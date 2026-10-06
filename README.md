@@ -22,7 +22,7 @@ Dazu eine Zeitleiste mit 17 Stationen, 15 Vergleiche, 25 Tafeln und die Seite �
 
 **Nur Gemeinfreies, und was eingebettet werden darf.** Hauptquelle ist Charles B. MacDonald, *The Last Offensive* (Center of Military History 1973), als Werk der US-Regierung gemeinfrei. Die Filme sind nicht im Repository: Aufnahmen der US-Regierung werden aus dem Internet Archive eingebettet, britische Wochenschauen nur über den offiziellen YouTube-Kanal ihrer Rechteinhaber, beide erst auf Klick. Die Deutsche Wochenschau wird weder gezeigt noch eingebettet. Geschützte Darstellungen (Hechler 1957, der Spielfilm von 1969, die neuere Forschung) werden nur referiert.
 
-**Begleitend:** *Zehn Tage am Rhein – Ten Days on the Rhine. Zwei Lagen, eine Brücke: Eine Reflexion in Entscheidungen* (https://ten-days-on-the-rhine.netlify.app/): aus der Lage von Hauptmann Willi Bratge oder des amerikanischen Brückenkopfs, vom 7. bis zum 17. März 1945.
+**Begleitend:** *Zehn Tage am Rhein – Ten Days on the Rhine. Zwei Lagen, eine Brücke: Eine Reflexion in Entscheidungen* (https://ten-days-on-the-rhine.netlify.app/, auf itch.io: https://leofassb.itch.io/ten-days-on-the-rhine): aus der Lage von Hauptmann Willi Bratge oder des amerikanischen Brückenkopfs, vom 7. bis zum 17. März 1945.
 
 ## Aufbau
 
